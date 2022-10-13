@@ -74,8 +74,10 @@ Clear the SQL table every 7 days.
 * ARBY operated best when there was an equal distribution of BTC amongst each exchange.
     * arbySOUL would analyze the price required to redistribute balances. A simple expense could be paid in order to distribute the balances evenly and optimize revenue growth.
 
-* Each trade created a txt file with each step logged and timestamped. An additional txt file was created to log ALL trades of that day, and each day had it’s own folder.
+* Each trade created a txt file with each step logged and timestamped. An additional txt file was created to log ALL trades of that day, and each day had it’s own folder. This was done via bash scripts.
     * This was to help troubleshoot issues and optimize profitable trades.
     * The state of each trade is saved on an excel sheet, to allow multiple trades to occur at once. Active trades are skipped by arbyMONITOR.
+    
+* A snapshot of each balance on all the exchanges occurs every 30 minutes via arbySOUL and combined to give a “master balance” which would increase over time. This master balance was then used for regression analysis with data software.
 
 ![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/arbyS%20copy%202.jpg)
