@@ -734,7 +734,7 @@ def fetch_locks():
 
 #▀▄▀▄▀▄▀▄▀▄▀▄ E X T R A  P A R A M E T E R S ▄▀▄▀▄▀▄▀▄▀▄▀
 
-chumpapi = 'ab32kvuzkribcuukqgu27f8msz58te'
-chumpid = "ukqjcj32ekos21rmdppu6t2t8kozio"
+chumpapi = ''
+chumpid = ""
 chumpapp = Application(chumpapi)
 chumpuser = chumpapp.get_user(chumpid)
