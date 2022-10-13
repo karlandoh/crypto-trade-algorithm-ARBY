@@ -18,7 +18,7 @@ import datetime
 
 class postgresql():
 	def __init__(self):
-		self.login_info = f"dbname='memory' user= 'postgres' host='localhost' password='Ghana111' port='5432'"
+		self.login_info = f"dbname='memory' user= 'postgres' host='localhost' password='' port='5432'"
 
 	def connect(self):
 		
