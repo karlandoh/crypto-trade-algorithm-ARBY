@@ -19,7 +19,7 @@ from arbyGOODIE import server_ip
 
 class postgresql(): #THIS DATABASE IS THE WHEEL.
 	def __init__(self):
-		self.login_info = f"dbname='online' user= 'postgres' host='{server_ip}' password='Ghana111' port='5432'"
+		self.login_info = f"dbname='online' user= 'postgres' host='{server_ip}' password='' port='5432'"
 		print(f'Successfully connected to database: ONLINE')
 
 	def connect(self):
