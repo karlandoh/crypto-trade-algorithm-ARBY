@@ -3,7 +3,7 @@
 I started this project in 2018. It is a sophisticated cryptocurrency arbitrage algorithm that consists of three components. It was quite profitable throughout the years of 2018 to 2020, and was able to profit on opportunities with up to 50000% gains.
 
 It was created with Python, SQL, bash scripts.
-The API system was powered mostly by [CCXT trading library](https://github.com/ccxt/ccxt). I had also contributed towards fixing bugs for some exchange APIs.
+The API system was powered mostly by [CCXT trading library](https://github.com/ccxt/ccxt). In addition, I had also contributed towards fixing bugs for the python fork of the CCXT library.
 
 
 ![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/Final%20Project%20copy%202.jpg)
