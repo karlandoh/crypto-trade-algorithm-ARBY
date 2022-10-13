@@ -18,7 +18,7 @@ from datetime import datetime
 
 class postgresql():
 	def __init__(self):
-		self.login_info = f"dbname='exchange' user= 'postgres' host='{server_ip}' password='Ghana111' port='5432'"
+		self.login_info = f"dbname='exchange' user= 'postgres' host='{server_ip}' password='' port='5432'"
 		self.today = str(datetime.today().strftime('%Y-%m-%d'))
 		print(f'Successfully connected to EXCHANGEINFO database. Lets fetch some exchange data!')
 
