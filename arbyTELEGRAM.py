@@ -7,8 +7,8 @@ from datetime import datetime
 import arbyPOSTGREStelegram
 #from ipdb import set_trace
 
-telegram_bot_token = '882090555:AAFooaWiLIY69y0Xc9Eb79u-0yPeTsRv2TM'
-telegram_chat_id = 318538472
+telegram_bot_token = ''
+telegram_chat_id = ''
 telegram_bot = telebot.TeleBot(token=telegram_bot_token)
 telegram_queue = queue.Queue()
 
