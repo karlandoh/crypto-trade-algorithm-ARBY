@@ -10,7 +10,7 @@ from datetime import datetime
 
 class postgresql():
 	def __init__(self):
-		self.login_info = f"dbname='magic' user= 'postgres' host='{server_ip}' password='Ghana111' port='5432'"
+		self.login_info = f"dbname='magic' user= 'postgres' host='{server_ip}' password='' port='5432'"
 
 	def connect(self):
 		connection = pg.connect(self.login_info)
