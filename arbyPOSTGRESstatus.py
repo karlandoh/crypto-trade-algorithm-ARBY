@@ -5,11 +5,11 @@ import psycopg2 as pg
 import numpy as np
 #from arbyGOODIE import server_ip
 
-server_ip = '192.168.11.120'
+server_ip = ''
 
 class postgresql(): #THIS DATABASE IS THE WHEEL.
 	def __init__(self):
-		self.login_info = f"dbname='status' user= 'postgres' host='{server_ip}' password='Ghana111' port='5432'"
+		self.login_info = f"dbname='status' user= 'postgres' host='{server_ip}' password='' port=''"
 		print(f'Successfully connected to STATUS database.')	
 
 	def deleteAll(self):
