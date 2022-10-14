@@ -72,12 +72,12 @@ Clear the SQL table every 7 days.
 
 arbySOUL was able to monitor scenarios in which the rate of increase of my balance would dip below it's regression. In addition, it was able to analyze scenarios in which the arbitrage opportunity would disappear before I was able to capitalize off it (due to other competitive bots).
 
-*   There were a series of options available for every failed step. Sometimes money could be made from a failed trade due to price analysis!
-    * This was done by modularizing each of the 5 trade steps of arbyTRADE_sim in order to either:
-    * Evaluate the gain or loss if the trade was completed given the updated orderbook. A less than 5% loss was accepted and considered a “write off.”
-    * Evaluate a “reversal” where the currency was sold at the current exchange.
-    * Simply wait until the orderbook presents an opportunity for “break even, gain or less than 5% loss.”
-    * The options were then shown via arbyTELEGRAM, and up to me to decide.
+* There were a series of options available for every failed step. Sometimes money could be made from a failed trade due to price analysis!
+   * This was done by modularizing each of the 5 trade steps of arbyTRADE_sim in order to either:
+      * Evaluate the gain or loss if the trade was completed given the updated orderbook. A less than 5% loss was accepted and considered a “write off.”
+      * Evaluate a “reversal” where the currency was sold at the current exchange.
+      * Simply wait until the orderbook presents an opportunity for “break even, gain or less than 5% loss.”
+   * The options were then shown via arbyTELEGRAM, and up to me to decide.
 
 * ARBY operated best when there was an equal distribution of BTC amongst each exchange.
     * arbySOUL would analyze the price required to redistribute balances. A simple expense could be paid in order to distribute the balances evenly and optimize revenue growth.
