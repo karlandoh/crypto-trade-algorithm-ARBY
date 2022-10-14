@@ -1,2 +1,0 @@
-{'timestamp': 'Nov 07 2019 03:36:01 AM', 'soldier': 28, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Nov 07 2019 03:36:12 AM', 'soldier': 28, 'log_info': {'action': 'place_orders_start', 'exchange': 'southxchange', 'currency': 'SNBL/BTC', 'orders': {'strategy': [{'price': 2e-08, 'quantity': 190000.0, 'smallmode': False}], 'sumarrayBTC': [0.0038], 'totalBTC': 0.0038, 'totalquantity': 190000.0, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}

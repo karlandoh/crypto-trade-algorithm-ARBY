@@ -1,2 +1,0 @@
-{'timestamp': 'Sep 04 2019 06:56:53 PM', 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Sep 04 2019 06:57:20 PM', 'log_info': {'action': 'place_orders_start', 'exchange': 'lykke', 'currency': 'LTC/BTC', 'orders': {'strategy': [{'price': 0.00634685, 'quantity': 0.51994296, 'smallmode': False}], 'sumarrayBTC': [0.0032999999756759997], 'totalBTC': 0.0032999999756759997, 'totalquantity': 0.51994296, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}

@@ -1,2 +1,0 @@
-{'timestamp': 'May 15 2020 10:11:28 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'May 15 2020 10:11:31 PM', 'soldier': 4, 'log_info': {'action': 'place_orders_start', 'exchange': 'bittrex', 'currency': 'XDN/BTC', 'orders': {'strategy': [{'price': 3e-08, 'quantity': 175943.66666666, 'smallmode': False}], 'sumarrayBTC': [0.005278309999999799], 'totalBTC': 0.005278309999999799, 'totalquantity': 175943.66666666, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}

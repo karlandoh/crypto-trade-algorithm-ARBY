@@ -1,2 +1,0 @@
-{'timestamp': 'Dec 06 2019 04:00:14 PM', 'soldier': 44, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Dec 06 2019 04:00:21 PM', 'soldier': 44, 'log_info': {'action': 'place_orders_start', 'exchange': 'bitmax', 'currency': 'TRX/BTC', 'orders': {'strategy': [{'price': 1.966e-06, 'quantity': 13631.0, 'smallmode': False}], 'sumarrayBTC': [0.026798546], 'totalBTC': 0.026798546, 'totalquantity': 13631.0, 'quantityprecision': 0, 'priceprecision': 9, 'eccentric': False}}}

@@ -1,4 +1,0 @@
-{'timestamp': 'Apr 30 2020 01:17:15 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Apr 30 2020 01:17:20 AM', 'soldier': 17, 'log_info': {'action': 'place_orders_start', 'exchange': 'huobipro', 'currency': 'ALGO/BTC', 'orders': {'strategy': [{'price': 2.45e-05, 'quantity': 174.6959183673469, 'smallmode': False}], 'sumarrayBTC': [0.004280049999999999], 'totalBTC': 0.004280049999999999, 'totalquantity': 174.6959183673469, 'quantityprecision': 13, 'priceprecision': 8, 'eccentric': False}}}
-{'timestamp': 'Apr 30 2020 03:55:27 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Apr 30 2020 03:55:29 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

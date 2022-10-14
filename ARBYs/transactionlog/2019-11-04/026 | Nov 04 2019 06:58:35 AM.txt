@@ -1,2 +1,0 @@
-{'timestamp': 'Nov 04 2019 06:58:37 AM', 'soldier': 12, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Nov 04 2019 06:58:44 AM', 'soldier': 12, 'log_info': {'action': 'place_orders_start', 'exchange': 'hitbtc2', 'currency': 'DCT/BTC', 'orders': {'strategy': [{'price': 3.011e-06, 'quantity': 852.0, 'smallmode': False}], 'sumarrayBTC': [0.0025653720000000002], 'totalBTC': 0.0025653720000000002, 'totalquantity': 852.0, 'quantityprecision': 0, 'priceprecision': 9, 'eccentric': False}}}

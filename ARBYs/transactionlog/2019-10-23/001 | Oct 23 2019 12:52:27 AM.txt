@@ -1,5 +1,0 @@
-{'timestamp': 'Oct 23 2019 12:52:29 AM', 'soldier': 22, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Oct 23 2019 12:52:36 AM', 'soldier': 22, 'log_info': {'action': 'place_orders_start', 'exchange': 'livecoin', 'currency': 'PTI/BTC', 'orders': {'strategy': [{'price': 3.5e-07, 'quantity': 1000.0, 'smallmode': False}, {'price': 3.5e-07, 'quantity': 5200.17529694, 'smallmode': False}, {'price': 3.6e-07, 'quantity': 205.16290575, 'smallmode': False}], 'sumarrayBTC': [0.00035, 0.001820061353929, 7.385864607e-05], 'totalBTC': 0.002243919999999, 'totalquantity': 6405.338202690001, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
-{'timestamp': 'Oct 23 2019 01:25:37 AM', 'soldier': 22, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Oct 23 2019 01:27:43 AM', 'soldier': 22, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Oct 23 2019 01:27:53 AM', 'soldier': 22, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

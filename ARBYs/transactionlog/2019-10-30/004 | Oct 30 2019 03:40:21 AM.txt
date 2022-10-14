@@ -1,4 +1,0 @@
-{'timestamp': 'Oct 30 2019 03:40:22 AM', 'soldier': 22, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Oct 30 2019 03:40:26 AM', 'soldier': 22, 'log_info': {'action': 'place_orders_start', 'exchange': 'bittrex', 'currency': 'SPC/BTC', 'orders': {'strategy': [{'price': 2.2e-07, 'quantity': 39622.23935423, 'smallmode': False}, {'price': 2.5e-07, 'quantity': 332.42936827, 'smallmode': False}], 'sumarrayBTC': [0.0087168926579306, 8.310734206749999e-05], 'totalBTC': 0.0087999999999981, 'totalquantity': 39954.6687225, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
-{'timestamp': 'Oct 30 2019 03:55:57 AM', 'soldier': 22, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Oct 30 2019 03:56:31 AM', 'soldier': 22, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

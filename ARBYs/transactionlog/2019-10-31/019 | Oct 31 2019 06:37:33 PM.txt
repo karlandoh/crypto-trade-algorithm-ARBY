@@ -1,4 +1,0 @@
-{'timestamp': 'Oct 31 2019 06:37:34 PM', 'soldier': 16, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Oct 31 2019 06:37:41 PM', 'soldier': 16, 'log_info': {'action': 'place_orders_start', 'exchange': 'southxchange', 'currency': 'NXT/BTC', 'orders': {'strategy': [{'price': 1.39e-06, 'quantity': 1820.93, 'smallmode': False}, {'price': 1.4e-06, 'quantity': 747.050429, 'smallmode': False}, {'price': 1.41e-06, 'quantity': 867.40191446, 'smallmode': False}], 'sumarrayBTC': [0.0025310927, 0.0010458706006, 0.0012230366993886], 'totalBTC': 0.004799999999988601, 'totalquantity': 3435.38234346, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
-{'timestamp': 'Oct 31 2019 06:49:01 PM', 'soldier': 16, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Oct 31 2019 06:55:10 PM', 'soldier': 16, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

@@ -1,2 +1,0 @@
-{'timestamp': 'Nov 06 2019 12:08:21 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Nov 06 2019 12:08:27 AM', 'soldier': 19, 'log_info': {'action': 'place_orders_start', 'exchange': 'upbit', 'currency': 'BFT/BTC', 'orders': {'strategy': [{'price': 1.52e-06, 'quantity': 5000.0, 'smallmode': False}, {'price': 1.68e-06, 'quantity': 627.42261904, 'smallmode': False}], 'sumarrayBTC': [0.0076, 0.0010540699999872], 'totalBTC': 0.0086540699999872, 'totalquantity': 5627.42261904, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}

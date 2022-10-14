@@ -1,2 +1,0 @@
-{'timestamp': 'Dec 14 2019 05:59:39 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Dec 14 2019 05:59:39 PM', 'soldier': 23, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitbay', 'getexchange': 'oceanex', 'currency': 'BTC'}}

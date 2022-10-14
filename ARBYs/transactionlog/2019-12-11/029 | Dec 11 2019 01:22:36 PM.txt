@@ -1,5 +1,0 @@
-{'timestamp': 'Dec 11 2019 01:22:38 PM', 'soldier': 47, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Dec 11 2019 09:11:50 PM', 'soldier': 47, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Dec 11 2019 09:16:21 PM', 'soldier': 47, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Dec 11 2019 09:22:55 PM', 'soldier': 47, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Dec 11 2019 09:25:45 PM', 'soldier': 47, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

@@ -1,2 +1,0 @@
-{'timestamp': 'Nov 04 2019 04:29:09 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Nov 04 2019 04:29:14 AM', 'soldier': 19, 'log_info': {'action': 'place_orders_start', 'exchange': 'upbit', 'currency': 'BKX/BTC', 'orders': {'strategy': [{'price': 6.5e-07, 'quantity': 5346.92307692, 'smallmode': False}], 'sumarrayBTC': [0.003475499999998], 'totalBTC': 0.003475499999998, 'totalquantity': 5346.92307692, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}

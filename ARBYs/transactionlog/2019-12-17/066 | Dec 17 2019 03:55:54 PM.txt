@@ -1,2 +1,0 @@
-{'timestamp': 'Dec 17 2019 03:55:56 PM', 'soldier': 31, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Dec 17 2019 03:56:01 PM', 'soldier': 31, 'log_info': {'action': 'place_orders_start', 'exchange': 'bittrex', 'currency': 'XLM/BTC', 'orders': {'strategy': [{'price': 6.42e-06, 'quantity': 4485.98130841, 'smallmode': False}], 'sumarrayBTC': [0.0287999999999922], 'totalBTC': 0.0287999999999922, 'totalquantity': 4485.98130841, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}

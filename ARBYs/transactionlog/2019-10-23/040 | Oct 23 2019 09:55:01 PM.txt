@@ -1,2 +1,0 @@
-{'timestamp': 'Oct 23 2019 09:55:03 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
-{'timestamp': 'Oct 23 2019 09:55:03 PM', 'soldier': 20, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'southxchange', 'getexchange': 'digifinex', 'currency': 'BTC'}}
