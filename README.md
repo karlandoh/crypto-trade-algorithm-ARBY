@@ -70,7 +70,9 @@ Clear the SQL table every 7 days.
 -	A bot was created to monitor trades, and receive alerts of potential trades. During sleep hours, arbyMONITOR was limited only to proven successful trades to avoid issues that had to be solved right away.
 ## arbySOUL
 
-*   There was a series of options available for every failed step. Sometimes money could be made from a failed trade due to price analysis!
+arbySOUL was able to monitor scenarios in which the rate of increase of my balance would dip below it's regression. In addition, it was able to analyze scenarios in which the arbitrage opportunity would disappear before I was able to capitalize off it (due to other competitive bots).
+
+*   There were a series of options available for every failed step. Sometimes money could be made from a failed trade due to price analysis!
     * This was done by modularizing each of the 5 trade steps of arbyTRADE_sim in order to either:
     * Evaluate the gain or loss if the trade was completed given the updated orderbook. A less than 5% loss was accepted and considered a “write off.”
     * Evaluate a “reversal” where the currency was sold at the current exchange.
