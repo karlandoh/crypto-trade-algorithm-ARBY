@@ -1,4 +1,7 @@
-![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/Logo%20Inverted%20Small.jpg)
+![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/Readme%20Diagrams/Logo%20Inverted%20Small.jpg)
+
+
+
 
 I started this project in 2018. It is a sophisticated cryptocurrency arbitrage algorithm that consists of three components. It was quite profitable throughout the years of 2018 to 2020, and was able to profit on opportunities with up to 50000% gains.
 
