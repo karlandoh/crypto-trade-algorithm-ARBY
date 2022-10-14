@@ -3,7 +3,9 @@
 
 
 
-I started this project in 2018. It is a sophisticated cryptocurrency arbitrage algorithm that consists of three components. It was quite profitable throughout the years of the crypto bear market (2018-2020), and was able to profit on opportunities with up to 50000% gains.
+I started this project in 2018 and used this project to help me learn the ins and outs of software engineering/development.
+
+It is a sophisticated cryptocurrency arbitrage algorithm that consists of three components. It was quite profitable throughout the years of the crypto bear market (2018-2020), and was able to profit on opportunities with up to 50000% gains.
 
 It was created with Python, SQL, Selenium and bash scripts.
 The API system was powered mostly by [CCXT trading library](https://github.com/ccxt/ccxt). In addition, I had also contributed towards fixing bugs for the python fork of the CCXT library.
