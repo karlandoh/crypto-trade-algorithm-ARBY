@@ -67,7 +67,7 @@ Clear the SQL table every 7 days.
 
 #### arbyTELEGRAM
 
--	A bot was created to monitor trades, and receive alerts of potential trades. During sleep hours, arbyMONITOR was limited only to proven successful trades to avoid potential issues.
+-	A bot was created to monitor trades, and receive alerts of potential trades. During sleep hours, arbyMONITOR was limited only to proven successful trades to avoid issues that had to be solved right away.
 ## arbySOUL
 
 *   There was a series of options available for every failed step. Sometimes money could be made from a failed trade due to price analysis!
