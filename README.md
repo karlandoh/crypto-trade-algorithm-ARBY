@@ -6,8 +6,8 @@ It was created with Python, SQL, Selenium and bash scripts.
 The API system was powered mostly by [CCXT trading library](https://github.com/ccxt/ccxt). In addition, I had also contributed towards fixing bugs for the python fork of the CCXT library.
 
 
-![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/Final%20Project%20copy%202.jpg)
-![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/Diagram%20copy%202.jpg)
+![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/Readme%20Diagrams/Final%20Project.jpg)
+![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/Readme%20Diagrams/Diagram.jpg)
 ## Authors
 
 - [@karlandoh](https://www.github.com/karlandoh)
@@ -22,7 +22,7 @@ Each currency will have it’s own process. In each process, each currency will 
 
 Coinmarketcap API will be used to determine how many SQL tables must exist and how many table entries (currencies) will exist in each table.
 
-![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/arbySERVER%20copy%202.jpg)
+![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/Readme%20Diagrams/arbySERVER.jpg)
 
 
 
@@ -39,7 +39,7 @@ If both directions are enabled, I can consider both prices.
 
 Clear the SQL table every 7 days.
 
-![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/arbySERVER%20copy%202.jpg)
+![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/Readme%20Diagrams/arbySELENIUM.jpg)
 
 # [3/3] arbyS
 #### arbyMONITOR
@@ -80,4 +80,4 @@ Clear the SQL table every 7 days.
     
 * A snapshot of each balance on all the exchanges occurs every 30 minutes via arbySOUL and combined to give a “master balance” which would increase over time. This master balance was then used for regression analysis with data software.
 
-![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/arbyS%20copy%202.jpg)
+![App Screenshot](https://raw.githubusercontent.com/karlandoh/ARBY/master/Readme%20Diagrams/arbyS.jpg)
