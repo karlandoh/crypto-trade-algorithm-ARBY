@@ -77,6 +77,7 @@ arbySOUL was able to monitor scenarios in which the rate of increase of my balan
       * Evaluate the gain or loss if the trade was completed given the updated orderbook. A less than 5% loss was accepted and considered a “write off.”
       * Evaluate a “reversal” where the currency was sold at the current exchange.
       * Simply wait until the orderbook presents an opportunity for “break even, gain or less than 5% loss.”
+
    * The options were then shown via arbyTELEGRAM, and up to me to decide.
 
 * ARBY operated best when there was an equal distribution of BTC amongst each exchange.
