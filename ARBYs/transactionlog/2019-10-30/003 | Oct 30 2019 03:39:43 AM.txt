@@ -1,0 +1,352 @@
+{'timestamp': 'Oct 30 2019 03:39:45 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 03:39:49 AM', 'soldier': 24, 'log_info': {'action': 'place_orders_start', 'exchange': 'bittrex', 'currency': 'BURST/BTC', 'orders': {'strategy': [{'price': 3.4e-07, 'quantity': 22507.61764705, 'smallmode': False}], 'sumarrayBTC': [0.007652589999996999], 'totalBTC': 0.007652589999996999, 'totalquantity': 22507.61764705, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 30 2019 03:39:49 AM', 'soldier': 24, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bittrex', 'currency': 'BURST/BTC', 'orders': [{'info': {'success': True, 'message': '', 'result': {'uuid': '78b76660-f8ce-48aa-920c-7e2413adbcf8'}}, 'id': '78b76660-f8ce-48aa-920c-7e2413adbcf8', 'symbol': 'BURST/BTC', 'type': 'limit', 'side': 'buy', 'status': 'open', 'mode': 'auto', 'price': 3.4e-07, 'amount': 22507.61764705}]}}
+{'timestamp': 'Oct 30 2019 03:39:56 AM', 'soldier': 24, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bittrex', 'getexchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 30 2019 03:39:56 AM', 'soldier': 24, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'bittrex', 'getexchange': 'upbit', 'currency': 'BURST', 'amount': 22507.61764705, 'address': 'BURST-5RS2-Q2EZ-7CZU-53K6K', 'tag': ''}}
+{'timestamp': 'Oct 30 2019 03:39:56 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 30 2019 03:55:58 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 03:56:01 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 30 2019 04:15:39 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:15:40 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 30 2019 04:22:37 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:22:38 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 30 2019 04:26:38 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:26:40 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 30 2019 04:28:19 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:28:19 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 30 2019 04:40:13 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:40:13 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 30 2019 04:44:02 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:44:02 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 30 2019 05:12:25 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 05:12:25 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 30 2019 06:04:11 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 06:04:11 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 30 2019 07:54:17 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 07:54:17 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 31 2019 01:51:02 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 01:51:02 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 31 2019 02:30:37 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 02:30:37 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 31 2019 03:08:43 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 03:08:43 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 31 2019 04:49:15 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 04:49:15 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 31 2019 04:34:29 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 04:34:29 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 31 2019 06:32:09 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 06:32:11 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 31 2019 06:49:03 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 06:49:04 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 31 2019 07:17:44 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 07:17:47 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Oct 31 2019 07:23:36 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 07:23:36 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 01 2019 01:15:15 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 01 2019 01:15:15 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 04:25:12 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:25:12 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 04:56:48 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:56:49 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 06:00:34 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:00:34 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 06:24:06 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:24:08 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 06:29:15 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:29:16 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 06:58:04 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:58:06 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 07:10:17 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:10:19 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 07:26:10 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:26:13 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 07:33:09 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:33:09 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 04:28:42 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:28:42 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 04:53:30 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:53:32 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 04:58:22 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:58:22 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 05:05:17 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 05:05:18 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 05:49:28 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 05:49:28 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 06:00:24 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:00:25 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 06:33:33 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:33:34 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 06:39:37 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:39:37 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 06:43:36 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:43:37 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 07:11:12 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:11:12 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 07:41:02 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:41:03 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 07:51:37 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:51:38 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 08:02:35 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 08:02:36 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 08:36:15 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 08:36:17 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 08:48:19 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 08:48:20 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 09:01:37 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 09:01:37 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 09:44:04 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 09:44:04 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 11:27:21 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 11:27:23 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 04 2019 11:44:12 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 11:44:13 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 12:05:55 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 12:05:56 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 12:18:17 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 12:18:20 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 12:35:50 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 12:35:50 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 01:33:24 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 01:33:24 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 04:32:07 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 04:32:07 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 06:34:03 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 06:34:05 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 07:00:58 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 07:00:58 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 08:35:19 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 08:35:21 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 08:58:28 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 08:58:28 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 09:43:19 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:43:20 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 09:43:45 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:43:45 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 09:55:08 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:55:08 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 09:56:10 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:56:11 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 09:57:30 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:57:30 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 09:58:36 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:58:36 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 10:03:19 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 10:03:19 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 10:05:28 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 10:05:28 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 10:53:34 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 10:53:35 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 11:03:48 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 11:03:49 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 05 2019 11:20:41 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 11:20:43 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 12:49:54 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 12:49:59 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 01:20:36 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 01:20:38 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 01:42:32 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 01:42:33 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 01:46:36 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 01:46:37 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 02:00:36 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 02:00:37 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 04:41:38 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 04:41:38 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 10:23:33 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 10:23:34 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 10:34:40 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 10:34:42 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 10:43:37 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 10:43:42 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 10:55:54 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 10:55:56 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 11:15:18 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 11:15:20 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 11:17:10 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 11:17:12 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 12:07:20 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 12:07:20 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 07:53:35 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 07:53:36 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 08:28:46 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 08:28:47 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 08:57:10 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 08:57:10 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 09:50:56 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 09:50:57 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 10:23:11 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 10:23:15 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 10:46:11 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 10:46:11 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 11:19:54 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 11:19:54 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 11:38:02 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 11:38:08 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 06 2019 11:44:59 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 11:45:01 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 07 2019 12:19:13 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 12:19:14 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 07 2019 03:09:40 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 03:09:41 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 07 2019 03:44:52 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 03:44:55 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 07 2019 03:48:58 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 03:49:02 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 07 2019 04:05:48 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 04:05:54 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 07 2019 04:26:08 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 04:26:09 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 07 2019 06:32:10 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 06:32:11 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 07 2019 06:38:04 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 06:38:04 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Nov 07 2019 06:51:44 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 06:51:45 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 01 2019 06:42:54 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 06:42:57 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 01 2019 07:00:31 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 07:00:32 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 01 2019 07:54:26 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 07:54:28 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 01 2019 08:10:07 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 08:10:10 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 01 2019 08:37:13 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 08:37:17 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 01 2019 08:40:31 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 08:40:35 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 01 2019 08:45:02 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 08:45:04 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 01 2019 09:23:47 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 09:23:48 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 11:09:24 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:09:26 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 12:36:36 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 12:36:38 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 12:40:58 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 12:40:59 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 04:05:38 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 04:05:41 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 05:17:06 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 05:17:06 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 06:33:06 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 06:33:06 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 06:59:43 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 06:59:43 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 07:32:59 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 07:32:59 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 08:17:00 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:17:01 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 08:20:35 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:20:37 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 08:30:52 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:30:55 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 08:59:24 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:59:26 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 09:05:11 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 09:05:12 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 10:07:53 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:07:54 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 10:12:56 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:12:57 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 10:24:32 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:24:32 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 10:32:47 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:32:47 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 10:45:32 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:45:32 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 11:07:44 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:07:44 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 11:18:13 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:18:13 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 11:21:11 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:21:11 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 11:25:48 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:25:48 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 11:36:06 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:36:07 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 11:37:03 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:37:03 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 02 2019 11:37:46 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:37:46 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 12:32:40 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:32:40 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 12:57:02 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:57:03 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 01:02:27 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 01:02:29 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 09:49:02 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:49:02 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 09:54:47 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:54:47 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 10:13:30 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 10:13:31 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 10:23:59 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 10:24:00 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 10:37:49 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 10:37:50 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 11:27:46 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 11:27:48 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 12:30:25 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:30:27 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 12:35:30 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:35:30 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 12:41:34 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:41:34 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 02:22:11 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 02:22:13 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 08:18:55 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 08:18:55 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 08:56:56 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 08:56:58 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 09:47:35 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:47:35 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 09:50:49 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:50:50 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 03 2019 09:58:05 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:58:07 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 03:02:04 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 03:02:07 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 04:14:12 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 04:14:12 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 04:33:05 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 04:33:06 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 04:37:34 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 04:37:36 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 06:43:28 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 06:43:29 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 06:54:19 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 06:54:19 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 07:11:19 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 07:11:19 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 08:37:05 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 08:37:06 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 09:10:54 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:10:54 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 09:45:02 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:45:03 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 09:47:42 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:47:42 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 10:13:34 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 10:13:35 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 04 2019 10:27:39 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 10:27:39 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 06 2019 12:31:22 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:31:23 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 06 2019 12:36:07 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:36:07 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 06 2019 01:17:21 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 01:17:22 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 06 2019 03:34:12 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 03:34:13 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 06 2019 11:23:56 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 11:23:57 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 06 2019 11:34:35 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 11:34:36 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 06 2019 11:37:00 AM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 11:37:01 AM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 06 2019 12:14:17 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:14:18 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 06 2019 02:46:18 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 02:46:20 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}
+{'timestamp': 'Dec 06 2019 05:35:22 PM', 'soldier': 24, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 05:35:23 PM', 'soldier': 24, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'BURST'}}

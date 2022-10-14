@@ -1,0 +1,2 @@
+{'timestamp': 1590387779.9748151, 'exchange': 'bittrex', 'currency': 'ABBC', 'value': {'address': 'bittrexacct1', 'tag': 'ea090ea28cba42a6a42'}}
+{'timestamp': 1590387779.9748151, 'exchange': 'bittrex', 'currency': 'EOS', 'value': {'address': 'bittrexacct1', 'tag': '290f0a57b0144f9e9fe'}}

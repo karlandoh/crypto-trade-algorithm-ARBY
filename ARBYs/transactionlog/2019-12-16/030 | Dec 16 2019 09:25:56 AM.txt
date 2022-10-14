@@ -1,0 +1,64 @@
+{'timestamp': 'Dec 16 2019 09:25:58 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 09:26:09 AM', 'soldier': 41, 'log_info': {'action': 'place_orders_start', 'exchange': 'hitbtc2', 'currency': 'EOS/BTC', 'orders': {'strategy': [{'price': 0.00035733, 'quantity': 127.6, 'smallmode': False}], 'sumarrayBTC': [0.045595307999999994], 'totalBTC': 0.045595307999999994, 'totalquantity': 127.6, 'quantityprecision': 2, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 16 2019 09:26:18 AM', 'soldier': 41, 'log_info': {'action': 'place_orders_complete', 'exchange': 'hitbtc2', 'currency': 'EOS/BTC', 'orders': [{'id': '2baaa0ab57eb49f9863295ddd69a0827', 'timestamp': 1576506377752, 'datetime': '2019-12-16T14:26:17.752Z', 'lastTradeTimestamp': 1576506377752, 'status': 'closed', 'symbol': 'EOS/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.00035733, 'average': 0.00035733, 'amount': 126.96, 'cost': 0.045366616799999995, 'filled': 126.96, 'remaining': 0.0, 'fee': {'cost': 9.0733234e-05, 'currency': 'BTC'}, 'trades': [{'info': {'id': 731151331, 'quantity': '126.96', 'price': '0.00035733', 'fee': '0.000090733234', 'timestamp': '2019-12-16T14:26:17.752Z'}, 'id': '731151331', 'order': None, 'timestamp': 1576506377752, 'datetime': '2019-12-16T14:26:17.752Z', 'symbol': 'EOS/BTC', 'type': None, 'side': None, 'takerOrMaker': None, 'price': 0.00035733, 'amount': 126.96, 'cost': 0.045366616799999995, 'fee': {'cost': 9.0733234e-05, 'currency': 'BTC'}}], 'info': {'id': 187047736711, 'clientOrderId': '2baaa0ab57eb49f9863295ddd69a0827', 'symbol': 'EOSBTC', 'side': 'buy', 'status': 'filled', 'type': 'limit', 'timeInForce': 'GTC', 'price': '0.00035733', 'quantity': '126.96', 'postOnly': False, 'cumQuantity': '126.96', 'createdAt': '2019-12-16T14:26:17.752Z', 'updatedAt': '2019-12-16T14:26:17.752Z', 'tradesReport': [{'id': 731151331, 'quantity': '126.96', 'price': '0.00035733', 'fee': '0.000090733234', 'timestamp': '2019-12-16T14:26:17.752Z'}]}, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 16 2019 09:26:24 AM', 'soldier': 41, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'hitbtc2', 'getexchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 05:28:50 PM', 'soldier': 41, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'hitbtc2', 'getexchange': 'kucoin', 'currency': 'EOS', 'amount': 152.0, 'address': 'kucoindoteos', 'tag': '1861867128'}}
+{'timestamp': 'Dec 16 2019 05:28:50 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 05:51:01 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 05:51:03 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:10:10 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:10:11 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:22:34 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:22:35 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:42:56 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:42:57 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:57:58 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:58:02 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 07:11:44 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 07:11:46 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 07:30:52 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 07:30:53 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 17 2019 01:15:15 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 01:15:17 AM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 17 2019 04:49:46 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 04:49:47 AM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 17 2019 04:54:14 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 04:54:16 AM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 17 2019 05:05:45 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 05:05:47 AM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 17 2019 05:30:30 AM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'kucoin', 'currency': 'EOS', 'amount': 0.040801}}
+{'timestamp': 'Dec 17 2019 06:30:19 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 07:40:46 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 07:51:48 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 02:58:03 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:00:06 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:11:37 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:11:38 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 17 2019 03:18:09 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:18:11 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 17 2019 03:20:53 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:20:56 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 17 2019 05:44:51 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 05:44:52 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 18 2019 04:25:36 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 04:25:37 AM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 18 2019 04:36:50 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 04:36:53 AM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 18 2019 05:31:53 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 05:31:55 AM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 18 2019 07:13:57 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 07:13:57 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 18 2019 10:23:02 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 10:23:03 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 18 2019 10:37:42 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 10:37:43 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 18 2019 10:54:46 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 10:54:47 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 18 2019 11:16:11 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 11:16:13 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 18 2019 11:30:03 PM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 11:30:05 PM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 19 2019 12:33:03 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 12:33:05 AM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}
+{'timestamp': 'Dec 19 2019 01:02:38 AM', 'soldier': 41, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 01:02:39 AM', 'soldier': 41, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'EOS'}}

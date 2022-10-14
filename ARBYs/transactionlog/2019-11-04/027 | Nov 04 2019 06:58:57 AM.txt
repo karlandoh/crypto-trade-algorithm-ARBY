@@ -1,0 +1,46 @@
+{'timestamp': 'Nov 04 2019 06:58:59 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:59:07 AM', 'soldier': 19, 'log_info': {'action': 'place_orders_start', 'exchange': 'upbit', 'currency': 'GAME/BTC', 'orders': {'strategy': [{'price': 1.73e-06, 'quantity': 799.26382174, 'smallmode': False}, {'price': 1.74e-06, 'quantity': 26048.67548111, 'smallmode': False}, {'price': 1.75e-06, 'quantity': 305.29042929, 'smallmode': False}], 'sumarrayBTC': [0.0013827264116102, 0.045324695337131404, 0.0005342582512575001], 'totalBTC': 0.0472416799999991, 'totalquantity': 27153.22973214, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Nov 04 2019 07:00:55 AM', 'soldier': 19, 'log_info': {'action': 'place_orders_complete', 'exchange': 'upbit', 'currency': 'GAME/BTC', 'orders': [{'amount': 799.26382174, 'price': 1.73e-06, 'mode': 'manual'}, {'amount': 26048.67548111, 'price': 1.74e-06, 'mode': 'manual'}, {'amount': 305.29042929, 'price': 1.75e-06, 'mode': 'manual'}]}}
+{'timestamp': 'Nov 04 2019 07:01:24 AM', 'soldier': 19, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'upbit', 'getexchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 07:02:51 AM', 'soldier': 19, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'upbit', 'getexchange': 'bittrex', 'currency': 'GAME', 'amount': 27153.0, 'address': 'GKnewDwuRDQMNWYAemEz4cZJqtMRNGfQyk', 'tag': ''}}
+{'timestamp': 'Nov 04 2019 07:02:51 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 07:10:13 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:10:14 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 07:26:10 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:26:13 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 07:33:08 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:33:08 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 04:27:16 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:27:17 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 04:28:41 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:28:41 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 04:53:29 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:53:30 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 04:58:24 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:58:24 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 05:05:19 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 05:05:22 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 05:49:23 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 05:49:24 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 06:00:27 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:00:28 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 06:33:29 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:33:29 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 06:39:37 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:39:37 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 06:43:36 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:43:38 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 07:11:10 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:11:10 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 07:41:01 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:41:02 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 07:51:34 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:51:37 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 08:02:33 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 08:02:33 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 08:36:14 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 08:36:15 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'GAME'}}
+{'timestamp': 'Nov 04 2019 08:36:18 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'bittrex', 'currency': 'GAME', 'amount': 26977.21209703}}
+{'timestamp': 'Nov 04 2019 08:36:18 PM', 'soldier': 19, 'log_info': {'action': 'place_orders_start', 'exchange': 'bittrex', 'currency': 'GAME/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 8, 'strategy': [{'price': 1.78e-06, 'quantity': 27085.1466578, 'smallmode': False}], 'sumarrayBTC': [0.048211561050884], 'totalBTC': 0.048211561050884, 'totalquantity': 27085.1466578}}}
+{'timestamp': 'Nov 04 2019 08:36:25 PM', 'soldier': 19, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bittrex', 'currency': 'GAME/BTC', 'orders': [{'info': {'success': True, 'message': '', 'result': {'uuid': '7e25ecae-c2d2-4c1f-b963-00d7547423dd'}}, 'id': '7e25ecae-c2d2-4c1f-b963-00d7547423dd', 'symbol': 'GAME/BTC', 'type': 'limit', 'side': 'sell', 'status': 'open', 'mode': 'auto', 'price': 1.78e-06, 'amount': 26970.06166741}]}}
+{'timestamp': 'Nov 04 2019 08:36:31 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_success_completed'}}

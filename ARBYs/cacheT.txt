@@ -1,0 +1,3 @@
+{'timestamp': 1566976180.1841931, 'exchange': 'digifinex', 'currency': None, 'value': '0.20%'}
+{'timestamp': 1566978943.23391, 'exchange': 'liquid', 'currency': None, 'value': '0.1%'}
+{'timestamp': 1569266163.6880698, 'exchange': 'luno', 'currency': None, 'value': '0.25%'}

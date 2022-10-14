@@ -1,0 +1,6 @@
+{'timestamp': 'Oct 07 2019 05:30:00 AM', 'soldier': 26, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 07 2019 05:30:00 AM', 'soldier': 26, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bittrex', 'getexchange': 'tidex', 'currency': 'BTC'}}
+{'timestamp': 'Oct 07 2019 05:30:45 AM', 'soldier': 26, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'bittrex', 'getexchange': 'tidex', 'currency': 'BTC', 'amount': 0.0058, 'address': '18vXJR4986vyKjAehgrEhs5zyEbhP8kFNr', 'tag': ''}}
+{'timestamp': 'Oct 07 2019 05:30:45 AM', 'soldier': 26, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'BTC'}}
+{'timestamp': 'Oct 07 2019 05:52:01 AM', 'soldier': 26, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'tidex', 'currency': 'BTC', 'amount': 0.0053}}
+{'timestamp': 'Oct 07 2019 06:03:26 AM', 'soldier': 26, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

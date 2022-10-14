@@ -1,0 +1,79 @@
+{'timestamp': 'Sep 12 2019 03:57:22 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 03:57:37 PM', 'soldier': 6, 'log_info': {'action': 'place_orders_start', 'exchange': 'latoken', 'currency': 'DASH/BTC', 'orders': {'strategy': [{'price': 0.00835, 'quantity': 0.81437, 'smallmode': False}], 'sumarrayBTC': [0.0067999895], 'totalBTC': 0.0067999895, 'totalquantity': 0.81437, 'quantityprecision': 5, 'priceprecision': 5, 'eccentric': False}}}
+{'timestamp': 'Sep 12 2019 03:58:40 PM', 'soldier': 6, 'log_info': {'action': 'place_orders_complete', 'exchange': 'latoken', 'currency': 'DASH/BTC', 'orders': [{'remaining': 0.81437, 'price': 0.00835, 'mode': 'manual'}]}}
+{'timestamp': 'Sep 12 2019 03:58:41 PM', 'soldier': 6, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'latoken', 'getexchange': 'livecoin', 'currency': 'DASH'}}
+{'timestamp': 'Sep 12 2019 03:59:35 PM', 'soldier': 6, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'latoken', 'getexchange': 'livecoin', 'currency': 'DASH', 'amount': 0.81437, 'address': 'XshZjpZgQo4yxCoX9VTqhCEkYci6shUwG6', 'tag': ''}}
+{'timestamp': 'Sep 12 2019 03:59:35 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'DASH'}}
+{'timestamp': 'Sep 12 2019 04:08:39 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 04:08:40 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'DASH'}}
+{'timestamp': 'Sep 12 2019 04:37:37 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'livecoin', 'currency': 'DASH', 'amount': 0.81437}}
+{'timestamp': 'Sep 12 2019 04:37:50 PM', 'soldier': 6, 'log_info': {'action': 'place_orders_start', 'exchange': 'livecoin', 'currency': 'DASH/BTC', 'orders': {'strategy': [{'price': 0.00822666, 'quantity': 0.3771254, 'smallmode': False}, {'price': 0.00814488, 'quantity': 0.4372446, 'smallmode': False}], 'sumarrayBTC': [0.003102482443164, 0.003561304797648], 'totalBTC': 0.006663787240812, 'totalquantity': 0.81437, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Sep 12 2019 04:37:52 PM', 'soldier': 6, 'log_info': {'action': 'place_orders_complete', 'exchange': 'livecoin', 'currency': 'DASH/BTC', 'orders': [{'info': {'success': True, 'added': False, 'orderId': 61022961601, 'exception': None}, 'id': '61022961601', 'status': 'open', 'mode': 'auto', 'price': 0.00822666, 'remaining': 0.3771254}, {'info': {'success': True, 'added': False, 'orderId': 61022956551, 'exception': None}, 'id': '61022956551', 'status': 'open', 'mode': 'auto', 'price': 0.00814488, 'remaining': 0.4372446}]}}
+{'timestamp': 'Sep 12 2019 04:39:54 PM', 'soldier': 6, 'log_info': {'action': 'place_orders_start', 'exchange': 'livecoin', 'currency': 'DMD/BTC', 'orders': {'strategy': [{'price': 6.314e-05, 'quantity': 79.5104495, 'smallmode': False}, {'price': 6.315e-05, 'quantity': 9.9222755, 'smallmode': False}, {'price': 6.343e-05, 'quantity': 15.84279553, 'smallmode': False}], 'sumarrayBTC': [0.0050202897814299995, 0.0006265916978250001, 0.0010049085204679], 'totalBTC': 0.0066517899997229, 'totalquantity': 105.27552053, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Sep 12 2019 04:40:03 PM', 'soldier': 6, 'log_info': {'action': 'place_orders_complete', 'exchange': 'livecoin', 'currency': 'DMD/BTC', 'orders': [{'info': {'success': True, 'added': False, 'orderId': 61023252851, 'exception': None}, 'id': '61023252851', 'status': 'open', 'mode': 'auto', 'price': 6.314e-05, 'remaining': 79.5104495}, {'info': {'success': True, 'added': False, 'orderId': 61023253251, 'exception': None}, 'id': '61023253251', 'status': 'open', 'mode': 'auto', 'price': 6.315e-05, 'remaining': 9.9222755}, {'info': {'success': True, 'added': False, 'orderId': 61023234051, 'exception': None}, 'id': '61023234051', 'status': 'open', 'mode': 'auto', 'price': 6.343e-05, 'remaining': 15.84279553}]}}
+{'timestamp': 'Sep 12 2019 04:40:04 PM', 'soldier': 6, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'livecoin', 'getexchange': 'crex24', 'currency': 'DMD'}}
+{'timestamp': 'Sep 12 2019 04:40:18 PM', 'soldier': 6, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'livecoin', 'getexchange': 'crex24', 'currency': 'DMD', 'amount': 105.27452052999999, 'address': 'dXwegFudc3HZKmkXzFUbkSVmeDV39tEVaS', 'tag': ''}}
+{'timestamp': 'Sep 12 2019 04:40:18 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DMD'}}
+{'timestamp': 'Sep 12 2019 05:54:28 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 05:54:28 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DMD'}}
+{'timestamp': 'Sep 12 2019 06:08:40 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 06:08:40 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DMD'}}
+{'timestamp': 'Sep 12 2019 06:12:47 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 06:12:47 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DMD'}}
+{'timestamp': 'Sep 12 2019 06:17:06 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 06:17:11 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DMD'}}
+{'timestamp': 'Sep 12 2019 06:17:57 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 06:17:59 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DMD'}}
+{'timestamp': 'Sep 12 2019 06:18:38 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 06:18:39 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DMD'}}
+{'timestamp': 'Sep 12 2019 06:19:37 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 06:19:39 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DMD'}}
+{'timestamp': 'Sep 12 2019 06:22:34 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 06:22:43 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 06:22:44 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DMD'}}
+{'timestamp': 'Sep 12 2019 07:00:27 PM', 'soldier': 6, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'crex24', 'currency': 'DMD', 'amount': 105.27452052}}
+{'timestamp': 'Sep 12 2019 07:18:17 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 07:24:15 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 09:08:16 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 09:08:16 PM', 'soldier': 6, 'log_info': {'action': 'place_orders_start', 'exchange': 'crex24', 'currency': 'DMD/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 8, 'strategy': [{'price': 7e-05, 'quantity': 105.08502458, 'smallmode': False}], 'sumarrayBTC': [0.007355951720599999], 'totalBTC': 0.007355951720599999, 'totalquantity': 105.08502458}}}
+{'timestamp': 'Sep 12 2019 09:08:35 PM', 'soldier': 6, 'log_info': {'action': 'place_orders_complete', 'exchange': 'crex24', 'currency': 'DMD/BTC', 'orders': [{'info': {'id': 829482830, 'timestamp': '2019-09-13T01:08:35Z', 'instrument': 'DMD-BTC', 'side': 'sell', 'type': 'limit', 'status': 'submitting', 'cancellationReason': None, 'timeInForce': 'GTC', 'volume': 104.87374402, 'price': 7e-05, 'stopPrice': None, 'remainingVolume': 104.87374402, 'lastUpdate': '2019-09-13T01:08:35Z', 'parentOrderId': None, 'childOrderId': None}, 'id': '829482830', 'timestamp': 1568336915000, 'datetime': '2019-09-13T01:08:35.000Z', 'lastTradeTimestamp': 1568336915000, 'symbol': 'DMD/BTC', 'type': 'limit', 'side': 'sell', 'price': 7e-05, 'amount': 104.87374402, 'cost': 0.0, 'average': None, 'filled': 0.0, 'remaining': 104.87374402, 'status': 'open', 'fee': None, 'trades': None, 'mode': 'auto'}]}}
+{'timestamp': 'Sep 12 2019 09:14:03 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 10:23:51 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 10:33:24 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 10:55:21 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 11:09:46 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 11:14:35 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 12 2019 11:21:57 PM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 12:13:17 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 01:04:50 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 01:07:58 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 01:10:57 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 02:34:30 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 02:38:07 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 02:40:33 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 02:42:16 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 03:35:20 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 03:36:36 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 03:38:50 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 03:43:22 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 03:46:27 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 03:49:09 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 04:04:45 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 04:06:17 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 04:08:15 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 04:28:38 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 04:33:00 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 04:34:48 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 04:37:48 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 05:00:02 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 10:34:51 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 10:37:36 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 10:40:04 AM', 'soldier': 6, 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Sep 13 2019 10:40:04 AM', 'soldier': 6, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 13 2019 10:40:04 AM', 'soldier': 6, 'log_info': {'action': 'reverse_cancel_transaction_start', 'exchange': 'crex24', 'currency': 'DMD/BTC', 'orders': [{'amount': 104.87374402, 'average': None, 'cost': 0.0, 'datetime': '2019-09-13T01:08:35.000Z', 'fee': None, 'filled': 0.0, 'id': '829482830', 'info': {'cancellationReason': None, 'childOrderId': None, 'id': 829482830, 'instrument': 'DMD-BTC', 'lastUpdate': '2019-09-13T01:08:35Z', 'parentOrderId': None, 'price': 7e-05, 'remainingVolume': 104.87374402, 'side': 'sell', 'status': 'submitting', 'stopPrice': None, 'timeInForce': 'GTC', 'timestamp': '2019-09-13T01:08:35Z', 'type': 'limit', 'volume': 104.87374402}, 'lastTradeTimestamp': 1568336915000, 'mode': 'auto', 'price': 7e-05, 'remaining': 104.87374402, 'side': 'sell', 'status': 'open', 'symbol': 'DMD/BTC', 'timestamp': 1568336915000, 'trades': None, 'type': 'limit'}]}}
+{'timestamp': 'Sep 13 2019 10:40:05 AM', 'soldier': 6, 'log_info': {'action': 'reverse_cancel_transaction_complete', 'exchange': 'crex24', 'currency': 'DMD/BTC', 'orders': [{'amount': 104.87374402, 'average': None, 'cost': 0.0, 'datetime': '2019-09-13T01:08:35.000Z', 'fee': None, 'filled': 0.0, 'id': '829482830', 'info': {'cancellationReason': None, 'childOrderId': None, 'id': 829482830, 'instrument': 'DMD-BTC', 'lastUpdate': '2019-09-13T01:08:35Z', 'parentOrderId': None, 'price': 7e-05, 'remainingVolume': 104.87374402, 'side': 'sell', 'status': 'submitting', 'stopPrice': None, 'timeInForce': 'GTC', 'timestamp': '2019-09-13T01:08:35Z', 'type': 'limit', 'volume': 104.87374402}, 'lastTradeTimestamp': 1568336915000, 'mode': 'auto', 'price': 7e-05, 'remaining': 104.87374402, 'side': 'sell', 'status': 'open', 'symbol': 'DMD/BTC', 'timestamp': 1568336915000, 'trades': None, 'type': 'limit'}]}}
+{'timestamp': 'Sep 13 2019 10:40:05 AM', 'soldier': 6, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'crex24', 'currency': 'DMD/BTC', 'orders': {'strategy': [{'price': 6.41e-05, 'quantity': 11.0558306, 'smallmode': False}, {'price': 6.4e-05, 'quantity': 0.000109, 'smallmode': False}, {'price': 6.3e-05, 'quantity': 0.000109, 'smallmode': False}, {'price': 6.01e-05, 'quantity': 93.81769542, 'smallmode': False}], 'sumarrayBTC': [0.00070867874146, 6.976e-09, 6.867e-09, 0.005638443494742], 'totalBTC': 0.006347136079202, 'totalquantity': 104.87374402, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Sep 13 2019 10:45:28 AM', 'soldier': 6, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'crex24', 'currency': 'DMD/BTC', 'orders': [{'info': {'id': 830095052, 'timestamp': '2019-09-13T14:40:05Z', 'instrument': 'DMD-BTC', 'side': 'sell', 'type': 'limit', 'status': 'submitting', 'cancellationReason': None, 'timeInForce': 'GTC', 'volume': 11.0558306, 'price': 6.41e-05, 'stopPrice': None, 'remainingVolume': 11.0558306, 'lastUpdate': '2019-09-13T14:40:05Z', 'parentOrderId': None, 'childOrderId': None}, 'id': '830095052', 'timestamp': 1568385605000, 'datetime': '2019-09-13T14:40:05.000Z', 'lastTradeTimestamp': 1568385605000, 'symbol': 'DMD/BTC', 'type': 'limit', 'side': 'sell', 'price': 6.41e-05, 'amount': 11.0558306, 'cost': 0.0, 'average': None, 'filled': 0.0, 'remaining': 11.0558306, 'status': 'open', 'fee': None, 'trades': None, 'mode': 'auto'}, {'amount': 0.000109, 'price': 6.4e-05, 'mode': 'manual'}, {'amount': 0.000109, 'price': 6.3e-05, 'mode': 'manual'}, {'amount': 93.81769542, 'price': 6.01e-05, 'mode': 'manual'}]}}
+{'timestamp': 'Sep 13 2019 10:45:28 AM', 'soldier': 6, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'crex24', 'currency': 'DMD/BTC'}}
+{'timestamp': 'Sep 13 2019 10:45:28 AM', 'soldier': 6, 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'crex24', 'currency': 'DMD/BTC'}}
+{'timestamp': 'Sep 13 2019 10:45:28 AM', 'soldier': 6, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

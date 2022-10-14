@@ -1,0 +1,34 @@
+{'timestamp': 'Nov 07 2019 03:50:25 AM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 03:50:36 AM', 'soldier': 33, 'log_info': {'action': 'place_orders_start', 'exchange': 'binance', 'currency': 'XLM/BTC', 'orders': {'strategy': [{'price': 8.03e-06, 'quantity': 742.0, 'smallmode': False}], 'sumarrayBTC': [0.00595826], 'totalBTC': 0.00595826, 'totalquantity': 742.0, 'quantityprecision': 0, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Nov 07 2019 03:50:36 AM', 'soldier': 33, 'log_info': {'action': 'place_orders_complete', 'exchange': 'binance', 'currency': 'XLM/BTC', 'orders': [{'info': {'symbol': 'XLMBTC', 'orderId': 122117473, 'orderListId': -1, 'clientOrderId': 'E6vOVISHpVPh2stdOGa65x', 'transactTime': 1573116636333, 'price': '0.00000803', 'origQty': '742.00000000', 'executedQty': '742.00000000', 'cummulativeQuoteQty': '0.00595826', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'BUY'}, 'id': '122117473', 'timestamp': 1573116636333, 'datetime': '2019-11-07T08:50:36.333Z', 'lastTradeTimestamp': None, 'symbol': 'XLM/BTC', 'type': 'limit', 'side': 'buy', 'price': 8.03e-06, 'amount': 742.0, 'cost': 0.00595826, 'average': 8.03e-06, 'filled': 742.0, 'remaining': 0.0, 'status': 'closed', 'fee': None, 'trades': None, 'mode': 'auto'}]}}
+{'timestamp': 'Nov 07 2019 03:50:42 AM', 'soldier': 33, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'binance', 'getexchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Nov 07 2019 03:50:43 AM', 'soldier': 33, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'binance', 'getexchange': 'poloniex', 'currency': 'XLM', 'amount': 741.258, 'address': 'GCF7F72LNF3ODSJIIWPJWEVWX33VT2SVZSUQ5NMDKDLK3N2NFCUAUHPT', 'tag': '8088274'}}
+{'timestamp': 'Nov 07 2019 03:50:44 AM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Nov 07 2019 04:05:48 AM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 04:05:52 AM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Nov 07 2019 04:26:09 AM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 04:26:09 AM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Nov 07 2019 06:32:16 AM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 06:32:19 AM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Nov 07 2019 06:38:04 AM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 06:38:04 AM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Nov 07 2019 06:51:44 AM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 06:51:45 AM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Dec 01 2019 06:42:56 PM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 06:42:59 PM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Dec 01 2019 07:00:34 PM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 07:00:36 PM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Dec 01 2019 07:54:30 PM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 07:54:31 PM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Dec 01 2019 08:10:09 PM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 08:10:11 PM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Dec 01 2019 08:37:14 PM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 08:37:17 PM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Dec 01 2019 08:40:33 PM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 08:40:37 PM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Dec 01 2019 08:45:03 PM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 08:45:06 PM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Dec 01 2019 09:23:50 PM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 09:23:54 PM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}
+{'timestamp': 'Dec 02 2019 10:54:31 AM', 'soldier': 33, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:54:31 AM', 'soldier': 33, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'poloniex', 'currency': 'XLM'}}

@@ -1,0 +1,31 @@
+{'timestamp': 'Sep 04 2019 05:07:15 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 05:08:49 PM', 'log_info': {'action': 'place_orders_start', 'exchange': 'tidex', 'currency': 'WAVES/BTC', 'orders': {'strategy': [{'price': 0.00010593, 'quantity': 2.0817, 'smallmode': False}, {'price': 0.00010597, 'quantity': 14.905, 'smallmode': False}], 'sumarrayBTC': [0.000220514481, 0.00157948285], 'totalBTC': 0.001799997331, 'totalquantity': 16.9867, 'quantityprecision': 4, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Sep 04 2019 05:08:57 PM', 'log_info': {'action': 'place_orders_complete', 'exchange': 'tidex', 'currency': 'WAVES/BTC', 'orders': [{'info': {'success': 1, 'return': {'received': 2.0817, 'remains': 0.0, 'init_order_id': 491659374, 'order_id': 0, 'funds': {'waves': 2.0796183, 'btc': 0.0016638483318768}, 'trades': [{'trade_id': 35254743, 'pair': None, 'type': 'buy', 'amount': 2.0817, 'rate': 0.00010593, 'order_id': 491659374, 'is_your_order': True, 'timestamp': 0}]}, 'stat': {'isSuccess': True, 'serverTime': '00:00:00.1037459', 'time': '00:00:00.3070785', 'errors': None}}, 'id': '491659374', 'timestamp': 1567631336743, 'datetime': '2019-09-04T21:08:56.743Z', 'lastTradeTimestamp': None, 'status': 'closed', 'symbol': 'WAVES/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.00010593, 'cost': 0.000220514481, 'amount': 2.0817, 'remaining': 0.0, 'filled': 2.0817, 'fee': None}, {'info': {'success': 1, 'return': {'received': 14.905, 'remains': 0.0, 'init_order_id': 491659385, 'order_id': 0, 'funds': {'waves': 16.9697133, 'btc': 8.43654818768e-05}, 'trades': [{'trade_id': 35254744, 'pair': None, 'type': 'buy', 'amount': 14.905, 'rate': 0.00010597, 'order_id': 491659385, 'is_your_order': True, 'timestamp': 0}]}, 'stat': {'isSuccess': True, 'serverTime': '00:00:00.0321765', 'time': '00:00:00.0518828', 'errors': None}}, 'id': '491659385', 'timestamp': 1567631337327, 'datetime': '2019-09-04T21:08:57.327Z', 'lastTradeTimestamp': None, 'status': 'closed', 'symbol': 'WAVES/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.00010597, 'cost': 0.00157948285, 'amount': 14.905, 'remaining': 0.0, 'filled': 14.905, 'fee': None}]}}
+{'timestamp': 'Sep 04 2019 05:08:58 PM', 'log_info': {'action': 'withdraw_start', 'sendexchange': 'tidex', 'getexchange': 'bittrex', 'currency': 'WAVES'}}
+{'timestamp': 'Sep 04 2019 05:11:34 PM', 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'tidex', 'getexchange': 'bittrex', 'currency': 'WAVES', 'amount': 16.9697133, 'address': '3P6AoTvdfh2ECuQm61wi5QmKvcH5qoqwD4L', 'tag': ''}}
+{'timestamp': 'Sep 04 2019 05:11:34 PM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'WAVES'}}
+{'timestamp': 'Sep 04 2019 05:43:02 PM', 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'bittrex', 'currency': 'WAVES', 'amount': 16.9587133}}
+{'timestamp': 'Sep 04 2019 05:48:30 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 05:49:00 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 05:49:19 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 05:49:40 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 05:50:00 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 05:55:59 PM', 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Sep 04 2019 05:55:59 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 05:55:59 PM', 'log_info': {'action': 'arbitrage_fail_stay_completed'}}
+{'timestamp': 'Sep 04 2019 06:02:45 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:09:58 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:12:35 PM', 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Sep 04 2019 06:12:38 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:14:50 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:15:00 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:15:10 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:15:20 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:15:30 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:15:40 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:15:50 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:15:50 PM', 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'bittrex', 'currency': 'WAVES/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 8, 'strategy': [{'price': 0.00010578, 'quantity': 16.9587133, 'smallmode': False}], 'sumarrayBTC': [0.0017938926928739998], 'totalBTC': 0.0017938926928739998, 'totalquantity': 16.9587133}}}
+{'timestamp': 'Sep 04 2019 06:16:07 PM', 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'bittrex', 'currency': 'WAVES/BTC', 'orders': [{'info': {'success': True, 'message': '', 'result': {'uuid': 'e55b79db-cca3-4994-afb5-281588f6bebf'}}, 'id': 'e55b79db-cca3-4994-afb5-281588f6bebf', 'symbol': 'WAVES/BTC', 'type': 'limit', 'side': 'sell', 'status': 'open'}]}}
+{'timestamp': 'Sep 04 2019 06:16:07 PM', 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bittrex', 'currency': 'WAVES/BTC'}}
+{'timestamp': 'Sep 04 2019 06:16:08 PM', 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'bittrex', 'currency': 'WAVES/BTC'}}
+{'timestamp': 'Sep 04 2019 06:16:08 PM', 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

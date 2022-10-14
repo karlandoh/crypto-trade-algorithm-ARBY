@@ -1,0 +1,104 @@
+{'timestamp': 'Dec 16 2019 10:16:59 PM', 'soldier': 52, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 10:17:07 PM', 'soldier': 52, 'log_info': {'action': 'place_orders_start', 'exchange': 'coss', 'currency': 'XLM/BTC', 'orders': {'strategy': [{'price': 6.8e-06, 'quantity': 558.8, 'smallmode': False}], 'sumarrayBTC': [0.0037998399999999996], 'totalBTC': 0.0037998399999999996, 'totalquantity': 558.8, 'quantityprecision': 1, 'priceprecision': 7, 'eccentric': False}}}
+{'timestamp': 'Dec 16 2019 10:17:08 PM', 'soldier': 52, 'log_info': {'action': 'place_orders_complete', 'exchange': 'coss', 'currency': 'XLM/BTC', 'orders': [{'info': {'hex_id': '5df848b4330fe56a1fd3512f', 'order_id': '63677d22-3b43-40f1-aa9c-e61995a146e0', 'account_id': 'fe953ef5-d893-4fd6-8076-545984bf9824', 'order_symbol': 'XLM_BTC', 'order_side': 'BUY', 'status': 'open', 'createTime': 1576552628156, 'type': 'limit', 'timeMatching': 0, 'order_price': '0.00000680', 'order_size': '558.8', 'executed': '0', 'stop_price': '0.00000000', 'avg': '0.00000680', 'total': '0.00379984 BTC'}, 'id': '63677d22-3b43-40f1-aa9c-e61995a146e0', 'timestamp': 1576552628156, 'datetime': '2019-12-17T03:17:08.156Z', 'lastTradeTimestamp': None, 'symbol': 'XLM/BTC', 'type': 'limit', 'side': 'buy', 'price': 6.8e-06, 'amount': 558.8, 'cost': None, 'average': 6.8e-06, 'filled': 0.0, 'remaining': 558.8, 'status': 'open', 'fee': None, 'trades': None, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 16 2019 10:17:14 PM', 'soldier': 52, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'coss', 'getexchange': 'bitmax', 'currency': 'XLM'}}
+{'timestamp': 'Dec 16 2019 10:17:44 PM', 'soldier': 52, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'coss', 'getexchange': 'bitmax', 'currency': 'XLM', 'amount': 562.49998, 'address': 'GCUJBYOLNBF3FIXHF6FS5DUFEKCPQDFFVZELUGBP3YZGLTOIJVM47UBL', 'tag': '41551'}}
+{'timestamp': 'Dec 16 2019 10:17:44 PM', 'soldier': 52, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bitmax', 'currency': 'XLM'}}
+{'timestamp': 'Dec 16 2019 10:18:17 PM', 'soldier': 52, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'bitmax', 'currency': 'XLM', 'amount': 562.4899800000001}}
+{'timestamp': 'Dec 16 2019 10:18:25 PM', 'soldier': 52, 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Dec 16 2019 10:18:26 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 10:18:26 PM', 'soldier': 52, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC', 'orders': {'strategy': [{'price': 6.735e-06, 'quantity': 562.0, 'smallmode': False}], 'sumarrayBTC': [0.0037850699999999998], 'totalBTC': 0.0037850699999999998, 'totalquantity': 562.0, 'quantityprecision': 0, 'priceprecision': 9, 'eccentric': False}}}
+{'timestamp': 'Dec 16 2019 10:18:27 PM', 'soldier': 52, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'bitmax', 'currency': 'XLM/BTC', 'orders': [{'info': {'coid': '0b625a223390473e932d20f686011e7b', 'action': 'new', 'success': True}, 'id': '0b625a223390473e932d20f686011e7b', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': 'XLM/BTC', 'type': None, 'side': None, 'price': 6.735e-06, 'amount': 562.0, 'cost': None, 'average': None, 'filled': None, 'remaining': None, 'status': None, 'fee': {'cost': None, 'currency': None}, 'trades': None, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 16 2019 10:18:27 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 17 2019 01:15:16 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 01:15:17 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 17 2019 04:49:44 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 04:49:45 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 17 2019 04:54:15 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 04:54:16 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 17 2019 05:05:42 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 05:05:43 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 17 2019 06:30:17 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 06:30:17 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 17 2019 07:51:49 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 07:51:49 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 17 2019 02:58:03 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 02:58:06 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 17 2019 03:00:07 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:00:07 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 17 2019 03:11:46 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:11:47 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 17 2019 03:18:10 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:18:12 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 17 2019 03:20:54 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:20:55 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 17 2019 05:44:52 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 05:44:53 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 18 2019 04:25:37 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 04:25:37 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 18 2019 04:36:52 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 04:36:53 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 18 2019 05:31:53 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 05:31:54 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 18 2019 07:13:58 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 07:13:58 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 18 2019 10:23:02 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 10:23:03 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 18 2019 10:37:41 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 10:37:42 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 18 2019 10:54:47 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 10:54:47 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 18 2019 11:16:12 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 11:16:13 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 18 2019 11:30:02 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 11:30:02 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 12:33:04 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 12:33:05 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 01:02:38 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 01:02:39 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 01:45:55 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 01:45:55 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 03:38:56 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 03:38:57 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 04:17:58 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 04:17:58 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 04:44:56 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 04:44:56 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 04:47:26 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 04:47:27 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 04:50:45 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 04:50:45 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 05:05:24 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 05:05:24 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 05:46:31 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 05:46:31 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 06:46:33 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 06:46:33 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 05:20:41 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 05:20:41 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 05:36:42 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 05:36:42 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 08:04:01 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 08:04:01 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 19 2019 08:19:06 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 08:19:07 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 20 2019 05:23:12 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 20 2019 05:23:12 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 20 2019 03:05:08 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 20 2019 03:05:09 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 20 2019 08:20:37 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 20 2019 08:20:37 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 21 2019 01:15:50 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 21 2019 01:15:51 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 21 2019 11:40:00 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 21 2019 11:40:00 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 22 2019 01:03:24 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 22 2019 01:03:25 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 24 2019 04:30:07 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 24 2019 04:30:07 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 24 2019 04:33:46 AM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 24 2019 04:33:47 AM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 25 2019 09:52:04 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 25 2019 09:52:04 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}
+{'timestamp': 'Dec 25 2019 10:14:14 PM', 'soldier': 52, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 25 2019 10:14:14 PM', 'soldier': 52, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bitmax', 'currency': 'XLM/BTC'}}

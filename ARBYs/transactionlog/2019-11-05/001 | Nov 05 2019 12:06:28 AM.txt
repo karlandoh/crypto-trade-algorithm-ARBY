@@ -1,0 +1,30 @@
+{'timestamp': 'Nov 05 2019 12:06:29 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 12:06:37 AM', 'soldier': 39, 'log_info': {'action': 'place_orders_start', 'exchange': 'bittrex', 'currency': 'EMC2/BTC', 'orders': {'strategy': [{'price': 5.15e-06, 'quantity': 294.11764705, 'smallmode': False}, {'price': 5.16e-06, 'quantity': 188.28540719, 'smallmode': False}, {'price': 5.18e-06, 'quantity': 932.42347755, 'smallmode': False}, {'price': 5.19e-06, 'quantity': 2019.99764988, 'smallmode': False}], 'sumarrayBTC': [0.0015147058823075, 0.0009715527011003999, 0.004829953613709001, 0.0104837878028772], 'totalBTC': 0.017799999999994102, 'totalquantity': 3434.82418167, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Nov 05 2019 12:06:38 AM', 'soldier': 39, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bittrex', 'currency': 'EMC2/BTC', 'orders': [{'info': {'success': True, 'message': '', 'result': {'uuid': '9351c8f1-631b-4839-9a71-c0bf68ec35ef'}}, 'id': '9351c8f1-631b-4839-9a71-c0bf68ec35ef', 'symbol': 'EMC2/BTC', 'type': 'limit', 'side': 'buy', 'status': 'open', 'mode': 'auto', 'price': 5.15e-06, 'amount': 294.11764705}, {'info': {'success': True, 'message': '', 'result': {'uuid': '2674fce3-e05b-461a-be0a-5e0e64af9880'}}, 'id': '2674fce3-e05b-461a-be0a-5e0e64af9880', 'symbol': 'EMC2/BTC', 'type': 'limit', 'side': 'buy', 'status': 'open', 'mode': 'auto', 'price': 5.16e-06, 'amount': 188.28540719}, {'info': {'success': True, 'message': '', 'result': {'uuid': 'ab31f748-f0ca-44bd-89ff-a08e63263374'}}, 'id': 'ab31f748-f0ca-44bd-89ff-a08e63263374', 'symbol': 'EMC2/BTC', 'type': 'limit', 'side': 'buy', 'status': 'open', 'mode': 'auto', 'price': 5.18e-06, 'amount': 932.42347755}, {'info': {'success': True, 'message': '', 'result': {'uuid': '3f5fd184-24bc-4853-bc6b-bbb28f337779'}}, 'id': '3f5fd184-24bc-4853-bc6b-bbb28f337779', 'symbol': 'EMC2/BTC', 'type': 'limit', 'side': 'buy', 'status': 'open', 'mode': 'auto', 'price': 5.19e-06, 'amount': 2019.99764988}]}}
+{'timestamp': 'Nov 05 2019 12:06:45 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bittrex', 'getexchange': 'upbit', 'currency': 'EMC2'}}
+{'timestamp': 'Nov 05 2019 12:06:45 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'bittrex', 'getexchange': 'upbit', 'currency': 'EMC2', 'amount': 3434.82418167, 'address': 'EZvs46Hh2j14wwaYmSE9cCX1civVMKJ5jn', 'tag': ''}}
+{'timestamp': 'Nov 05 2019 12:06:45 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'EMC2'}}
+{'timestamp': 'Nov 05 2019 12:18:22 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 12:18:23 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'EMC2'}}
+{'timestamp': 'Nov 05 2019 12:35:49 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 12:35:49 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'EMC2'}}
+{'timestamp': 'Nov 05 2019 01:33:25 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 01:33:25 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'EMC2'}}
+{'timestamp': 'Nov 05 2019 04:32:07 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 04:32:07 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'EMC2'}}
+{'timestamp': 'Nov 05 2019 06:34:02 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 06:34:04 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'EMC2'}}
+{'timestamp': 'Nov 05 2019 07:00:59 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 07:00:59 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'EMC2'}}
+{'timestamp': 'Nov 05 2019 08:35:21 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 08:35:25 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'EMC2'}}
+{'timestamp': 'Nov 05 2019 08:58:28 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 08:58:28 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'EMC2'}}
+{'timestamp': 'Nov 05 2019 09:43:19 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:43:20 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'EMC2'}}
+{'timestamp': 'Nov 05 2019 09:43:46 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:43:46 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'EMC2'}}
+{'timestamp': 'Nov 05 2019 09:46:39 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'upbit', 'currency': 'EMC2', 'amount': 3434.624181}}
+{'timestamp': 'Nov 05 2019 09:46:39 PM', 'soldier': 39, 'log_info': {'action': 'place_orders_start', 'exchange': 'upbit', 'currency': 'EMC2/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 8, 'strategy': [{'price': 5.35e-06, 'quantity': 3426.03712121, 'smallmode': False}], 'sumarrayBTC': [0.018329298598473497], 'totalBTC': 0.018329298598473497, 'totalquantity': 3426.03712121}}}
+{'timestamp': 'Nov 05 2019 09:46:57 PM', 'soldier': 39, 'log_info': {'action': 'place_orders_complete', 'exchange': 'upbit', 'currency': 'EMC2/BTC', 'orders': [{'amount': 3426.03712121, 'price': 5.35e-06, 'mode': 'manual'}]}}
+{'timestamp': 'Nov 05 2019 09:47:14 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_success_completed'}}

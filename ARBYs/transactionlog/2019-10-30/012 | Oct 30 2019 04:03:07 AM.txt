@@ -1,0 +1,14 @@
+{'timestamp': 'Oct 30 2019 04:03:09 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:03:09 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'southxchange', 'getexchange': 'oceanex', 'currency': 'BTC'}}
+{'timestamp': 'Oct 30 2019 04:03:19 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'southxchange', 'getexchange': 'oceanex', 'currency': 'BTC', 'amount': 0.00364479, 'address': '1GcakgWV169h8ZpNx2JVHTAeUi4vjit39T', 'tag': ''}}
+{'timestamp': 'Oct 30 2019 04:03:19 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'BTC'}}
+{'timestamp': 'Oct 30 2019 04:15:36 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:15:37 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'BTC'}}
+{'timestamp': 'Oct 30 2019 04:22:37 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:22:38 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'BTC'}}
+{'timestamp': 'Oct 30 2019 04:26:37 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:26:40 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'BTC'}}
+{'timestamp': 'Oct 30 2019 04:28:19 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:28:19 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'BTC'}}
+{'timestamp': 'Oct 30 2019 04:28:52 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'oceanex', 'currency': 'BTC', 'amount': 0.003544}}
+{'timestamp': 'Oct 30 2019 04:29:39 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

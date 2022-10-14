@@ -1,0 +1,78 @@
+{'timestamp': 'Oct 06 2019 02:29:55 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 02:30:08 PM', 'soldier': 5, 'log_info': {'action': 'place_orders_start', 'exchange': 'binance', 'currency': 'DASH/BTC', 'orders': {'strategy': [{'price': 0.008694, 'quantity': 2.162, 'smallmode': False}], 'sumarrayBTC': [0.018796428], 'totalBTC': 0.018796428, 'totalquantity': 2.162, 'quantityprecision': 3, 'priceprecision': 6, 'eccentric': False}}}
+{'timestamp': 'Oct 06 2019 02:30:10 PM', 'soldier': 5, 'log_info': {'action': 'place_orders_complete', 'exchange': 'binance', 'currency': 'DASH/BTC', 'orders': [{'info': {'symbol': 'DASHBTC', 'orderId': 95466458, 'orderListId': -1, 'clientOrderId': '3Uj7Ao6lG5KFloYbbsp1lF', 'transactTime': 1570386610547, 'price': '0.00869400', 'origQty': '2.16200000', 'executedQty': '0.00000000', 'cummulativeQuoteQty': '0.00000000', 'status': 'NEW', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'BUY'}, 'id': '95466458', 'timestamp': 1570386610547, 'datetime': '2019-10-06T18:30:10.547Z', 'lastTradeTimestamp': None, 'symbol': 'DASH/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.008694, 'amount': 2.162, 'cost': 0.0, 'average': None, 'filled': 0.0, 'remaining': 2.162, 'status': 'open', 'fee': None, 'trades': None, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 06 2019 02:30:29 PM', 'soldier': 5, 'log_info': {'action': 'cancel_start', 'exchange': 'binance', 'currency': 'DASH/BTC', 'orders': [{'info': {'symbol': 'DASHBTC', 'orderId': 95466458, 'orderListId': -1, 'clientOrderId': '3Uj7Ao6lG5KFloYbbsp1lF', 'transactTime': 1570386610547, 'price': '0.00869400', 'origQty': '2.16200000', 'executedQty': '0.00000000', 'cummulativeQuoteQty': '0.00000000', 'status': 'NEW', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'BUY'}, 'id': '95466458', 'timestamp': 1570386610547, 'datetime': '2019-10-06T18:30:10.547Z', 'lastTradeTimestamp': None, 'symbol': 'DASH/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.008694, 'amount': 2.162, 'cost': 0.0, 'average': None, 'filled': 0.0, 'remaining': 2.162, 'status': 'open', 'fee': None, 'trades': None, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 06 2019 02:30:30 PM', 'soldier': 5, 'log_info': {'action': 'cancel_complete', 'exchange': 'binance', 'currency': 'DASH/BTC', 'orders': [{'info': {'symbol': 'DASHBTC', 'orderId': 95466458, 'orderListId': -1, 'clientOrderId': '3Uj7Ao6lG5KFloYbbsp1lF', 'transactTime': 1570386610547, 'price': '0.00869400', 'origQty': '2.16200000', 'executedQty': '0.00000000', 'cummulativeQuoteQty': '0.00000000', 'status': 'NEW', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'BUY'}, 'id': '95466458', 'timestamp': 1570386610547, 'datetime': '2019-10-06T18:30:10.547Z', 'lastTradeTimestamp': None, 'symbol': 'DASH/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.008694, 'amount': 2.162, 'cost': 0.0, 'average': None, 'filled': 0.0, 'remaining': 2.162, 'status': 'open', 'fee': None, 'trades': None, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 06 2019 02:30:30 PM', 'soldier': 5, 'log_info': {'action': 'place_orders_start', 'exchange': 'binance', 'currency': 'DASH/BTC', 'orders': {'strategy': [{'price': 0.008697, 'quantity': 0.488, 'smallmode': False}], 'sumarrayBTC': [0.004244136], 'totalBTC': 0.004244136, 'totalquantity': 0.488, 'quantityprecision': 3, 'priceprecision': 6, 'eccentric': False}}}
+{'timestamp': 'Oct 06 2019 02:36:17 PM', 'soldier': 5, 'log_info': {'action': 'place_orders_complete', 'exchange': 'binance', 'currency': 'DASH/BTC', 'orders': [{'amount': 0.0, 'price': 0.008697, 'mode': 'manual'}]}}
+{'timestamp': 'Oct 06 2019 02:36:25 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'binance', 'getexchange': 'okex3', 'currency': 'DASH'}}
+{'timestamp': 'Oct 06 2019 02:38:18 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 02:38:18 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'binance', 'getexchange': 'okex3', 'currency': 'DASH'}}
+{'timestamp': 'Oct 06 2019 02:38:22 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'binance', 'getexchange': 'okex3', 'currency': 'DASH', 'amount': 2.161743, 'address': '7UdzzeU6o81LCK2EyR3XkAUeXcQdoWwZEP', 'tag': ''}}
+{'timestamp': 'Oct 06 2019 02:38:22 PM', 'soldier': 5, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'okex3', 'currency': 'DASH'}}
+{'timestamp': 'Oct 06 2019 03:02:19 PM', 'soldier': 5, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'okex3', 'currency': 'DASH', 'amount': 2.159743}}
+{'timestamp': 'Oct 06 2019 03:02:32 PM', 'soldier': 5, 'log_info': {'action': 'place_orders_start', 'exchange': 'okex3', 'currency': 'DASH/BTC', 'orders': {'strategy': [{'price': 0.00867, 'quantity': 2.159743, 'smallmode': False}], 'sumarrayBTC': [0.018724971810000005], 'totalBTC': 0.018724971810000005, 'totalquantity': 2.159743, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 06 2019 03:02:34 PM', 'soldier': 5, 'log_info': {'action': 'place_orders_complete', 'exchange': 'okex3', 'currency': 'DASH/BTC', 'orders': [{'info': {'client_oid': '', 'error_code': '', 'error_message': '', 'order_id': '3647245797428224', 'result': True}, 'id': '3647245797428224', 'timestamp': 1570388554482, 'datetime': '2019-10-06T19:02:34.482Z', 'lastTradeTimestamp': None, 'status': None, 'symbol': 'DASH/BTC', 'type': 'limit', 'side': 'sell', 'price': 0.00867, 'amount': 2.159743, 'filled': None, 'remaining': None, 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 06 2019 03:02:51 PM', 'soldier': 5, 'log_info': {'action': 'place_orders_start', 'exchange': 'okex3', 'currency': 'VITE/BTC', 'orders': {'strategy': [{'price': 1.43e-06, 'quantity': 13094.38588111, 'smallmode': False}], 'sumarrayBTC': [0.0187249718099873], 'totalBTC': 0.0187249718099873, 'totalquantity': 13094.38588111, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 06 2019 03:03:56 PM', 'soldier': 5, 'log_info': {'action': 'place_orders_complete', 'exchange': 'okex3', 'currency': 'VITE/BTC', 'orders': [{'info': {'client_oid': '', 'error_code': '', 'error_message': '', 'order_id': '3647251151263744', 'result': True}, 'id': '3647251151263744', 'timestamp': 1570388636181, 'datetime': '2019-10-06T19:03:56.181Z', 'lastTradeTimestamp': None, 'status': None, 'symbol': 'VITE/BTC', 'type': 'limit', 'side': 'buy', 'price': 1.43e-06, 'amount': 13062.91701398, 'filled': None, 'remaining': None, 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 06 2019 03:04:02 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 03:30:26 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 03:30:26 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 03:51:26 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 03:51:26 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 03:59:18 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 03:59:18 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 04:15:23 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 04:15:24 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 04:17:19 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 04:17:19 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 04:24:52 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 04:24:59 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 04:34:19 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 04:34:20 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 04:43:45 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 04:43:45 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 04:56:14 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 04:56:14 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 05:59:09 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 05:59:10 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 06:28:29 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 06:28:29 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 06:33:28 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 06:33:28 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 06:41:07 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 06:41:08 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 07:42:23 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 07:42:24 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 07:44:01 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 07:44:01 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 07:48:57 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 07:48:57 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 07:53:37 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 07:53:37 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 08:00:34 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 08:00:34 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 08:07:45 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 08:07:45 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 08:15:20 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 08:15:20 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 10:19:35 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 10:19:35 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 10:51:19 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 10:51:20 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 06 2019 10:56:44 PM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 06 2019 10:56:45 PM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 07 2019 04:50:27 AM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 07 2019 04:50:27 AM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 07 2019 04:53:13 AM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 07 2019 04:53:13 AM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 07 2019 04:55:03 AM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 07 2019 04:55:04 AM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 07 2019 04:56:36 AM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 07 2019 04:56:37 AM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 07 2019 05:08:35 AM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 07 2019 05:08:35 AM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 07 2019 05:12:18 AM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 07 2019 05:12:18 AM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}
+{'timestamp': 'Oct 07 2019 05:27:28 AM', 'soldier': 5, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 07 2019 05:27:29 AM', 'soldier': 5, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'upbit', 'currency': 'VITE'}}

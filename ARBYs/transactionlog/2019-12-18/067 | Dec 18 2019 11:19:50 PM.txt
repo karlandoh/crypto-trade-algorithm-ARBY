@@ -1,0 +1,4 @@
+{'timestamp': 'Dec 18 2019 11:19:51 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 11:20:01 PM', 'soldier': 20, 'log_info': {'action': 'place_orders_start', 'exchange': 'bibox', 'currency': 'XRP/BTC', 'orders': {'strategy': [{'price': 2.648e-05, 'quantity': 5.0, 'smallmode': False}, {'price': 2.659e-05, 'quantity': 65.5186, 'smallmode': False}], 'sumarrayBTC': [0.0001324, 0.0017421395740000003], 'totalBTC': 0.0018745395740000002, 'totalquantity': 70.5186, 'quantityprecision': 4, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 18 2019 11:29:57 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 11:30:03 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

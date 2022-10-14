@@ -1,0 +1,14 @@
+{'timestamp': 'Oct 31 2019 06:50:16 PM', 'soldier': 26, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 06:50:25 PM', 'soldier': 26, 'log_info': {'action': 'place_orders_start', 'exchange': 'bigone', 'currency': 'TRX/BTC', 'orders': {'strategy': [{'price': 2.15e-06, 'quantity': 1755.8, 'smallmode': False}], 'sumarrayBTC': [0.0037749700000000003], 'totalBTC': 0.0037749700000000003, 'totalquantity': 1755.8, 'quantityprecision': 1, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 31 2019 06:52:25 PM', 'soldier': 26, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bigone', 'currency': 'TRX/BTC', 'orders': [{'amount': 1755.8, 'price': 2.15e-06, 'mode': 'manual'}]}}
+{'timestamp': 'Oct 31 2019 06:54:13 PM', 'soldier': 26, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bigone', 'getexchange': 'upbit', 'currency': 'TRX'}}
+{'timestamp': 'Oct 31 2019 07:05:22 PM', 'soldier': 26, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'bigone', 'getexchange': 'upbit', 'currency': 'TRX', 'amount': 1753.0, 'address': 'TLbFPiif1feFyhgFEcHxrWB7oVS634qwjG', 'tag': ''}}
+{'timestamp': 'Oct 31 2019 07:05:23 PM', 'soldier': 26, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'TRX'}}
+{'timestamp': 'Oct 31 2019 07:10:33 PM', 'soldier': 26, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'upbit', 'currency': 'TRX', 'amount': 1753.0}}
+{'timestamp': 'Oct 31 2019 07:11:11 PM', 'soldier': 26, 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Oct 31 2019 07:11:12 PM', 'soldier': 26, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 07:11:12 PM', 'soldier': 26, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'upbit', 'currency': 'TRX/BTC', 'orders': {'strategy': [{'price': 2.13e-06, 'quantity': 1753.0, 'smallmode': False}], 'sumarrayBTC': [0.0037338899999999997], 'totalBTC': 0.0037338899999999997, 'totalquantity': 1753.0, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 31 2019 07:11:40 PM', 'soldier': 26, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'upbit', 'currency': 'TRX/BTC', 'orders': [{'amount': 1753.0, 'price': 2.13e-06, 'mode': 'manual'}]}}
+{'timestamp': 'Oct 31 2019 07:11:40 PM', 'soldier': 26, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'upbit', 'currency': 'TRX/BTC'}}
+{'timestamp': 'Oct 31 2019 07:12:02 PM', 'soldier': 26, 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'upbit', 'currency': 'TRX/BTC'}}
+{'timestamp': 'Oct 31 2019 07:12:02 PM', 'soldier': 26, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

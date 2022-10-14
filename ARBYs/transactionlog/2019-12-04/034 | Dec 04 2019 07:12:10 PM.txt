@@ -1,0 +1,20 @@
+{'timestamp': 'Dec 04 2019 07:12:12 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 07:12:21 PM', 'soldier': 20, 'log_info': {'action': 'place_orders_start', 'exchange': 'kucoin', 'currency': 'ENJ/BTC', 'orders': {'strategy': [{'price': 1.053e-05, 'quantity': 360.8736942, 'smallmode': False}], 'sumarrayBTC': [0.003799999999926], 'totalBTC': 0.003799999999926, 'totalquantity': 360.8736942, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 04 2019 07:12:22 PM', 'soldier': 20, 'log_info': {'action': 'place_orders_complete', 'exchange': 'kucoin', 'currency': 'ENJ/BTC', 'orders': [{'id': '5de84b667771cf0009d5fce6', 'symbol': 'ENJ/BTC', 'type': 'limit', 'side': 'buy', 'price': 1.053e-05, 'cost': None, 'filled': None, 'remaining': None, 'timestamp': 1575504742238, 'datetime': '2019-12-05T00:12:22.238Z', 'fee': None, 'status': 'open', 'clientOid': 'bb297f21-2f86-44f4-97c7-905964adc6c7', 'info': {'orderId': '5de84b667771cf0009d5fce6'}, 'amount': 360.8736942, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 04 2019 07:12:28 PM', 'soldier': 20, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'kucoin', 'getexchange': 'livecoin', 'currency': 'ENJ'}}
+{'timestamp': 'Dec 04 2019 07:12:32 PM', 'soldier': 20, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'kucoin', 'getexchange': 'livecoin', 'currency': 'ENJ', 'amount': 360.8736, 'address': '0xc48da57c35ac044a4cef437468a5445d093de889', 'tag': None}}
+{'timestamp': 'Dec 04 2019 07:12:32 PM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'ENJ'}}
+{'timestamp': 'Dec 04 2019 07:22:19 PM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'livecoin', 'currency': 'ENJ', 'amount': 350.3736}}
+{'timestamp': 'Dec 04 2019 07:22:20 PM', 'soldier': 20, 'log_info': {'action': 'place_orders_start', 'exchange': 'livecoin', 'currency': 'ENJ/BTC', 'orders': {'strategy': [{'price': 1.102e-05, 'quantity': 346.7676951, 'smallmode': False}, {'price': 1.1e-05, 'quantity': 0.58472999, 'smallmode': True}, {'price': 1e-05, 'quantity': 2.6603954, 'smallmode': False}], 'sumarrayBTC': [0.0038213800000020002, 6.43202989e-06, 2.6603954000000002e-05], 'totalBTC': 0.0038544159838920003, 'totalquantity': 350.0128204900001, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 04 2019 07:23:05 PM', 'soldier': 20, 'log_info': {'action': 'place_orders_complete', 'exchange': 'livecoin', 'currency': 'ENJ/BTC', 'orders': [{'info': {'success': True, 'added': True, 'orderId': 79148782351, 'exception': None}, 'id': '79148782351', 'status': 'open', 'mode': 'auto', 'price': 1.102e-05, 'amount': 346.7676951}, {'amount': 2.6603954, 'price': 1e-05, 'mode': 'manual'}]}}
+{'timestamp': 'Dec 04 2019 07:48:15 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 08:37:04 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:10:53 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:45:02 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:47:40 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 10:13:34 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 10:27:37 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:31:21 AM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:31:29 AM', 'soldier': 20, 'log_info': {'action': 'arbitrage_success_completed'}}
+{'timestamp': 'Dec 06 2019 12:36:09 AM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:36:16 AM', 'soldier': 20, 'log_info': {'action': 'arbitrage_success_completed'}}

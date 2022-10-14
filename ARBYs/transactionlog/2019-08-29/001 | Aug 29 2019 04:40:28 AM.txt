@@ -1,0 +1,12 @@
+{'timestamp': 'Aug 29 2019 04:40:57 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 04:56:58 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 05:09:26 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 05:12:05 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 05:29:15 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 05:54:18 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 05:55:32 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 05:56:59 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 06:02:09 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 06:09:48 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 06:10:33 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 06:12:00 AM', 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

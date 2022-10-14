@@ -1,0 +1,134 @@
+{'timestamp': 'Oct 31 2019 01:57:20 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 01:57:35 AM', 'soldier': 18, 'log_info': {'action': 'place_orders_start', 'exchange': 'digifinex', 'currency': 'EOS/BTC', 'orders': {'strategy': [{'price': 0.00035796, 'quantity': 19.38, 'smallmode': False}], 'sumarrayBTC': [0.0069372648], 'totalBTC': 0.0069372648, 'totalquantity': 19.38, 'quantityprecision': 2, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 31 2019 01:57:37 AM', 'soldier': 18, 'log_info': {'action': 'place_orders_complete', 'exchange': 'digifinex', 'currency': 'EOS/BTC', 'orders': [{'info': {'code': 0, 'order_id': '68e1497286d751c092e44942319a6884'}, 'id': '68e1497286d751c092e44942319a6884', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': 'EOS/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.00035796, 'amount': 19.38, 'filled': None, 'remaining': None, 'cost': None, 'average': None, 'status': None, 'fee': None, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 31 2019 01:57:44 AM', 'soldier': 18, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'digifinex', 'getexchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Oct 31 2019 02:04:30 AM', 'soldier': 18, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'digifinex', 'getexchange': 'bibox', 'currency': 'EOS', 'amount': 19.0, 'address': 'bibox2wallet', 'tag': '5915412423'}}
+{'timestamp': 'Oct 31 2019 02:04:30 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Oct 31 2019 02:30:37 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 02:30:37 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Oct 31 2019 03:08:44 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 03:08:44 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Oct 31 2019 04:49:14 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 04:49:14 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Oct 31 2019 04:34:28 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 04:34:28 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Oct 31 2019 06:32:09 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 06:32:11 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Oct 31 2019 06:49:04 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 06:49:05 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Oct 31 2019 07:17:43 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 07:17:44 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Oct 31 2019 07:23:31 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 07:23:31 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 01 2019 01:15:13 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 01 2019 01:15:13 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 04:25:13 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:25:14 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 04:56:46 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:56:47 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 06:00:34 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:00:34 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 06:24:05 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:24:09 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 06:29:14 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:29:15 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 06:58:04 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:58:07 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 07:10:13 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:10:14 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 07:26:11 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:26:14 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 07:33:07 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:33:07 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 04:28:43 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:28:43 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 04:53:27 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:53:28 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 04:58:22 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:58:22 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 05:05:18 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 05:05:22 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 05:49:24 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 05:49:25 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 06:00:27 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:00:29 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 06:33:34 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:33:34 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 06:39:36 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:39:36 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 06:43:36 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:43:38 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 07:11:12 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:11:12 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 07:41:01 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:41:03 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 07:51:34 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:51:36 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 08:02:35 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 08:02:37 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 08:36:15 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 08:36:17 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 08:48:18 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 08:48:20 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 09:01:37 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 09:01:37 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 09:44:02 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 09:44:02 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 11:27:18 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 11:27:19 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 04 2019 11:44:16 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 11:44:18 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 12:05:53 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 12:05:53 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 12:18:21 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 12:18:23 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 12:35:49 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 12:35:49 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 01:33:25 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 01:33:25 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 04:32:07 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 04:32:07 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 06:34:03 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 06:34:05 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 07:00:57 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 07:00:57 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 08:35:23 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 08:35:25 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 08:58:27 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 08:58:28 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 09:43:19 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:43:20 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 09:43:46 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:43:47 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 09:55:08 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:55:09 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 09:56:09 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:56:10 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 09:57:30 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:57:30 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 09:58:35 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:58:36 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 10:03:17 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 10:03:18 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 10:05:28 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 10:05:28 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 10:53:29 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 10:53:30 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 11:03:43 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 11:03:44 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 05 2019 11:20:42 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 11:20:45 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 06 2019 12:49:53 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 12:49:55 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bibox', 'currency': 'EOS'}}
+{'timestamp': 'Nov 06 2019 12:50:13 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'bibox', 'currency': 'EOS', 'amount': 19.283}}
+{'timestamp': 'Nov 06 2019 12:50:24 AM', 'soldier': 18, 'log_info': {'action': 'place_orders_start', 'exchange': 'bibox', 'currency': 'EOS/BTC', 'orders': {'strategy': [{'price': 0.00039085, 'quantity': 19.283, 'smallmode': False}], 'sumarrayBTC': [0.00753676055], 'totalBTC': 0.00753676055, 'totalquantity': 19.283, 'quantityprecision': 4, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Nov 06 2019 12:50:25 AM', 'soldier': 18, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bibox', 'currency': 'EOS/BTC', 'orders': [{'info': {'result': '12230968424157439', 'cmd': 'orderpending/trade'}, 'id': '12230968424157439', 'mode': 'auto', 'price': 0.00039085, 'amount': 19.283}]}}
+{'timestamp': 'Nov 06 2019 12:50:39 AM', 'soldier': 18, 'log_info': {'action': 'place_orders_start', 'exchange': 'bibox', 'currency': 'TTC/BTC', 'orders': {'strategy': [{'price': 4.16e-06, 'quantity': 480.7692, 'smallmode': False}, {'price': 4.17e-06, 'quantity': 567.1453, 'smallmode': False}, {'price': 4.25e-06, 'quantity': 746.2975, 'smallmode': False}], 'sumarrayBTC': [0.001999999872, 0.002364995901, 0.003171764375], 'totalBTC': 0.007536760147999999, 'totalquantity': 1794.212, 'quantityprecision': 4, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Nov 06 2019 12:50:43 AM', 'soldier': 18, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bibox', 'currency': 'TTC/BTC', 'orders': [{'info': {'result': '12230968424158999', 'cmd': 'orderpending/trade'}, 'id': '12230968424158999', 'mode': 'auto', 'price': 4.16e-06, 'amount': 480.7692}, {'info': {'result': '12230968424159133', 'cmd': 'orderpending/trade'}, 'id': '12230968424159133', 'mode': 'auto', 'price': 4.17e-06, 'amount': 567.1453}, {'info': {'result': '12230968424159325', 'cmd': 'orderpending/trade'}, 'id': '12230968424159325', 'mode': 'auto', 'price': 4.25e-06, 'amount': 746.2975}]}}
+{'timestamp': 'Nov 06 2019 12:50:51 AM', 'soldier': 18, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bibox', 'getexchange': 'upbit', 'currency': 'TTC'}}
+{'timestamp': 'Nov 06 2019 12:52:46 AM', 'soldier': 18, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'bibox', 'getexchange': 'upbit', 'currency': 'TTC', 'amount': 794.0, 'address': 't07c8e2505e230fcdc98f388e1c38120934c5eb0b5', 'tag': ''}}
+{'timestamp': 'Nov 06 2019 12:52:46 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'TTC'}}
+{'timestamp': 'Nov 06 2019 12:57:43 AM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'upbit', 'currency': 'TTC', 'amount': 1790.0}}
+{'timestamp': 'Nov 06 2019 12:57:43 AM', 'soldier': 18, 'log_info': {'action': 'place_orders_start', 'exchange': 'upbit', 'currency': 'TTC/BTC', 'orders': {'strategy': [{'price': 4.08e-06, 'quantity': 1790.4177, 'smallmode': False}], 'sumarrayBTC': [0.007304904216], 'totalBTC': 0.007304904216, 'totalquantity': 1790.4177, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Nov 06 2019 12:58:10 AM', 'soldier': 18, 'log_info': {'action': 'place_orders_complete', 'exchange': 'upbit', 'currency': 'TTC/BTC', 'orders': [{'amount': 1790.4177, 'price': 4.08e-06, 'mode': 'manual'}]}}
+{'timestamp': 'Nov 06 2019 12:58:23 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_success_completed'}}

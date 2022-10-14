@@ -1,0 +1,6 @@
+{'timestamp': 'Sep 19 2019 06:51:52 PM', 'soldier': 11, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 19 2019 06:52:04 PM', 'soldier': 11, 'log_info': {'action': 'place_orders_start', 'exchange': 'livecoin', 'currency': 'XRP/BTC', 'orders': {'strategy': [{'price': 2.94e-05, 'quantity': 197.27891156, 'smallmode': False}], 'sumarrayBTC': [0.005799999999864], 'totalBTC': 0.005799999999864, 'totalquantity': 197.27891156, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': True}}}
+{'timestamp': 'Sep 19 2019 06:52:05 PM', 'soldier': 11, 'log_info': {'action': 'place_orders_complete', 'exchange': 'livecoin', 'currency': 'XRP/BTC', 'orders': [{'info': {'success': True, 'added': False, 'orderId': 62432037201, 'exception': None}, 'id': '62432037201', 'status': 'open', 'mode': 'auto', 'price': 2.94e-05, 'amount': 197.27891156}]}}
+{'timestamp': 'Sep 19 2019 06:52:06 PM', 'soldier': 11, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'livecoin', 'getexchange': 'bittrex', 'currency': 'XRP'}}
+{'timestamp': 'Sep 19 2019 06:52:37 PM', 'soldier': 11, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 19 2019 06:52:37 PM', 'soldier': 11, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'livecoin', 'getexchange': 'bittrex', 'currency': 'XRP'}}

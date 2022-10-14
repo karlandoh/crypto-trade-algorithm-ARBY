@@ -1,0 +1,117 @@
+{'timestamp': 'Dec 11 2019 10:08:08 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 10:08:18 PM', 'soldier': 4, 'log_info': {'action': 'place_orders_start', 'exchange': 'oceanex', 'currency': 'EOS/BTC', 'orders': {'strategy': [{'price': 0.00035845, 'quantity': 7.47, 'smallmode': False}, {'price': 0.00035852, 'quantity': 9.33, 'smallmode': False}, {'price': 0.00035864, 'quantity': 7.26, 'smallmode': False}], 'sumarrayBTC': [0.0026776215, 0.0033449915999999996, 0.0026037264], 'totalBTC': 0.0086263395, 'totalquantity': 24.060000000000002, 'quantityprecision': 2, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 11 2019 10:08:20 PM', 'soldier': 4, 'log_info': {'action': 'place_orders_complete', 'exchange': 'oceanex', 'currency': 'EOS/BTC', 'orders': [{'info': {'id': 752518385, 'side': 'buy', 'ord_type': 'limit', 'price': '0.00035845', 'avg_price': '0.0', 'state': 'wait', 'market': 'eosbtc', 'created_at': '2019-12-12T03:08:16Z', 'created_on': 1576120096, 'volume': '7.47', 'remaining_volume': '7.47', 'executed_volume': '0.0', 'trades_count': 0}, 'id': '752518385', 'timestamp': 1576120096000, 'datetime': '2019-12-12T03:08:16.000Z', 'lastTradeTimestamp': None, 'symbol': 'EOS/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.00035845, 'average': 0.0, 'amount': 7.47, 'remaining': 7.47, 'filled': 0.0, 'status': 'open', 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}, {'info': {'id': 752518406, 'side': 'buy', 'ord_type': 'limit', 'price': '0.00035852', 'avg_price': '0.0', 'state': 'wait', 'market': 'eosbtc', 'created_at': '2019-12-12T03:08:17Z', 'created_on': 1576120097, 'volume': '9.33', 'remaining_volume': '9.33', 'executed_volume': '0.0', 'trades_count': 0}, 'id': '752518406', 'timestamp': 1576120097000, 'datetime': '2019-12-12T03:08:17.000Z', 'lastTradeTimestamp': None, 'symbol': 'EOS/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.00035852, 'average': 0.0, 'amount': 9.33, 'remaining': 9.33, 'filled': 0.0, 'status': 'open', 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}, {'info': {'id': 752518437, 'side': 'buy', 'ord_type': 'limit', 'price': '0.00035864', 'avg_price': '0.0', 'state': 'wait', 'market': 'eosbtc', 'created_at': '2019-12-12T03:08:18Z', 'created_on': 1576120098, 'volume': '7.26', 'remaining_volume': '7.26', 'executed_volume': '0.0', 'trades_count': 0}, 'id': '752518437', 'timestamp': 1576120098000, 'datetime': '2019-12-12T03:08:18.000Z', 'lastTradeTimestamp': None, 'symbol': 'EOS/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.00035864, 'average': 0.0, 'amount': 7.26, 'remaining': 7.26, 'filled': 0.0, 'status': 'open', 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 11 2019 10:08:27 PM', 'soldier': 4, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'oceanex', 'getexchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 11 2019 10:10:09 PM', 'soldier': 4, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'oceanex', 'getexchange': 'lbank', 'currency': 'EOS', 'amount': 24.03595, 'address': 'lbankdeposit', 'tag': '865852484'}}
+{'timestamp': 'Dec 11 2019 10:10:09 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 11 2019 10:35:00 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 10:35:01 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 11 2019 11:15:33 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 11:15:35 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 12 2019 12:41:31 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 12 2019 12:41:32 AM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 12 2019 04:21:56 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 12 2019 04:21:56 AM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 12 2019 02:05:44 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 12 2019 02:05:45 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 04:33:36 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 04:33:37 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 04:52:27 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 04:52:28 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 05:42:19 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 05:42:20 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 06:08:25 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:08:26 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 06:11:58 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:11:59 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 06:20:14 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:20:14 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 06:24:02 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:24:05 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 06:32:33 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:32:34 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 06:41:45 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:41:46 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 06:49:41 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:49:43 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 09:34:43 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 09:34:44 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 10:41:15 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 10:41:16 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 01:53:51 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 01:53:52 AM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 05:02:56 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 05:02:56 AM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 05:04:16 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 05:04:16 AM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 05:07:00 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 05:07:01 AM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 06:02:01 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 06:02:03 AM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 01:59:58 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 02:00:00 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 02:26:31 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 02:26:32 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 02:29:10 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 02:29:10 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 04:11:40 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 04:11:42 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 06:18:46 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 06:18:47 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 06:29:27 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 06:29:27 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 07:04:17 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 07:04:18 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 08:39:09 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 08:39:10 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 02:29:59 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 02:30:00 AM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 03:34:47 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 03:34:47 AM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 03:42:19 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 03:42:22 AM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 04:08:47 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 04:08:48 AM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 02:12:08 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 02:12:08 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 03:34:08 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 03:34:12 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 03:37:06 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 03:37:10 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 07:15:05 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 07:15:06 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 08:18:24 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 08:18:26 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 10:24:49 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 10:24:50 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 11:44:26 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 11:44:29 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 07:20:40 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 07:20:42 AM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 05:50:59 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 05:50:59 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:10:06 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:10:07 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:22:21 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:22:25 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:42:59 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:43:00 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:57:57 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:58:01 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 07:11:42 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 07:11:44 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 07:30:59 PM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 07:31:01 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'lbank', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 08:21:39 PM', 'soldier': 4, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'lbank', 'currency': 'EOS', 'amount': 14.278885}}
+{'timestamp': 'Dec 17 2019 01:15:04 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 02:28:23 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 02:36:29 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 04:49:39 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 04:54:10 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 04:54:59 AM', 'soldier': 4, 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Dec 17 2019 04:55:00 AM', 'soldier': 4, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 04:55:00 AM', 'soldier': 4, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'lbank', 'currency': 'EOS/BTC', 'orders': {'strategy': [{'price': 0.00033885, 'quantity': 14.2788, 'smallmode': False}], 'sumarrayBTC': [0.00483837138], 'totalBTC': 0.00483837138, 'totalquantity': 14.2788, 'quantityprecision': 4, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 17 2019 04:58:52 AM', 'soldier': 4, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'lbank', 'currency': 'EOS/BTC', 'orders': [{'amount': 14.2788, 'price': 0.00033885, 'mode': 'manual'}]}}
+{'timestamp': 'Dec 17 2019 04:58:52 AM', 'soldier': 4, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'lbank', 'currency': 'EOS/BTC'}}
+{'timestamp': 'Dec 17 2019 04:58:58 AM', 'soldier': 4, 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'lbank', 'currency': 'EOS/BTC'}}
+{'timestamp': 'Dec 17 2019 04:58:58 AM', 'soldier': 4, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

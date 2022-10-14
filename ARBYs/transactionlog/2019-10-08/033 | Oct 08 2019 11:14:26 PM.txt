@@ -1,0 +1,168 @@
+{'timestamp': 'Oct 08 2019 11:14:28 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 08 2019 11:14:48 PM', 'soldier': 35, 'log_info': {'action': 'place_orders_start', 'exchange': 'binance', 'currency': 'TRX/BTC', 'orders': {'strategy': [{'price': 2.05e-06, 'quantity': 7503.0, 'smallmode': False}], 'sumarrayBTC': [0.01538115], 'totalBTC': 0.01538115, 'totalquantity': 7503.0, 'quantityprecision': 0, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 08 2019 11:14:49 PM', 'soldier': 35, 'log_info': {'action': 'place_orders_complete', 'exchange': 'binance', 'currency': 'TRX/BTC', 'orders': [{'info': {'symbol': 'TRXBTC', 'orderId': 145642050, 'orderListId': -1, 'clientOrderId': 'NdrbVNQyzhdZu9k6ttAR9C', 'transactTime': 1570590888006, 'price': '0.00000205', 'origQty': '7503.00000000', 'executedQty': '7503.00000000', 'cummulativeQuoteQty': '0.01538115', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'BUY'}, 'id': '145642050', 'timestamp': 1570590888006, 'datetime': '2019-10-09T03:14:48.006Z', 'lastTradeTimestamp': None, 'symbol': 'TRX/BTC', 'type': 'limit', 'side': 'buy', 'price': 2.05e-06, 'amount': 7503.0, 'cost': 0.01538115, 'average': 2.05e-06, 'filled': 7503.0, 'remaining': 0.0, 'status': 'closed', 'fee': None, 'trades': None, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 08 2019 11:14:58 PM', 'soldier': 35, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'binance', 'getexchange': 'hitbtc2', 'currency': 'TRX'}}
+{'timestamp': 'Oct 08 2019 11:15:02 PM', 'soldier': 35, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'binance', 'getexchange': 'hitbtc2', 'currency': 'TRX', 'amount': 7496.483625, 'address': 'TLmQYd72SPFaUQE9yL5y6aKiTsE53ppGZV', 'tag': ''}}
+{'timestamp': 'Oct 08 2019 11:15:03 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'hitbtc2', 'currency': 'TRX'}}
+{'timestamp': 'Oct 08 2019 11:25:22 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'hitbtc2', 'currency': 'TRX', 'amount': 7495.483625}}
+{'timestamp': 'Oct 08 2019 11:25:42 PM', 'soldier': 35, 'log_info': {'action': 'place_orders_start', 'exchange': 'hitbtc2', 'currency': 'TRX/BTC', 'orders': {'strategy': [{'price': 2.0362e-06, 'quantity': 7495.0, 'smallmode': False}], 'sumarrayBTC': [0.015261319], 'totalBTC': 0.015261319, 'totalquantity': 7495.0, 'quantityprecision': 0, 'priceprecision': 10, 'eccentric': False}}}
+{'timestamp': 'Oct 08 2019 11:25:44 PM', 'soldier': 35, 'log_info': {'action': 'place_orders_complete', 'exchange': 'hitbtc2', 'currency': 'TRX/BTC', 'orders': [{'id': '074e0bf933044836a24be920108810da', 'timestamp': 1570591543342, 'datetime': '2019-10-09T03:25:43.342Z', 'lastTradeTimestamp': 1570591543342, 'status': 'closed', 'symbol': 'TRX/BTC', 'type': 'limit', 'side': 'sell', 'price': 2.0362e-06, 'average': 2.0363e-06, 'amount': 7495.0, 'cost': 0.0152620685, 'filled': 7495.0, 'remaining': 0.0, 'fee': {'cost': 3.0524137e-05, 'currency': 'BTC'}, 'trades': [{'info': {'id': 680725062, 'quantity': '7495', 'price': '0.0000020363', 'fee': '0.000030524137', 'timestamp': '2019-10-09T03:25:43.342Z'}, 'id': '680725062', 'order': None, 'timestamp': 1570591543342, 'datetime': '2019-10-09T03:25:43.342Z', 'symbol': 'TRX/BTC', 'type': None, 'side': None, 'takerOrMaker': None, 'price': 2.0363e-06, 'amount': 7495.0, 'cost': 0.0152620685, 'fee': {'cost': 3.0524137e-05, 'currency': 'BTC'}}], 'info': {'id': '167925679531', 'clientOrderId': '074e0bf933044836a24be920108810da', 'symbol': 'TRXBTC', 'side': 'sell', 'status': 'filled', 'type': 'limit', 'timeInForce': 'GTC', 'quantity': '7495', 'price': '0.0000020362', 'cumQuantity': '7495', 'createdAt': '2019-10-09T03:25:43.342Z', 'updatedAt': '2019-10-09T03:25:43.342Z', 'postOnly': False, 'tradesReport': [{'id': 680725062, 'quantity': '7495', 'price': '0.0000020363', 'fee': '0.000030524137', 'timestamp': '2019-10-09T03:25:43.342Z'}]}, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 08 2019 11:26:11 PM', 'soldier': 35, 'log_info': {'action': 'place_orders_start', 'exchange': 'hitbtc2', 'currency': 'AEON/BTC', 'orders': {'strategy': [{'price': 2.4992e-05, 'quantity': 12.6, 'smallmode': False}, {'price': 2.4995e-05, 'quantity': 381.2, 'smallmode': False}, {'price': 2.4996e-05, 'quantity': 216.7, 'smallmode': False}], 'sumarrayBTC': [0.0003148992, 0.009528093999999999, 0.0054166332], 'totalBTC': 0.015259626399999998, 'totalquantity': 610.5, 'quantityprecision': 1, 'priceprecision': 9, 'eccentric': False}}}
+{'timestamp': 'Oct 08 2019 11:26:17 PM', 'soldier': 35, 'log_info': {'action': 'place_orders_complete', 'exchange': 'hitbtc2', 'currency': 'AEON/BTC', 'orders': [{'id': '0fe6654b1a344062b59b7decabbc9948', 'timestamp': 1570591572807, 'datetime': '2019-10-09T03:26:12.807Z', 'lastTradeTimestamp': 1570591572807, 'status': 'closed', 'symbol': 'AEON/BTC', 'type': 'limit', 'side': 'buy', 'price': 2.4992e-05, 'average': 2.4992e-05, 'amount': 12.6, 'cost': 0.0003148992, 'filled': 12.6, 'remaining': 0.0, 'fee': {'cost': 6.29799e-07, 'currency': 'BTC'}, 'trades': [{'info': {'id': 680725202, 'quantity': '12.6', 'price': '0.000024992', 'fee': '0.000000629799', 'timestamp': '2019-10-09T03:26:12.807Z'}, 'id': '680725202', 'order': None, 'timestamp': 1570591572807, 'datetime': '2019-10-09T03:26:12.807Z', 'symbol': 'AEON/BTC', 'type': None, 'side': None, 'takerOrMaker': None, 'price': 2.4992e-05, 'amount': 12.6, 'cost': 0.0003148992, 'fee': {'cost': 6.29799e-07, 'currency': 'BTC'}}], 'info': {'id': '167925730302', 'clientOrderId': '0fe6654b1a344062b59b7decabbc9948', 'symbol': 'AEONBTC', 'side': 'buy', 'status': 'filled', 'type': 'limit', 'timeInForce': 'GTC', 'quantity': '12.6', 'price': '0.000024992', 'cumQuantity': '12.6', 'createdAt': '2019-10-09T03:26:12.807Z', 'updatedAt': '2019-10-09T03:26:12.807Z', 'postOnly': False, 'tradesReport': [{'id': 680725202, 'quantity': '12.6', 'price': '0.000024992', 'fee': '0.000000629799', 'timestamp': '2019-10-09T03:26:12.807Z'}]}, 'mode': 'auto'}, {'id': '6ec37bbc703045f9bcac3354b96dd5f9', 'timestamp': 1570591574563, 'datetime': '2019-10-09T03:26:14.563Z', 'lastTradeTimestamp': 1570591574563, 'status': 'closed', 'symbol': 'AEON/BTC', 'type': 'limit', 'side': 'buy', 'price': 2.4995e-05, 'average': 2.4995000000000004e-05, 'amount': 381.2, 'cost': 0.009528094, 'filled': 381.2, 'remaining': 0.0, 'fee': {'cost': 1.9056188e-05, 'currency': 'BTC'}, 'trades': [{'info': {'id': 680725214, 'quantity': '62.3', 'price': '0.000024995', 'fee': '0.000003114377', 'timestamp': '2019-10-09T03:26:14.563Z'}, 'id': '680725214', 'order': None, 'timestamp': 1570591574563, 'datetime': '2019-10-09T03:26:14.563Z', 'symbol': 'AEON/BTC', 'type': None, 'side': None, 'takerOrMaker': None, 'price': 2.4995e-05, 'amount': 62.3, 'cost': 0.0015571884999999999, 'fee': {'cost': 3.114377e-06, 'currency': 'BTC'}}, {'info': {'id': 680725215, 'quantity': '318.9', 'price': '0.000024995', 'fee': '0.000015941811', 'timestamp': '2019-10-09T03:26:14.563Z'}, 'id': '680725215', 'order': None, 'timestamp': 1570591574563, 'datetime': '2019-10-09T03:26:14.563Z', 'symbol': 'AEON/BTC', 'type': None, 'side': None, 'takerOrMaker': None, 'price': 2.4995e-05, 'amount': 318.9, 'cost': 0.0079709055, 'fee': {'cost': 1.5941811e-05, 'currency': 'BTC'}}], 'info': {'id': '167925734386', 'clientOrderId': '6ec37bbc703045f9bcac3354b96dd5f9', 'symbol': 'AEONBTC', 'side': 'buy', 'status': 'filled', 'type': 'limit', 'timeInForce': 'GTC', 'quantity': '381.2', 'price': '0.000024995', 'cumQuantity': '381.2', 'createdAt': '2019-10-09T03:26:14.563Z', 'updatedAt': '2019-10-09T03:26:14.563Z', 'postOnly': False, 'tradesReport': [{'id': 680725214, 'quantity': '62.3', 'price': '0.000024995', 'fee': '0.000003114377', 'timestamp': '2019-10-09T03:26:14.563Z'}, {'id': 680725215, 'quantity': '318.9', 'price': '0.000024995', 'fee': '0.000015941811', 'timestamp': '2019-10-09T03:26:14.563Z'}]}, 'mode': 'auto'}, {'id': 'b74b47ee29fa4c3cb80df28327fe1257', 'timestamp': 1570591576481, 'datetime': '2019-10-09T03:26:16.481Z', 'lastTradeTimestamp': 1570591576481, 'status': 'closed', 'symbol': 'AEON/BTC', 'type': 'limit', 'side': 'buy', 'price': 2.4996e-05, 'average': 2.4996e-05, 'amount': 216.7, 'cost': 0.0054166332, 'filled': 216.7, 'remaining': 0.0, 'fee': {'cost': 1.0833267e-05, 'currency': 'BTC'}, 'trades': [{'info': {'id': 680725222, 'quantity': '216.7', 'price': '0.000024996', 'fee': '0.000010833267', 'timestamp': '2019-10-09T03:26:16.481Z'}, 'id': '680725222', 'order': None, 'timestamp': 1570591576481, 'datetime': '2019-10-09T03:26:16.481Z', 'symbol': 'AEON/BTC', 'type': None, 'side': None, 'takerOrMaker': None, 'price': 2.4996e-05, 'amount': 216.7, 'cost': 0.0054166332, 'fee': {'cost': 1.0833267e-05, 'currency': 'BTC'}}], 'info': {'id': '167925737985', 'clientOrderId': 'b74b47ee29fa4c3cb80df28327fe1257', 'symbol': 'AEONBTC', 'side': 'buy', 'status': 'filled', 'type': 'limit', 'timeInForce': 'GTC', 'quantity': '216.7', 'price': '0.000024996', 'cumQuantity': '216.7', 'createdAt': '2019-10-09T03:26:16.481Z', 'updatedAt': '2019-10-09T03:26:16.481Z', 'postOnly': False, 'tradesReport': [{'id': 680725222, 'quantity': '216.7', 'price': '0.000024996', 'fee': '0.000010833267', 'timestamp': '2019-10-09T03:26:16.481Z'}]}, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 08 2019 11:26:25 PM', 'soldier': 35, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'hitbtc2', 'getexchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 08 2019 11:26:41 PM', 'soldier': 35, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'hitbtc2', 'getexchange': 'bittrex', 'currency': 'AEON', 'amount': 595.95, 'address': 'WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX', 'tag': 'b35f574e7aaf4e1a839a4db7eaa3bd9a65837bf3ba8a424aa1fe36968d36f663'}}
+{'timestamp': 'Oct 08 2019 11:26:42 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 08 2019 11:43:34 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 08 2019 11:43:35 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 03:07:26 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 03:07:27 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 03:13:07 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 03:13:09 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 04:12:44 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 04:12:45 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 02:31:40 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 02:31:42 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 02:45:12 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 02:45:14 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 03:08:46 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 03:08:48 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 03:25:27 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 03:25:28 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 03:53:22 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 03:53:24 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 04:06:50 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 04:06:53 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 04:24:55 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 04:24:57 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 04:27:01 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 04:27:05 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 04:33:30 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 04:33:32 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 04:47:22 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 04:47:31 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 05:08:33 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 05:08:34 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 05:16:44 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 05:16:46 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 05:25:54 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 05:25:56 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 05:28:15 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 05:28:16 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 06:11:13 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 06:11:14 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 06:42:47 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 06:42:49 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 07:16:58 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 07:16:59 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 08:20:39 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 08:20:40 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 08:25:51 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 08:25:53 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 08:41:17 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 08:41:18 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 09 2019 09:06:41 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 09 2019 09:06:42 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 03:24:32 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 03:24:34 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 03:39:37 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 03:39:40 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 03:54:20 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 03:54:23 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 04:27:44 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 04:27:47 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 05:17:29 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 05:17:30 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 09:01:48 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 09:01:49 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 09:11:49 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 09:11:51 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 09:17:45 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 09:17:47 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 09:23:05 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 09:23:12 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 09:26:51 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 09:26:53 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 09:30:48 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 09:30:51 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 09:45:44 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 09:45:45 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 09:47:05 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 09:47:08 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 10:03:30 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 10:03:32 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 10:07:08 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 10:07:10 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 10:11:51 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 10:11:54 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 10:49:24 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 10:49:27 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'AEON'}}
+{'timestamp': 'Oct 10 2019 10:49:29 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'bittrex', 'currency': 'AEON', 'amount': 595.95}}
+{'timestamp': 'Oct 10 2019 10:49:29 AM', 'soldier': 35, 'log_info': {'action': 'place_orders_start', 'exchange': 'bittrex', 'currency': 'AEON/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 8, 'strategy': [{'price': 2.95e-05, 'quantity': 97.9593062, 'smallmode': False}, {'price': 2.814e-05, 'quantity': 496.6906938, 'smallmode': False}], 'sumarrayBTC': [0.0028897995329, 0.013976876123532002], 'totalBTC': 0.016866675656432, 'totalquantity': 594.65}}}
+{'timestamp': 'Oct 10 2019 10:49:30 AM', 'soldier': 35, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bittrex', 'currency': 'AEON/BTC', 'orders': [{'info': {'success': True, 'message': '', 'result': {'uuid': 'a129d67f-225d-418b-b725-bb779667becf'}}, 'id': 'a129d67f-225d-418b-b725-bb779667becf', 'symbol': 'AEON/BTC', 'type': 'limit', 'side': 'sell', 'status': 'open', 'mode': 'auto', 'price': 2.95e-05, 'amount': 97.9593062}, {'info': {'success': True, 'message': '', 'result': {'uuid': '5cc9d710-ba8f-48a6-9b02-2f203e5d8cbd'}}, 'id': '5cc9d710-ba8f-48a6-9b02-2f203e5d8cbd', 'symbol': 'AEON/BTC', 'type': 'limit', 'side': 'sell', 'status': 'open', 'mode': 'auto', 'price': 2.814e-05, 'amount': 496.6906938}]}}
+{'timestamp': 'Oct 10 2019 11:31:03 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 11:33:32 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 11:40:13 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 11 2019 12:05:03 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 11 2019 12:19:17 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 12:02:20 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 12:05:26 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 12:13:26 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 12:19:06 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 12:28:10 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 12:35:50 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 12:37:45 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 12:40:12 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 12:42:22 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 12:44:55 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 12:48:47 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 12:51:38 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 01:25:43 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 01:27:46 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 01:32:21 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 01:34:13 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 01:38:35 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 01:44:05 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 01:53:43 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 02:47:41 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 02:50:10 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 02:53:13 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 03:17:26 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 03:25:35 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 03:50:54 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:06:20 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:58:40 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 03:27:39 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 03:49:24 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 03:54:43 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:16:30 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:20:47 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:26:52 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:33:45 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:39:44 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 05:10:14 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 05:27:56 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:07:10 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:10:08 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:20:02 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:40:34 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:51:01 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:06:56 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:12:46 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:14:55 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:15:24 PM', 'soldier': 35, 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Oct 23 2019 07:15:26 PM', 'soldier': 35, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:15:26 PM', 'soldier': 35, 'log_info': {'action': 'reverse_cancel_transaction_start', 'exchange': 'bittrex', 'currency': 'AEON/BTC', 'orders': [{'amount': 97.9593062, 'id': 'a129d67f-225d-418b-b725-bb779667becf', 'info': {'message': '', 'result': {'uuid': 'a129d67f-225d-418b-b725-bb779667becf'}, 'success': True}, 'mode': 'auto', 'price': 2.95e-05, 'side': 'sell', 'status': 'open', 'symbol': 'AEON/BTC', 'type': 'limit'}, {'amount': 496.6906938, 'id': '5cc9d710-ba8f-48a6-9b02-2f203e5d8cbd', 'info': {'message': '', 'result': {'uuid': '5cc9d710-ba8f-48a6-9b02-2f203e5d8cbd'}, 'success': True}, 'mode': 'auto', 'price': 2.814e-05, 'side': 'sell', 'status': 'open', 'symbol': 'AEON/BTC', 'type': 'limit'}]}}
+{'timestamp': 'Oct 23 2019 07:15:26 PM', 'soldier': 35, 'log_info': {'action': 'reverse_cancel_transaction_complete', 'exchange': 'bittrex', 'currency': 'AEON/BTC', 'orders': []}}
+{'timestamp': 'Oct 23 2019 07:15:26 PM', 'soldier': 35, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'bittrex', 'currency': 'AEON/BTC', 'orders': {'strategy': [{'price': 2.453e-05, 'quantity': 594.65, 'smallmode': False}], 'sumarrayBTC': [0.0145867645], 'totalBTC': 0.0145867645, 'totalquantity': 594.65, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 23 2019 07:15:26 PM', 'soldier': 35, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'bittrex', 'currency': 'AEON/BTC', 'orders': [{'info': {'success': True, 'message': '', 'result': {'uuid': '9e9a91ee-e470-45fd-a5bb-88d76bfd3edd'}}, 'id': '9e9a91ee-e470-45fd-a5bb-88d76bfd3edd', 'symbol': 'AEON/BTC', 'type': 'limit', 'side': 'sell', 'status': 'open', 'mode': 'auto', 'price': 2.453e-05, 'amount': 594.65}]}}
+{'timestamp': 'Oct 23 2019 07:15:26 PM', 'soldier': 35, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bittrex', 'currency': 'AEON/BTC'}}
+{'timestamp': 'Oct 23 2019 07:22:59 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:23:23 PM', 'soldier': 35, 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Oct 23 2019 07:23:25 PM', 'soldier': 35, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:23:25 PM', 'soldier': 35, 'log_info': {'action': 'reverse_cancel_transaction_start', 'exchange': 'bittrex', 'currency': 'AEON/BTC', 'orders': [{'amount': 97.9593062, 'id': 'a129d67f-225d-418b-b725-bb779667becf', 'info': {'message': '', 'result': {'uuid': 'a129d67f-225d-418b-b725-bb779667becf'}, 'success': True}, 'mode': 'auto', 'price': 2.95e-05, 'side': 'sell', 'status': 'open', 'symbol': 'AEON/BTC', 'type': 'limit'}, {'amount': 496.6906938, 'id': '5cc9d710-ba8f-48a6-9b02-2f203e5d8cbd', 'info': {'message': '', 'result': {'uuid': '5cc9d710-ba8f-48a6-9b02-2f203e5d8cbd'}, 'success': True}, 'mode': 'auto', 'price': 2.814e-05, 'side': 'sell', 'status': 'open', 'symbol': 'AEON/BTC', 'type': 'limit'}]}}
+{'timestamp': 'Oct 23 2019 07:23:25 PM', 'soldier': 35, 'log_info': {'action': 'reverse_cancel_transaction_complete', 'exchange': 'bittrex', 'currency': 'AEON/BTC', 'orders': [{'amount': 97.9593062, 'id': 'a129d67f-225d-418b-b725-bb779667becf', 'info': {'message': '', 'result': {'uuid': 'a129d67f-225d-418b-b725-bb779667becf'}, 'success': True}, 'mode': 'auto', 'price': 2.95e-05, 'side': 'sell', 'status': 'open', 'symbol': 'AEON/BTC', 'type': 'limit'}, {'amount': 496.6906938, 'id': '5cc9d710-ba8f-48a6-9b02-2f203e5d8cbd', 'info': {'message': '', 'result': {'uuid': '5cc9d710-ba8f-48a6-9b02-2f203e5d8cbd'}, 'success': True}, 'mode': 'auto', 'price': 2.814e-05, 'side': 'sell', 'status': 'open', 'symbol': 'AEON/BTC', 'type': 'limit'}]}}
+{'timestamp': 'Oct 23 2019 07:23:25 PM', 'soldier': 35, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'bittrex', 'currency': 'AEON/BTC', 'orders': {'strategy': [{'price': 2.43e-05, 'quantity': 23.76995884, 'smallmode': False}, {'price': 2.429e-05, 'quantity': 22.86949362, 'smallmode': False}, {'price': 2.425e-05, 'quantity': 88.15191733, 'smallmode': False}, {'price': 2.406e-05, 'quantity': 25.18392298, 'smallmode': False}, {'price': 2.405e-05, 'quantity': 250.0, 'smallmode': False}, {'price': 2.4e-05, 'quantity': 184.67470723, 'smallmode': False}], 'sumarrayBTC': [0.0005776099998120001, 0.0005555000000298, 0.0021376839952525002, 0.0006059251868987999, 0.0060125, 0.00443219297352], 'totalBTC': 0.014321412155513101, 'totalquantity': 594.65, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 23 2019 07:26:45 PM', 'soldier': 35, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'bittrex', 'currency': 'AEON/BTC', 'orders': [{'amount': 23.76995884, 'price': 2.43e-05, 'mode': 'manual'}, {'amount': 22.86949362, 'price': 2.429e-05, 'mode': 'manual'}, {'amount': 88.15191733, 'price': 2.425e-05, 'mode': 'manual'}, {'amount': 25.18392298, 'price': 2.406e-05, 'mode': 'manual'}, {'amount': 250.0, 'price': 2.405e-05, 'mode': 'manual'}, {'amount': 184.67470723, 'price': 2.4e-05, 'mode': 'manual'}]}}
+{'timestamp': 'Oct 23 2019 07:26:45 PM', 'soldier': 35, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'bittrex', 'currency': 'AEON/BTC'}}
+{'timestamp': 'Oct 23 2019 07:26:45 PM', 'soldier': 35, 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'bittrex', 'currency': 'AEON/BTC'}}
+{'timestamp': 'Oct 23 2019 07:26:45 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

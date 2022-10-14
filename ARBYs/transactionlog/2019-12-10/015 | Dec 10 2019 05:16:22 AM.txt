@@ -1,0 +1,4 @@
+{'timestamp': 'Dec 10 2019 05:16:24 AM', 'soldier': 22, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:16:31 AM', 'soldier': 22, 'log_info': {'action': 'place_orders_start', 'exchange': 'bitmax', 'currency': 'FTM/BTC', 'orders': {'strategy': [{'price': 1.548e-06, 'quantity': 3746.0, 'smallmode': False}], 'sumarrayBTC': [0.005798808], 'totalBTC': 0.005798808, 'totalquantity': 3746.0, 'quantityprecision': 0, 'priceprecision': 9, 'eccentric': False}}}
+{'timestamp': 'Dec 10 2019 02:39:51 PM', 'soldier': 22, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 02:42:20 PM', 'soldier': 22, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

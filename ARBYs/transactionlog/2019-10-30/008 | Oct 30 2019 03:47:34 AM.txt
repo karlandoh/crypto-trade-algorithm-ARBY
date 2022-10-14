@@ -1,0 +1,4 @@
+{'timestamp': 'Oct 30 2019 03:47:39 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 03:47:49 AM', 'soldier': 18, 'log_info': {'action': 'place_orders_start', 'exchange': 'digifinex', 'currency': 'BLOCK/BTC', 'orders': {'strategy': [{'price': 0.00012392, 'quantity': 77.45, 'smallmode': False}, {'price': 0.000124, 'quantity': 66.2, 'smallmode': False}], 'sumarrayBTC': [0.009597604, 0.0082088], 'totalBTC': 0.017806403999999998, 'totalquantity': 143.65, 'quantityprecision': 2, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 30 2019 03:55:56 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 03:56:37 AM', 'soldier': 18, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

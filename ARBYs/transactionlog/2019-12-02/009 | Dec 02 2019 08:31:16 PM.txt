@@ -1,0 +1,162 @@
+{'timestamp': 'Dec 02 2019 08:31:19 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:31:27 PM', 'soldier': 35, 'log_info': {'action': 'place_orders_start', 'exchange': 'livecoin', 'currency': 'VTHO/BTC', 'orders': {'strategy': [{'price': 9e-08, 'quantity': 10980.66380422, 'smallmode': False}, {'price': 9e-08, 'quantity': 10200.43890932, 'smallmode': False}, {'price': 1e-07, 'quantity': 1058.90755781, 'smallmode': False}], 'sumarrayBTC': [0.0009882597423798, 0.0009180395018388001, 0.000105890755781], 'totalBTC': 0.0020121899999996, 'totalquantity': 22240.010271350002, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 02 2019 08:31:30 PM', 'soldier': 35, 'log_info': {'action': 'place_orders_complete', 'exchange': 'livecoin', 'currency': 'VTHO/BTC', 'orders': [{'info': {'success': True, 'added': False, 'orderId': 78682939351, 'exception': None}, 'id': '78682939351', 'status': 'open', 'mode': 'auto', 'price': 9e-08, 'amount': 10980.66380422}, {'info': {'success': True, 'added': False, 'orderId': 78682936551, 'exception': None}, 'id': '78682936551', 'status': 'open', 'mode': 'auto', 'price': 9e-08, 'amount': 10200.43890932}, {'info': {'success': True, 'added': False, 'orderId': 78682942551, 'exception': None}, 'id': '78682942551', 'status': 'open', 'mode': 'auto', 'price': 1e-07, 'amount': 1058.90755781}]}}
+{'timestamp': 'Dec 02 2019 08:31:38 PM', 'soldier': 35, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'livecoin', 'getexchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 08:38:42 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:38:42 PM', 'soldier': 35, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'livecoin', 'getexchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 08:41:43 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:41:43 PM', 'soldier': 35, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'livecoin', 'getexchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 08:43:22 PM', 'soldier': 35, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'livecoin', 'getexchange': 'oceanex', 'currency': 'VTHO', 'amount': 22276.44777135, 'address': '0xa4C845d74991627f1441012179AA77a5803BC8f0', 'tag': None}}
+{'timestamp': 'Dec 02 2019 08:43:23 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 08:59:25 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:59:26 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 09:05:13 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 09:05:15 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 10:07:55 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:07:55 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 10:12:56 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:12:56 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 10:24:33 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:24:34 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 10:32:48 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:32:48 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 10:45:31 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:45:31 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 11:07:44 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:07:44 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 11:18:13 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:18:13 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 11:21:12 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:21:12 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 11:25:48 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:25:48 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 11:36:06 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:36:06 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 11:37:04 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:37:04 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 02 2019 11:37:46 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:37:47 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 12:32:41 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:32:42 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 12:57:05 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:57:07 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 01:02:27 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 01:02:28 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 09:49:02 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:49:02 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 09:54:48 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:54:48 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 10:13:30 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 10:13:31 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 10:24:00 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 10:24:01 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 10:37:50 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 10:37:52 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 11:27:46 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 11:27:49 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 12:30:25 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:30:27 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 12:35:32 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:35:34 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 12:41:35 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:41:35 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 02:22:11 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 02:22:12 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 08:18:56 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 08:18:56 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 08:56:55 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 08:56:56 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 09:47:31 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:47:31 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 09:50:49 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:50:50 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 03 2019 09:58:05 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:58:06 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 03:02:05 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 03:02:08 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 04:14:13 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 04:14:13 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 04:33:06 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 04:33:07 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 04:37:34 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 04:37:35 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 06:43:29 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 06:43:30 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 06:54:18 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 06:54:19 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 07:11:18 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 07:11:19 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 08:37:03 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 08:37:04 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 09:10:51 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:10:52 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 09:45:04 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:45:04 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 09:47:41 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:47:41 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 10:13:34 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 10:13:35 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 04 2019 10:27:36 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 10:27:36 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 06 2019 12:31:19 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:31:19 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 06 2019 12:36:07 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:36:08 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 06 2019 01:17:20 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 01:17:20 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 06 2019 03:34:12 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 03:34:14 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 06 2019 11:23:57 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 11:23:58 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 06 2019 11:34:34 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 11:34:36 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 06 2019 11:37:02 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 11:37:03 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 06 2019 12:14:16 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:14:16 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 06 2019 02:46:17 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 02:46:18 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 06 2019 05:35:22 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 05:35:23 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 06 2019 07:39:57 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 07:39:57 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 07 2019 03:35:08 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 07 2019 03:35:09 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 09 2019 04:49:18 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 09 2019 04:49:19 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 09 2019 06:09:01 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 09 2019 06:09:02 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 09 2019 08:25:28 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 09 2019 08:25:30 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 09 2019 09:48:49 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 09 2019 09:48:50 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 10 2019 03:03:06 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:03:09 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 10 2019 03:41:07 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:41:08 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 10 2019 05:04:28 AM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:04:30 AM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 10 2019 02:39:50 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 02:39:50 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 10 2019 03:17:46 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:17:47 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 10 2019 03:44:39 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:44:39 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 10 2019 05:16:17 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:16:17 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 10 2019 05:42:14 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:42:14 PM', 'soldier': 35, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'livecoin', 'getexchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 10 2019 05:42:17 PM', 'soldier': 35, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'livecoin', 'getexchange': 'oceanex', 'currency': 'VTHO', 'amount': 22276.44777135, 'address': '0xa4C845d74991627f1441012179AA77a5803BC8f0', 'tag': None}}
+{'timestamp': 'Dec 10 2019 05:42:17 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO'}}
+{'timestamp': 'Dec 10 2019 05:46:22 PM', 'soldier': 35, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'oceanex', 'currency': 'VTHO', 'amount': 22176.447771}}
+{'timestamp': 'Dec 10 2019 05:46:22 PM', 'soldier': 35, 'log_info': {'action': 'place_orders_start', 'exchange': 'oceanex', 'currency': 'VTHO/BTC', 'orders': {'eccentric': False, 'priceprecision': 9, 'quantityprecision': 0, 'strategy': [{'price': 9.5e-08, 'quantity': 22099.0, 'smallmode': False}], 'sumarrayBTC': [0.002099405], 'totalBTC': 0.002099405, 'totalquantity': 22099.0}}}
+{'timestamp': 'Dec 10 2019 05:46:23 PM', 'soldier': 35, 'log_info': {'action': 'place_orders_complete', 'exchange': 'oceanex', 'currency': 'VTHO/BTC', 'orders': [{'info': {'id': 748164226, 'side': 'sell', 'ord_type': 'limit', 'price': '0.000000095', 'avg_price': '0.0', 'state': 'wait', 'market': 'vthobtc', 'created_at': '2019-12-10T22:46:22Z', 'created_on': 1576017982, 'volume': '22099.0', 'remaining_volume': '22099.0', 'executed_volume': '0.0', 'trades_count': 0}, 'id': '748164226', 'timestamp': 1576017982000, 'datetime': '2019-12-10T22:46:22.000Z', 'lastTradeTimestamp': None, 'symbol': 'VTHO/BTC', 'type': 'limit', 'side': 'sell', 'price': 9.5e-08, 'average': 0.0, 'amount': 22099.0, 'remaining': 22099.0, 'filled': 0.0, 'status': 'open', 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 10 2019 05:48:15 PM', 'soldier': 35, 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Dec 10 2019 05:48:16 PM', 'soldier': 35, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:48:17 PM', 'soldier': 35, 'log_info': {'action': 'reverse_cancel_transaction_start', 'exchange': 'oceanex', 'currency': 'VTHO/BTC', 'orders': [{'info': {'id': 748164226, 'side': 'sell', 'ord_type': 'limit', 'price': '0.000000095', 'avg_price': '0.0', 'state': 'wait', 'market': 'vthobtc', 'created_at': '2019-12-10T22:46:22Z', 'created_on': 1576017982, 'volume': '22099.0', 'remaining_volume': '22099.0', 'executed_volume': '0.0', 'trades_count': 0}, 'id': '748164226', 'timestamp': 1576017982000, 'datetime': '2019-12-10T22:46:22.000Z', 'lastTradeTimestamp': None, 'symbol': 'VTHO/BTC', 'type': 'limit', 'side': 'sell', 'price': 9.5e-08, 'average': 0.0, 'amount': 22099.0, 'remaining': 22099.0, 'filled': 0.0, 'status': 'open', 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 10 2019 05:48:17 PM', 'soldier': 35, 'log_info': {'action': 'reverse_cancel_transaction_complete', 'exchange': 'oceanex', 'currency': 'VTHO/BTC', 'orders': []}}
+{'timestamp': 'Dec 10 2019 05:48:17 PM', 'soldier': 35, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'oceanex', 'currency': 'VTHO/BTC', 'orders': {'strategy': [{'price': 8e-08, 'quantity': 22099.0, 'smallmode': False}], 'sumarrayBTC': [0.00176792], 'totalBTC': 0.00176792, 'totalquantity': 22099.0, 'quantityprecision': 0, 'priceprecision': 9, 'eccentric': False}}}
+{'timestamp': 'Dec 10 2019 05:48:17 PM', 'soldier': 35, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'oceanex', 'currency': 'VTHO/BTC', 'orders': [{'info': {'id': 748168724, 'side': 'sell', 'ord_type': 'limit', 'price': '0.00000008', 'avg_price': '0.0', 'state': 'wait', 'market': 'vthobtc', 'created_at': '2019-12-10T22:48:17Z', 'created_on': 1576018097, 'volume': '22099.0', 'remaining_volume': '22099.0', 'executed_volume': '0.0', 'trades_count': 0}, 'id': '748168724', 'timestamp': 1576018097000, 'datetime': '2019-12-10T22:48:17.000Z', 'lastTradeTimestamp': None, 'symbol': 'VTHO/BTC', 'type': 'limit', 'side': 'sell', 'price': 8e-08, 'average': 0.0, 'amount': 22099.0, 'remaining': 22099.0, 'filled': 0.0, 'status': 'open', 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 10 2019 05:48:17 PM', 'soldier': 35, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'oceanex', 'currency': 'VTHO/BTC'}}
+{'timestamp': 'Dec 10 2019 05:48:18 PM', 'soldier': 35, 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'oceanex', 'currency': 'VTHO/BTC'}}
+{'timestamp': 'Dec 10 2019 05:48:18 PM', 'soldier': 35, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

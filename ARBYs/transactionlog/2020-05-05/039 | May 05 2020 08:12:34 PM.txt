@@ -1,0 +1,322 @@
+{'timestamp': 'May 05 2020 08:12:35 PM', 'soldier': 14, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 05 2020 08:12:42 PM', 'soldier': 14, 'log_info': {'action': 'place_orders_start', 'exchange': 'bittrex', 'currency': 'CND/BTC', 'orders': {'strategy': [{'price': 4.7e-07, 'quantity': 99701.02127659, 'smallmode': False}], 'sumarrayBTC': [0.0468594799999973], 'totalBTC': 0.0468594799999973, 'totalquantity': 99701.02127659, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'May 05 2020 08:12:50 PM', 'soldier': 14, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bittrex', 'currency': 'CND/BTC', 'orders': [{'info': {'success': True, 'message': '', 'result': {'uuid': 'cf223d04-e8a5-44d4-9571-eebcf2a7236b'}}, 'id': 'cf223d04-e8a5-44d4-9571-eebcf2a7236b', 'symbol': 'CND/BTC', 'type': 'limit', 'side': 'buy', 'status': 'open', 'mode': 'auto', 'price': 4.7e-07, 'amount': 99202.51617021}]}}
+{'timestamp': 'May 05 2020 08:12:56 PM', 'soldier': 14, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bittrex', 'getexchange': 'livecoin', 'currency': 'CND'}}
+{'timestamp': 'May 05 2020 08:12:59 PM', 'soldier': 14, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'bittrex', 'getexchange': 'livecoin', 'currency': 'CND', 'amount': 99202.51617075, 'address': '0x2f97984aadc032d80d5d4eb9470cd65625fb9a1c', 'tag': None}}
+{'timestamp': 'May 05 2020 08:12:59 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'CND'}}
+{'timestamp': 'May 05 2020 08:21:45 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'livecoin', 'currency': 'CND', 'amount': 99201.51617}}
+{'timestamp': 'May 05 2020 08:21:45 PM', 'soldier': 14, 'log_info': {'action': 'place_orders_start', 'exchange': 'livecoin', 'currency': 'CND/BTC', 'orders': {'strategy': [{'price': 4.8e-07, 'quantity': 99450.76872339, 'smallmode': False}], 'sumarrayBTC': [0.0477363689872272], 'totalBTC': 0.0477363689872272, 'totalquantity': 99450.76872339, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'May 05 2020 08:22:15 PM', 'soldier': 14, 'log_info': {'action': 'place_orders_complete', 'exchange': 'livecoin', 'currency': 'CND/BTC', 'orders': [{'info': {'success': True, 'added': True, 'orderId': 111347184601, 'exception': None}, 'id': '111347184601', 'status': 'open', 'mode': 'auto', 'price': 4.8e-07, 'amount': 98705.50858915}]}}
+{'timestamp': 'May 05 2020 08:23:07 PM', 'soldier': 14, 'log_info': {'action': 'reverse_sendback_initialized'}}
+{'timestamp': 'May 05 2020 08:23:09 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 05 2020 08:23:09 PM', 'soldier': 14, 'log_info': {'action': 'reverse_cancel_transaction_start', 'exchange': 'livecoin', 'currency': 'CND/BTC', 'orders': [{'info': {'success': True, 'added': True, 'orderId': 111347184601, 'exception': None}, 'id': '111347184601', 'status': 'open', 'mode': 'auto', 'price': 4.8e-07, 'amount': 98705.50858915}]}}
+{'timestamp': 'May 05 2020 08:23:10 PM', 'soldier': 14, 'log_info': {'action': 'reverse_cancel_transaction_complete', 'exchange': 'livecoin', 'currency': 'CND/BTC', 'orders': [{'info': {'success': True, 'added': True, 'orderId': 111347184601, 'exception': None}, 'id': '111347184601', 'status': 'open', 'mode': 'auto', 'price': 4.8e-07, 'amount': 2561.2900390200084, 'filled': 2561.2900390200084, 'remaining': 0}]}}
+{'timestamp': 'May 05 2020 08:23:10 PM', 'soldier': 14, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'livecoin', 'currency': 'CND/BTC', 'orders': {'strategy': [{'price': 4.8e-07, 'quantity': 2561.29003902, 'smallmode': False}], 'sumarrayBTC': [0.0012294192187296], 'totalBTC': 0.0012294192187296, 'totalquantity': 2561.29003902, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'May 05 2020 08:23:11 PM', 'soldier': 14, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'livecoin', 'currency': 'CND/BTC', 'orders': [{'info': {'success': True, 'added': True, 'orderId': 111347284501, 'exception': None}, 'id': '111347284501', 'status': 'open', 'mode': 'auto', 'price': 4.8e-07, 'amount': 2561.29003902}]}}
+{'timestamp': 'May 05 2020 08:23:11 PM', 'soldier': 14, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'livecoin', 'currency': 'CND/BTC'}}
+{'timestamp': 'May 05 2020 11:31:17 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 05 2020 11:31:17 PM', 'soldier': 14, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'livecoin', 'currency': 'CND/BTC'}}
+{'timestamp': 'May 06 2020 12:00:06 AM', 'soldier': 14, 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'livecoin', 'currency': 'CND/BTC'}}
+{'timestamp': 'May 06 2020 12:00:06 AM', 'soldier': 14, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'livecoin', 'getexchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 06 2020 12:02:41 AM', 'soldier': 14, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'livecoin', 'getexchange': 'bittrex', 'currency': 'CND', 'amount': 96211.0, 'address': '0xd201db1721cfba285940f8de0ef0a3420556d1e4', 'tag': None}}
+{'timestamp': 'May 06 2020 12:02:41 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 06 2020 12:14:00 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 06 2020 12:14:01 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 06 2020 12:32:51 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 06 2020 12:32:52 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 06 2020 12:36:23 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 06 2020 12:36:23 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 06 2020 02:32:35 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 06 2020 02:32:35 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 06 2020 03:27:38 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 06 2020 03:27:38 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 06 2020 04:19:35 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 06 2020 04:19:35 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 07 2020 07:54:29 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 07 2020 07:54:30 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 07 2020 09:07:24 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 07 2020 09:07:24 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 07 2020 09:16:45 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 07 2020 09:16:46 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 07 2020 04:18:38 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 07 2020 04:18:40 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 07 2020 07:22:04 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 07 2020 07:22:04 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 07 2020 07:38:35 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 07 2020 07:38:35 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 07 2020 08:14:54 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 07 2020 08:14:55 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 07 2020 08:19:05 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 07 2020 08:19:06 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 07 2020 08:37:17 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 07 2020 08:37:19 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 07 2020 09:59:02 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 07 2020 09:59:03 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 08 2020 02:52:12 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 08 2020 02:52:13 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 08 2020 03:34:44 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 08 2020 03:34:45 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 08 2020 01:07:37 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 08 2020 01:07:38 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 08 2020 01:26:54 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 08 2020 01:26:56 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 08 2020 07:37:47 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 08 2020 07:37:47 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 08 2020 07:56:49 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 08 2020 07:56:49 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 09 2020 07:15:08 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 09 2020 07:15:10 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 09 2020 07:23:51 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 09 2020 07:23:51 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 09 2020 07:48:10 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 09 2020 07:48:10 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 10 2020 11:30:12 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 10 2020 11:30:12 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 10 2020 11:45:29 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 10 2020 11:45:30 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 10 2020 02:49:06 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 10 2020 02:49:07 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 11 2020 01:25:27 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 11 2020 01:25:27 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 11 2020 02:58:54 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 11 2020 02:58:54 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 11 2020 02:56:01 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 11 2020 02:56:01 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 11 2020 03:31:31 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 11 2020 03:31:32 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 11 2020 05:48:14 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 11 2020 05:48:15 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 11 2020 06:03:13 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 11 2020 06:03:14 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 11 2020 11:31:05 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 11 2020 11:31:06 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 12 2020 02:07:27 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 12 2020 02:07:28 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 12 2020 05:21:03 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 12 2020 05:21:04 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 12 2020 09:07:12 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 12 2020 09:07:13 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 13 2020 08:32:25 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 13 2020 08:32:26 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 13 2020 01:37:28 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 13 2020 01:37:30 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 13 2020 03:09:12 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 13 2020 03:09:13 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 14 2020 12:06:39 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 14 2020 12:06:39 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 14 2020 01:09:57 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 14 2020 01:09:58 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 14 2020 01:19:26 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 14 2020 01:19:28 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 14 2020 11:56:00 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 14 2020 11:56:01 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 14 2020 02:06:11 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 14 2020 02:06:12 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 14 2020 06:59:13 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 14 2020 06:59:15 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 14 2020 08:03:09 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 14 2020 08:03:10 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 14 2020 10:51:40 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 14 2020 10:51:41 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 08:13:45 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 08:13:46 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 03:05:48 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 03:05:49 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 03:15:18 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 03:15:19 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 03:22:08 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 03:22:09 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 03:31:44 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 03:31:46 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 04:23:47 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 04:23:47 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 06:22:55 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 06:22:55 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 07:51:59 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 07:52:01 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 08:08:38 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 08:08:39 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 08:43:05 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 08:43:06 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 08:43:07 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'bittrex', 'currency': 'CND', 'amount': 9.8e-07}}
+{'timestamp': 'May 15 2020 08:43:07 PM', 'soldier': 14, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'bittrex', 'currency': 'CND/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 8, 'strategy': [{'price': 4.6e-07, 'quantity': 7992.66261044, 'smallmode': False}, {'price': 4.4e-07, 'quantity': 3196.78346591, 'smallmode': False}, {'price': 4.3e-07, 'quantity': 87082.45219071, 'smallmode': False}], 'sumarrayBTC': [0.0036766248008024, 0.0014065847250004, 0.0374454544420053], 'totalBTC': 0.042528663967808106, 'totalquantity': 98271.89826706}}}
+{'timestamp': 'May 15 2020 08:45:36 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 08:45:36 PM', 'soldier': 14, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'bittrex', 'currency': 'CND/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 8, 'strategy': [{'price': 4.6e-07, 'quantity': 7992.66261044, 'smallmode': False}, {'price': 4.4e-07, 'quantity': 3196.78346591, 'smallmode': False}, {'price': 4.3e-07, 'quantity': 87082.45219071, 'smallmode': False}], 'sumarrayBTC': [0.0036766248008024, 0.0014065847250004, 0.0374454544420053], 'totalBTC': 0.042528663967808106, 'totalquantity': 98271.89826706}}}
+{'timestamp': 'May 15 2020 09:01:14 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 09:01:15 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 09:02:57 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 09:02:58 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 09:05:46 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 09:05:46 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 15 2020 09:07:09 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 15 2020 09:07:09 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 16 2020 12:40:39 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 16 2020 12:40:40 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 16 2020 12:51:45 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 16 2020 12:51:46 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 16 2020 03:51:25 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 16 2020 03:51:26 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 17 2020 02:12:44 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 17 2020 02:12:45 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 17 2020 02:15:23 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 17 2020 02:15:24 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 17 2020 04:44:41 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 17 2020 04:44:42 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 17 2020 07:27:26 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 17 2020 07:27:27 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 17 2020 01:38:18 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 17 2020 01:38:19 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 17 2020 04:11:57 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 17 2020 04:11:58 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 17 2020 07:48:43 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 17 2020 07:48:43 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 17 2020 11:38:32 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 17 2020 11:38:32 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 18 2020 03:47:56 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 18 2020 03:47:57 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 18 2020 12:36:03 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 18 2020 12:36:04 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 18 2020 02:44:48 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 18 2020 02:44:48 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 18 2020 06:23:37 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 18 2020 06:23:39 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 18 2020 07:21:11 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 18 2020 07:21:11 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 18 2020 07:30:14 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 18 2020 07:30:15 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 18 2020 07:31:10 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 18 2020 07:31:11 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 18 2020 07:38:39 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 18 2020 07:38:40 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 18 2020 07:39:54 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 18 2020 07:39:56 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 19 2020 12:54:16 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 19 2020 12:54:15 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 19 2020 01:07:22 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 19 2020 01:07:23 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 19 2020 04:06:34 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 19 2020 04:06:35 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 19 2020 06:39:43 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 19 2020 06:39:43 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 19 2020 09:10:26 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 19 2020 09:10:27 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 19 2020 09:35:51 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 19 2020 09:35:52 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 20 2020 06:46:54 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 20 2020 06:46:55 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 20 2020 06:50:10 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 20 2020 06:50:11 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 20 2020 11:21:07 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 20 2020 11:21:08 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 21 2020 04:08:43 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 21 2020 04:08:44 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 22 2020 03:09:56 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 22 2020 03:09:56 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 22 2020 09:12:57 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 22 2020 09:12:58 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 22 2020 02:24:52 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 22 2020 02:24:53 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 22 2020 07:47:33 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 22 2020 07:47:33 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 22 2020 09:04:20 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 22 2020 09:04:21 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 22 2020 09:46:13 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 22 2020 09:46:13 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 23 2020 11:53:17 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 23 2020 11:53:17 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 23 2020 12:23:50 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 23 2020 12:23:50 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 23 2020 05:42:04 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 23 2020 05:42:05 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 23 2020 07:52:25 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 23 2020 07:52:26 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 24 2020 11:38:07 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 24 2020 11:38:07 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 24 2020 11:52:13 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 24 2020 11:52:15 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 24 2020 02:38:17 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 24 2020 02:38:17 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 24 2020 03:21:34 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 24 2020 03:21:34 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 24 2020 05:20:51 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 24 2020 05:20:52 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 24 2020 11:44:00 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 24 2020 11:44:01 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 25 2020 04:33:18 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 04:33:19 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 25 2020 04:37:49 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 04:37:50 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 25 2020 05:21:48 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 05:21:49 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 25 2020 05:28:22 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 05:28:24 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 25 2020 07:35:38 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 07:35:39 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 25 2020 07:40:00 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 07:40:01 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 25 2020 08:17:04 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 08:17:04 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 25 2020 08:20:21 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 08:20:21 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 25 2020 07:37:09 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 07:37:10 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 25 2020 08:25:49 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 08:25:49 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 26 2020 12:14:55 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 12:14:56 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 26 2020 12:18:57 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 12:18:57 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 26 2020 07:53:45 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 07:53:46 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 26 2020 11:15:18 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 11:15:20 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 26 2020 11:20:10 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 11:20:11 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 26 2020 01:15:23 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 01:15:24 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 26 2020 01:42:18 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 01:42:19 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 26 2020 02:03:03 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 02:03:05 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 26 2020 02:06:57 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 02:06:58 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 26 2020 04:02:05 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 04:02:06 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 26 2020 08:06:47 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 08:06:47 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 27 2020 02:12:04 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 02:12:05 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 27 2020 02:34:45 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 02:34:45 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 27 2020 02:35:29 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 02:35:30 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 27 2020 02:36:36 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 02:36:38 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 27 2020 03:27:54 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 03:27:55 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 27 2020 05:40:21 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 05:40:21 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 27 2020 11:39:39 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 11:39:39 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 28 2020 03:22:12 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 28 2020 03:22:12 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 28 2020 07:11:03 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 28 2020 07:11:03 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 28 2020 11:51:55 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 28 2020 11:51:56 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 29 2020 06:00:08 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 29 2020 06:00:09 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 29 2020 05:02:44 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 29 2020 05:02:44 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 30 2020 02:04:48 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 30 2020 02:04:48 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 30 2020 03:15:35 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 30 2020 03:15:36 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 30 2020 03:18:28 AM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 30 2020 03:18:29 AM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 31 2020 01:24:18 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 31 2020 01:24:19 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'May 31 2020 10:36:57 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'May 31 2020 10:36:58 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}
+{'timestamp': 'Jul 03 2020 06:10:45 PM', 'soldier': 14, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Jul 03 2020 06:10:46 PM', 'soldier': 14, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'CND'}}

@@ -1,0 +1,16 @@
+{'timestamp': 'Sep 22 2019 10:47:10 PM', 'soldier': 13, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 22 2019 10:47:23 PM', 'soldier': 13, 'log_info': {'action': 'place_orders_start', 'exchange': 'crex24', 'currency': 'XBM/BTC', 'orders': {'strategy': [{'price': 5.46e-06, 'quantity': 1.01267588, 'smallmode': True}, {'price': 6e-06, 'quantity': 299.07846494, 'smallmode': False}], 'sumarrayBTC': [5.5292103048e-06, 0.0017944707896400001], 'totalBTC': 0.0017999999999448002, 'totalquantity': 300.09114082, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': True}}}
+{'timestamp': 'Sep 22 2019 10:47:24 PM', 'soldier': 13, 'log_info': {'action': 'place_orders_complete', 'exchange': 'crex24', 'currency': 'XBM/BTC', 'orders': [{'info': {'id': 841418815, 'timestamp': '2019-09-23T02:47:24Z', 'instrument': 'XBM-BTC', 'side': 'buy', 'type': 'limit', 'status': 'submitting', 'cancellationReason': None, 'timeInForce': 'GTC', 'volume': 1.0, 'price': 6e-06, 'stopPrice': None, 'remainingVolume': 1.0, 'lastUpdate': '2019-09-23T02:47:24Z', 'parentOrderId': None, 'childOrderId': None}, 'id': '841418815', 'timestamp': 1569206844000, 'datetime': '2019-09-23T02:47:24.000Z', 'lastTradeTimestamp': 1569206844000, 'symbol': 'XBM/BTC', 'type': 'limit', 'side': 'buy', 'price': 6e-06, 'amount': 1.0, 'cost': 0.0, 'average': None, 'filled': 0.0, 'remaining': 1.0, 'status': 'open', 'fee': None, 'trades': None, 'mode': 'auto'}]}}
+{'timestamp': 'Sep 22 2019 10:47:35 PM', 'soldier': 13, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'latoken', 'currency': 'XBM'}}
+{'timestamp': 'Sep 22 2019 11:32:07 PM', 'soldier': 13, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 22 2019 11:32:07 PM', 'soldier': 13, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'latoken', 'currency': 'XBM'}}
+{'timestamp': 'Sep 22 2019 11:34:53 PM', 'soldier': 13, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 22 2019 11:34:53 PM', 'soldier': 13, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'latoken', 'currency': 'XBM'}}
+{'timestamp': 'Sep 22 2019 11:35:19 PM', 'soldier': 13, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 22 2019 11:35:19 PM', 'soldier': 13, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'latoken', 'currency': 'XBM'}}
+{'timestamp': 'Sep 22 2019 11:50:03 PM', 'soldier': 13, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 22 2019 11:50:03 PM', 'soldier': 13, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'latoken', 'currency': 'XBM'}}
+{'timestamp': 'Sep 23 2019 01:20:23 PM', 'soldier': 13, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 23 2019 01:20:23 PM', 'soldier': 13, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'latoken', 'currency': 'XBM'}}
+{'timestamp': 'Sep 23 2019 01:25:40 PM', 'soldier': 13, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 23 2019 01:25:40 PM', 'soldier': 13, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'latoken', 'currency': 'XBM'}}

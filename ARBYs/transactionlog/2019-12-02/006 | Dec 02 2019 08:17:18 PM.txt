@@ -1,0 +1,203 @@
+{'timestamp': 'Dec 02 2019 08:17:21 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:17:26 PM', 'soldier': 19, 'log_info': {'action': 'place_orders_start', 'exchange': 'okex3', 'currency': 'CTXC/BTC', 'orders': {'strategy': [{'price': 1.29e-05, 'quantity': 308.648, 'smallmode': False}, {'price': 1.3e-05, 'quantity': 195.953, 'smallmode': False}, {'price': 1.31e-05, 'quantity': 249.698, 'smallmode': False}], 'sumarrayBTC': [0.0039815592, 0.0025473889999999997, 0.0032710438000000002], 'totalBTC': 0.009799992, 'totalquantity': 754.299, 'quantityprecision': 3, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 02 2019 08:17:27 PM', 'soldier': 19, 'log_info': {'action': 'place_orders_complete', 'exchange': 'okex3', 'currency': 'CTXC/BTC', 'orders': [{'info': {'client_oid': '', 'error_code': '', 'error_message': '', 'order_id': '3971471540182016', 'result': True}, 'id': '3971471540182016', 'timestamp': 1575335846608, 'datetime': '2019-12-03T01:17:26.608Z', 'lastTradeTimestamp': None, 'status': None, 'symbol': 'CTXC/BTC', 'type': 'limit', 'side': 'buy', 'price': 1.29e-05, 'amount': 308.648, 'filled': None, 'remaining': None, 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}, {'info': {'client_oid': '', 'error_code': '', 'error_message': '', 'order_id': '3971471557075968', 'result': True}, 'id': '3971471557075968', 'timestamp': 1575335846871, 'datetime': '2019-12-03T01:17:26.871Z', 'lastTradeTimestamp': None, 'status': None, 'symbol': 'CTXC/BTC', 'type': 'limit', 'side': 'buy', 'price': 1.3e-05, 'amount': 195.953, 'filled': None, 'remaining': None, 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}, {'info': {'client_oid': '', 'error_code': '', 'error_message': '', 'order_id': '3971471576140800', 'result': True}, 'id': '3971471576140800', 'timestamp': 1575335847166, 'datetime': '2019-12-03T01:17:27.166Z', 'lastTradeTimestamp': None, 'status': None, 'symbol': 'CTXC/BTC', 'type': 'limit', 'side': 'buy', 'price': 1.31e-05, 'amount': 249.698, 'filled': None, 'remaining': None, 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 02 2019 08:17:33 PM', 'soldier': 19, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 08:18:03 PM', 'soldier': 19, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'okex3', 'getexchange': 'huobipro', 'currency': 'CTXC', 'amount': 753.1675515, 'address': '0x0a307a35b068639936bc0a990bd6277852bbdece', 'tag': None}}
+{'timestamp': 'Dec 02 2019 08:18:03 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 08:20:35 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:20:36 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 08:30:52 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:30:54 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 08:59:25 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:59:26 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 09:05:13 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 09:05:15 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 10:07:55 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:07:56 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 10:12:55 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:12:55 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 10:24:34 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:24:34 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 10:32:46 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:32:46 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 10:45:30 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:45:30 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 11:07:41 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:07:41 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 11:18:13 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:18:13 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 11:21:12 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:21:12 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 11:25:46 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:25:46 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 11:36:05 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:36:05 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 11:37:03 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:37:04 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 02 2019 11:37:45 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:37:45 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 12:32:41 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:32:41 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 12:57:05 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:57:07 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 01:02:27 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 01:02:28 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 09:49:00 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:49:00 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 09:54:48 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:54:48 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 10:13:28 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 10:13:28 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 10:24:00 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 10:24:02 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 10:37:50 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 10:37:52 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 11:27:46 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 11:27:49 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 12:30:22 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:30:22 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 12:35:31 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:35:32 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 12:41:33 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 12:41:34 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 02:22:09 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 02:22:10 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 08:18:55 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 08:18:55 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 08:56:56 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 08:56:58 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 09:47:35 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:47:35 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 09:50:48 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:50:48 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 03 2019 09:58:04 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:58:05 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 03:02:02 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 03:02:02 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 04:14:13 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 04:14:13 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 04:33:02 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 04:33:03 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 04:37:32 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 04:37:33 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 06:43:26 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 06:43:27 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 06:54:14 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 06:54:15 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 07:11:21 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 07:11:22 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 08:37:05 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 08:37:06 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 09:10:46 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:10:47 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 09:45:02 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:45:03 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 09:47:38 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:47:39 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 10:13:34 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 10:13:34 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 04 2019 10:27:37 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 10:27:37 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 06 2019 12:31:21 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:31:21 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 06 2019 12:36:09 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:36:09 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 06 2019 01:17:15 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 01:17:15 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 06 2019 03:34:10 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 03:34:10 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 06 2019 11:23:54 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 11:23:55 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 06 2019 11:34:34 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 11:34:35 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 06 2019 11:36:58 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 11:36:59 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 06 2019 12:14:17 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:14:18 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 06 2019 02:46:15 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 02:46:16 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 06 2019 05:35:18 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 05:35:18 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 06 2019 07:39:51 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 07:39:52 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 07 2019 03:35:08 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 07 2019 03:35:09 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 09 2019 04:49:17 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 09 2019 04:49:18 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 09 2019 06:09:05 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 09 2019 06:09:06 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 09 2019 08:25:27 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 09 2019 08:25:28 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 09 2019 09:48:47 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 09 2019 09:48:47 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 03:03:05 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:03:08 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 03:41:02 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:41:04 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 05:04:29 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:04:31 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 02:39:51 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 02:39:52 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 03:17:47 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:17:48 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 03:44:38 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:44:38 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 05:16:19 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:16:19 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 05:42:19 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:42:19 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 05:50:45 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:50:46 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 07:39:54 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 07:39:55 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 10:02:34 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:02:37 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 10:16:38 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:16:39 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 10:19:09 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:19:10 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 10:35:30 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:35:31 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 10 2019 10:41:46 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:41:47 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 11 2019 05:54:03 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 05:54:04 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 11 2019 09:11:49 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:11:49 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 11 2019 09:16:13 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:16:14 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 11 2019 09:22:53 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:22:54 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 11 2019 09:43:25 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:43:27 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 11 2019 09:59:41 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:59:42 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 11 2019 10:35:02 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 10:35:04 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 11 2019 11:15:27 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 11:15:29 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 12 2019 12:41:36 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 12 2019 12:41:38 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 12 2019 04:21:59 AM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 12 2019 04:21:59 AM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 12 2019 02:05:44 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 12 2019 02:05:45 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 13 2019 04:33:36 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 04:33:38 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC'}}
+{'timestamp': 'Dec 13 2019 04:33:40 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'huobipro', 'currency': 'CTXC', 'amount': 752.167}}
+{'timestamp': 'Dec 13 2019 04:33:40 PM', 'soldier': 19, 'log_info': {'action': 'place_orders_start', 'exchange': 'huobipro', 'currency': 'CTXC/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 2, 'strategy': [{'price': 1.31e-05, 'quantity': 752.16, 'smallmode': False}], 'sumarrayBTC': [0.009853296], 'totalBTC': 0.009853296, 'totalquantity': 752.16}}}
+{'timestamp': 'Dec 13 2019 04:33:40 PM', 'soldier': 19, 'log_info': {'action': 'place_orders_complete', 'exchange': 'huobipro', 'currency': 'CTXC/BTC', 'orders': [{'info': {'status': 'ok', 'data': '59839212680'}, 'id': '59839212680', 'timestamp': 1576272820811, 'datetime': '2019-12-13T21:33:40.811Z', 'lastTradeTimestamp': None, 'status': None, 'symbol': 'CTXC/BTC', 'type': 'limit', 'side': 'sell', 'price': 1.31e-05, 'amount': 752.16, 'filled': None, 'remaining': None, 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 13 2019 04:52:27 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 05:42:24 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 05:45:13 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:08:29 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:11:58 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:12:28 PM', 'soldier': 19, 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Dec 13 2019 06:12:29 PM', 'soldier': 19, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:12:29 PM', 'soldier': 19, 'log_info': {'action': 'reverse_cancel_transaction_start', 'exchange': 'huobipro', 'currency': 'CTXC/BTC', 'orders': [{'amount': 752.16, 'cost': None, 'datetime': '2019-12-13T21:33:40.811Z', 'fee': None, 'filled': None, 'id': '59839212680', 'info': {'data': '59839212680', 'status': 'ok'}, 'lastTradeTimestamp': None, 'mode': 'auto', 'price': 1.31e-05, 'remaining': None, 'side': 'sell', 'status': None, 'symbol': 'CTXC/BTC', 'timestamp': 1576272820811, 'trades': None, 'type': 'limit'}]}}
+{'timestamp': 'Dec 13 2019 06:12:29 PM', 'soldier': 19, 'log_info': {'action': 'reverse_cancel_transaction_complete', 'exchange': 'huobipro', 'currency': 'CTXC/BTC', 'orders': []}}
+{'timestamp': 'Dec 13 2019 06:12:30 PM', 'soldier': 19, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'huobipro', 'currency': 'CTXC/BTC', 'orders': {'strategy': [{'price': 1.035e-05, 'quantity': 752.16, 'smallmode': False}], 'sumarrayBTC': [0.007784855999999999], 'totalBTC': 0.007784855999999999, 'totalquantity': 752.16, 'quantityprecision': 2, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 13 2019 06:12:30 PM', 'soldier': 19, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'huobipro', 'currency': 'CTXC/BTC', 'orders': [{'info': {'status': 'ok', 'data': '59846786956'}, 'id': '59846786956', 'timestamp': 1576278750575, 'datetime': '2019-12-13T23:12:30.575Z', 'lastTradeTimestamp': None, 'status': None, 'symbol': 'CTXC/BTC', 'type': 'limit', 'side': 'sell', 'price': 1.035e-05, 'amount': 752.16, 'filled': None, 'remaining': None, 'cost': None, 'trades': None, 'fee': None, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 13 2019 06:12:30 PM', 'soldier': 19, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'huobipro', 'currency': 'CTXC/BTC'}}
+{'timestamp': 'Dec 13 2019 06:12:30 PM', 'soldier': 19, 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'huobipro', 'currency': 'CTXC/BTC'}}
+{'timestamp': 'Dec 13 2019 06:12:30 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}
