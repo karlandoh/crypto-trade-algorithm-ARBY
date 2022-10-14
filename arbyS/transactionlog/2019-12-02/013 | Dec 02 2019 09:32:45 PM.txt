@@ -1,0 +1,24 @@
+{'timestamp': 'Dec 02 2019 09:32:47 PM', 'soldier': 56, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 09:32:56 PM', 'soldier': 56, 'log_info': {'action': 'place_orders_start', 'exchange': 'bitz', 'currency': 'WWB/BTC', 'orders': {'strategy': [{'price': 6e-07, 'quantity': 4360.9666, 'smallmode': False}], 'sumarrayBTC': [0.0026165799599999996], 'totalBTC': 0.0026165799599999996, 'totalquantity': 4360.9666, 'quantityprecision': 4, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 02 2019 09:32:57 PM', 'soldier': 56, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bitz', 'currency': 'WWB/BTC', 'orders': [{'id': '4897622465', 'datetime': '2019-12-03T02:32:56.953Z', 'timestamp': 1575340376953, 'lastTradeTimestamp': None, 'status': 'open', 'symbol': 'WWB/BTC', 'type': 'limit', 'side': 'buy', 'price': 6e-07, 'cost': 0.0, 'amount': 4360.9666, 'filled': 0.0, 'remaining': 4360.9666, 'trades': None, 'fee': None, 'info': {'timestamp': 1575340376953, 'id': 4897622465, 'uId': 1458456, 'price': '0.00000060', 'number': '4360.9666', 'numberOver': '4360.9666', 'flag': 'buy', 'status': 0, 'coinFrom': 'wwb', 'coinTo': 'btc', 'numberDeal': 0}, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 02 2019 09:33:03 PM', 'soldier': 56, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'bitforex', 'currency': 'WWB'}}
+{'timestamp': 'Dec 02 2019 10:07:56 PM', 'soldier': 56, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:07:56 PM', 'soldier': 56, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'bitforex', 'currency': 'WWB'}}
+{'timestamp': 'Dec 02 2019 10:12:56 PM', 'soldier': 56, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:12:56 PM', 'soldier': 56, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'bitforex', 'currency': 'WWB'}}
+{'timestamp': 'Dec 02 2019 10:24:33 PM', 'soldier': 56, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:24:33 PM', 'soldier': 56, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'bitforex', 'currency': 'WWB'}}
+{'timestamp': 'Dec 02 2019 10:32:48 PM', 'soldier': 56, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:32:48 PM', 'soldier': 56, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'bitforex', 'currency': 'WWB'}}
+{'timestamp': 'Dec 02 2019 10:35:14 PM', 'soldier': 56, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:35:14 PM', 'soldier': 56, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'bitforex', 'currency': 'WWB'}}
+{'timestamp': 'Dec 02 2019 10:38:45 PM', 'soldier': 56, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:38:45 PM', 'soldier': 56, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'bitforex', 'currency': 'WWB'}}
+{'timestamp': 'Dec 02 2019 10:41:07 PM', 'soldier': 56, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'bitz', 'getexchange': 'bitforex', 'currency': 'WWB', 'amount': 4352.2446668, 'address': 'AQaLmVEQUMHAdsfuynotkdVqEee6t4ZA9P ', 'tag': None}}
+{'timestamp': 'Dec 02 2019 10:41:07 PM', 'soldier': 56, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bitforex', 'currency': 'WWB'}}
+{'timestamp': 'Dec 02 2019 10:45:32 PM', 'soldier': 56, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:45:33 PM', 'soldier': 56, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bitforex', 'currency': 'WWB'}}
+{'timestamp': 'Dec 02 2019 10:46:28 PM', 'soldier': 56, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'bitforex', 'currency': 'WWB', 'amount': 4342.244666}}
+{'timestamp': 'Dec 02 2019 10:46:28 PM', 'soldier': 56, 'log_info': {'action': 'place_orders_start', 'exchange': 'bitforex', 'currency': 'WWB/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 3, 'strategy': [{'price': 6.2e-07, 'quantity': 4342.244, 'smallmode': False}], 'sumarrayBTC': [0.0026921912799999998], 'totalBTC': 0.0026921912799999998, 'totalquantity': 4342.244}}}
+{'timestamp': 'Dec 02 2019 10:46:39 PM', 'soldier': 56, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bitforex', 'currency': 'WWB/BTC', 'orders': [{'info': {'data': {'orderId': 'b4af47d0-73b6-4d48-a157-0a040e433b07'}, 'success': True, 'time': 1575344798978}, 'id': 'b4af47d0-73b6-4d48-a157-0a040e433b07', 'mode': 'auto', 'price': 6.2e-07, 'amount': 4342.244}]}}
+{'timestamp': 'Dec 02 2019 10:46:47 PM', 'soldier': 56, 'log_info': {'action': 'arbitrage_success_completed'}}

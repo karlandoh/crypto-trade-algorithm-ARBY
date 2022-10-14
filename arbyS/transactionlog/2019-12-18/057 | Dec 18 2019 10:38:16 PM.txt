@@ -1,0 +1,16 @@
+{'timestamp': 'Dec 18 2019 10:38:17 PM', 'soldier': 42, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 10:38:24 PM', 'soldier': 42, 'log_info': {'action': 'place_orders_start', 'exchange': 'kucoin', 'currency': 'XLM/BTC', 'orders': {'strategy': [{'price': 6.45e-06, 'quantity': 14.99069767, 'smallmode': False}], 'sumarrayBTC': [9.66899999715e-05], 'totalBTC': 9.66899999715e-05, 'totalquantity': 14.99069767, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 18 2019 10:38:33 PM', 'soldier': 42, 'log_info': {'action': 'place_orders_complete', 'exchange': 'kucoin', 'currency': 'XLM/BTC', 'orders': [{'id': '5dfaf0b9d341770008bff029', 'symbol': 'XLM/BTC', 'type': 'limit', 'side': 'buy', 'price': 6.45e-06, 'cost': None, 'filled': None, 'remaining': None, 'timestamp': 1576726713614, 'datetime': '2019-12-19T03:38:33.614Z', 'fee': None, 'status': 'open', 'clientOid': '5e53cdb7-b8e0-4fe7-abec-33c73e3c75a6', 'info': {'orderId': '5dfaf0b9d341770008bff029'}, 'amount': 14.91574418, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 18 2019 10:38:40 PM', 'soldier': 42, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'kucoin', 'getexchange': 'kraken', 'currency': 'XLM'}}
+{'timestamp': 'Dec 18 2019 10:54:48 PM', 'soldier': 42, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 10:54:48 PM', 'soldier': 42, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'kucoin', 'getexchange': 'kraken', 'currency': 'XLM'}}
+{'timestamp': 'Dec 18 2019 11:16:11 PM', 'soldier': 42, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 11:16:12 PM', 'soldier': 42, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'kucoin', 'getexchange': 'kraken', 'currency': 'XLM'}}
+{'timestamp': 'Dec 18 2019 11:30:02 PM', 'soldier': 42, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 11:30:02 PM', 'soldier': 42, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'kucoin', 'getexchange': 'kraken', 'currency': 'XLM'}}
+{'timestamp': 'Dec 19 2019 12:32:58 AM', 'soldier': 42, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 12:32:59 AM', 'soldier': 42, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'kucoin', 'getexchange': 'kraken', 'currency': 'XLM'}}
+{'timestamp': 'Dec 19 2019 01:02:38 AM', 'soldier': 42, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 01:02:38 AM', 'soldier': 42, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'kucoin', 'getexchange': 'kraken', 'currency': 'XLM'}}
+{'timestamp': 'Dec 19 2019 01:45:53 AM', 'soldier': 42, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 01:45:54 AM', 'soldier': 42, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'kucoin', 'getexchange': 'kraken', 'currency': 'XLM'}}

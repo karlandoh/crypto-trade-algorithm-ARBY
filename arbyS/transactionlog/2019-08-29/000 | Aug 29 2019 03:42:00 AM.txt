@@ -1,0 +1,59 @@
+{'timestamp': 'Aug 29 2019 03:42:00 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 03:43:12 AM', 'log_info': {'action': 'place_orders_start', 'exchange': 'kucoin2', 'currency': 'TRX/BTC', 'orders': {'strategy': [{'price': 1.62e-06, 'quantity': 1111.1111, 'smallmode': False}], 'sumarrayBTC': [0.001799999982], 'totalBTC': 0.001799999982, 'totalquantity': 1111.1111, 'quantityprecision': 4, 'priceprecision': 10, 'eccentric': False}}}
+{'timestamp': 'Aug 29 2019 03:43:14 AM', 'log_info': {'action': 'place_orders_complete', 'exchange': 'kucoin2', 'currency': 'TRX/BTC', 'orders': [{'id': '5d6782114c06876f06f68f37', 'symbol': 'TRX/BTC', 'type': 'limit', 'side': 'buy', 'status': 'open', 'clientOid': '8cb5e3ad-ea42-45ec-93ab-83190ddf5a46', 'info': {'orderId': '5d6782114c06876f06f68f37'}}]}}
+{'timestamp': 'Aug 29 2019 03:43:14 AM', 'log_info': {'action': 'withdraw_start', 'sendexchange': 'kucoin2', 'getexchange': 'latoken', 'currency': 'TRX'}}
+{'timestamp': 'Aug 29 2019 03:46:00 AM', 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'kucoin2', 'getexchange': 'latoken', 'currency': 'TRX', 'amount': 1111.1111, 'address': 'TP4Yui63r1CN6VUGCFhsYoiP6g63gJN6P5', 'tag': ''}}
+{'timestamp': 'Aug 29 2019 03:46:00 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'latoken', 'currency': 'TRX'}}
+{'timestamp': 'Aug 29 2019 03:57:35 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 03:57:35 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'latoken', 'currency': 'TRX'}}
+{'timestamp': 'Aug 29 2019 04:56:00 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 04:56:00 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'latoken', 'currency': 'TRX'}}
+{'timestamp': 'Aug 29 2019 06:12:24 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 06:12:24 PM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'latoken', 'currency': 'TRX'}}
+{'timestamp': 'Aug 29 2019 06:18:03 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 06:18:03 PM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'latoken', 'currency': 'TRX'}}
+{'timestamp': 'Aug 29 2019 06:19:12 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 06:19:12 PM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'latoken', 'currency': 'TRX'}}
+{'timestamp': 'Aug 29 2019 06:19:32 PM', 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'latoken', 'currency': 'TRX', 'amount': 1110.1111}}
+{'timestamp': 'Aug 29 2019 06:21:13 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 06:56:47 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 06:57:19 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 06:58:13 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 07:00:40 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 07:02:18 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 07:03:04 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 07:03:52 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 07:07:16 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 07:09:24 PM', 'log_info': {'action': 'place_orders_start', 'exchange': 'latoken', 'currency': 'TRX/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 7, 'strategy': [{'price': 1.6e-06, 'quantity': 1108.9999, 'smallmode': False}], 'sumarrayBTC': [0.00177439984], 'totalBTC': 0.00177439984, 'totalquantity': 1108.9999}}}
+{'timestamp': 'Aug 29 2019 07:12:55 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 07:13:10 PM', 'log_info': {'action': 'place_orders_start', 'exchange': 'latoken', 'currency': 'TRX/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 7, 'strategy': [{'price': 1.6e-06, 'quantity': 1108.9999, 'smallmode': False}], 'sumarrayBTC': [0.00177439984], 'totalBTC': 0.00177439984, 'totalquantity': 1108.9999}}}
+{'timestamp': 'Aug 29 2019 07:52:03 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Aug 29 2019 07:58:17 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 04:05:05 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 09:09:08 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 09:13:02 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 09:14:03 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 09:16:41 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 09:17:39 PM', 'log_info': {'action': 'reverse_sendback_initialized'}}
+{'timestamp': 'Sep 03 2019 09:21:01 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 09:24:12 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 09:24:37 PM', 'log_info': {'action': 'reverse_sendback_initialized'}}
+{'timestamp': 'Sep 03 2019 10:08:11 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 10:09:39 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 10:09:39 PM', 'log_info': {'action': 'withdraw_start', 'sendexchange': 'latoken', 'getexchange': 'kucoin2', 'currency': 'TRX/BTC'}}
+{'timestamp': 'Sep 03 2019 10:11:33 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 10:11:33 PM', 'log_info': {'action': 'withdraw_start', 'sendexchange': 'latoken', 'getexchange': 'kucoin2', 'currency': 'TRX/BTC'}}
+{'timestamp': 'Sep 03 2019 10:14:48 PM', 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'latoken', 'getexchange': 'kucoin2', 'currency': 'TRX/BTC', 'amount': 1110.0, 'address': 'TS2by92uuXXgxkerYPa7qtfaWc1AAJ3WG2', 'tag': ''}}
+{'timestamp': 'Sep 03 2019 10:14:49 PM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin2', 'currency': 'TRX/BTC'}}
+{'timestamp': 'Sep 03 2019 10:23:53 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 10:23:54 PM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin2', 'currency': 'TRX/BTC'}}
+{'timestamp': 'Sep 03 2019 10:26:59 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 10:27:00 PM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin2', 'currency': 'TRX'}}
+{'timestamp': 'Sep 03 2019 10:33:22 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 03 2019 10:33:22 PM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin2', 'currency': 'TRX'}}
+{'timestamp': 'Sep 03 2019 10:33:24 PM', 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'kucoin2', 'currency': 'TRX', 'amount': 1095.0}}
+{'timestamp': 'Sep 03 2019 10:33:24 PM', 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'kucoin2', 'currency': 'TRX/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 4, 'strategy': [{'price': 1.49e-06, 'quantity': 1095.1111, 'smallmode': False}], 'sumarrayBTC': [0.001631715539], 'totalBTC': 0.001631715539, 'totalquantity': 1095.1111}}}
+{'timestamp': 'Sep 03 2019 10:33:58 PM', 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'kucoin2', 'currency': 'TRX/BTC', 'orders': [{'id': '5d6f229689fc844d238953f0', 'symbol': 'TRX/BTC', 'type': 'limit', 'side': 'sell', 'status': 'open', 'clientOid': '8a782aa4-9b4c-4ad8-af62-ed1b4491f704', 'info': {'orderId': '5d6f229689fc844d238953f0'}}]}}
+{'timestamp': 'Sep 03 2019 10:33:58 PM', 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'kucoin2', 'currency': 'TRX/BTC'}}
+{'timestamp': 'Sep 03 2019 10:33:58 PM', 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'kucoin2', 'currency': 'TRX/BTC'}}
+{'timestamp': 'Sep 03 2019 10:33:58 PM', 'log_info': {'action': 'arbitrage_fail_sendback_completed'}}

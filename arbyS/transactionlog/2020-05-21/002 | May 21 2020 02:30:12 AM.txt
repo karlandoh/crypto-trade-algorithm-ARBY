@@ -1,0 +1,118 @@
+{'timestamp': 'May 21 2020 02:30:15 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 21 2020 02:30:26 AM', 'soldier': 23, 'log_info': {'action': 'place_orders_start', 'exchange': 'livecoin', 'currency': 'CNB/BTC', 'orders': {'strategy': [{'price': 4e-08, 'quantity': 5000.0, 'smallmode': False}, {'price': 4e-08, 'quantity': 242651.24999999, 'smallmode': False}], 'sumarrayBTC': [0.0002, 0.0097060499999996], 'totalBTC': 0.0099060499999996, 'totalquantity': 247651.24999999, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'May 21 2020 02:30:55 AM', 'soldier': 23, 'log_info': {'action': 'place_orders_complete', 'exchange': 'livecoin', 'currency': 'CNB/BTC', 'orders': [{'info': {'success': True, 'added': False, 'orderId': 114205865451, 'exception': None}, 'id': '114205865451', 'status': 'open', 'mode': 'auto', 'price': 4e-08, 'amount': 5000.0}, {'info': {'success': True, 'added': False, 'orderId': 114205943851, 'exception': None}, 'id': '114205943851', 'status': 'open', 'mode': 'auto', 'price': 4e-08, 'amount': 241429.03874999}]}}
+{'timestamp': 'May 21 2020 02:31:02 AM', 'soldier': 23, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'livecoin', 'getexchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 21 2020 02:31:34 AM', 'soldier': 23, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'livecoin', 'getexchange': 'tidex', 'currency': 'CNB', 'amount': 246429.03874999, 'address': '0x552def1906a43eb4ec258c8b3102036b23ecbabe', 'tag': None, 'result': None}}
+{'timestamp': 'May 21 2020 02:31:35 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 21 2020 04:08:43 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 21 2020 04:08:44 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 22 2020 03:09:54 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 22 2020 03:09:55 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 22 2020 09:12:56 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 22 2020 09:12:57 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 22 2020 02:24:52 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 22 2020 02:24:53 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 22 2020 07:47:31 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 22 2020 07:47:32 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 22 2020 09:04:19 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 22 2020 09:04:19 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 22 2020 09:46:10 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 22 2020 09:46:12 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 23 2020 11:53:16 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 23 2020 11:53:16 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 23 2020 12:23:47 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 23 2020 12:23:48 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 23 2020 05:42:05 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 23 2020 05:42:06 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 23 2020 07:52:25 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 23 2020 07:52:25 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 24 2020 11:38:08 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 24 2020 11:38:08 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 24 2020 11:52:14 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 24 2020 11:52:15 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 24 2020 02:38:16 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 24 2020 02:38:17 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 24 2020 03:21:33 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 24 2020 03:21:34 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 24 2020 05:20:53 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 24 2020 05:20:54 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 24 2020 11:43:57 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 24 2020 11:43:58 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 25 2020 04:33:17 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 04:33:17 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 25 2020 04:37:47 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 04:37:48 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 25 2020 05:21:48 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 05:21:49 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 25 2020 05:28:22 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 05:28:23 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 25 2020 07:35:38 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 07:35:39 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 25 2020 07:40:02 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 07:40:03 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 25 2020 08:17:02 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 08:17:02 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 25 2020 08:20:24 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 08:20:24 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 25 2020 07:37:10 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 07:37:11 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 25 2020 08:25:46 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 25 2020 08:25:46 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 26 2020 12:14:56 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 12:14:56 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 26 2020 12:18:57 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 12:18:57 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 26 2020 07:53:44 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 07:53:45 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 26 2020 11:15:18 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 11:15:19 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 26 2020 11:20:10 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 11:20:11 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 26 2020 01:15:23 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 01:15:24 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 26 2020 01:42:20 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 01:42:21 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 26 2020 02:03:03 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 02:03:04 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 26 2020 02:06:59 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 02:06:59 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 26 2020 04:02:05 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 04:02:05 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 26 2020 08:06:46 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 26 2020 08:06:47 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 27 2020 02:12:05 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 02:12:06 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 27 2020 02:34:48 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 02:34:49 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 27 2020 02:35:28 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 02:35:29 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 27 2020 02:36:35 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 02:36:37 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 27 2020 03:27:54 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 03:27:55 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 27 2020 05:40:21 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 05:40:22 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 27 2020 11:39:39 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 27 2020 11:39:40 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 28 2020 03:22:12 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 28 2020 03:22:13 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 28 2020 07:11:01 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 28 2020 07:11:02 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 28 2020 11:51:57 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 28 2020 11:51:57 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 29 2020 06:00:09 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 29 2020 06:00:10 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 29 2020 05:02:46 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 29 2020 05:02:46 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 30 2020 02:04:48 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 30 2020 02:04:48 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 30 2020 03:15:35 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 30 2020 03:15:36 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 30 2020 03:18:29 AM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 30 2020 03:18:30 AM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 31 2020 01:24:18 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 31 2020 01:24:20 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'May 31 2020 10:37:04 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 31 2020 10:37:04 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}
+{'timestamp': 'Jul 03 2020 06:10:45 PM', 'soldier': 23, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Jul 03 2020 06:10:45 PM', 'soldier': 23, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'tidex', 'currency': 'CNB'}}

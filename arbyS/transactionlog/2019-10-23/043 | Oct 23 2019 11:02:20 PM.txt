@@ -1,0 +1,25 @@
+{'timestamp': 'Oct 23 2019 11:02:21 PM', 'soldier': 26, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 11:02:34 PM', 'soldier': 26, 'log_info': {'action': 'place_orders_start', 'exchange': 'coinegg', 'currency': 'LTC/BTC', 'orders': {'strategy': [{'price': 0.006607, 'quantity': 1.6725, 'smallmode': False}], 'sumarrayBTC': [0.0110502075], 'totalBTC': 0.0110502075, 'totalquantity': 1.6725, 'quantityprecision': 4, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 23 2019 11:02:35 PM', 'soldier': 26, 'log_info': {'action': 'place_orders_complete', 'exchange': 'coinegg', 'currency': 'LTC/BTC', 'orders': [{'id': '79555960', 'datetime': '2019-10-24T03:02:36.000Z', 'timestamp': 1571886156000, 'lastTradeTimestamp': None, 'status': 'open', 'symbol': 'LTC/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.006607, 'cost': None, 'amount': 1.6725, 'filled': 0.0, 'remaining': 1.6725, 'trades': None, 'fee': None, 'info': {'result': True, 'id': '79555960'}, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 23 2019 11:02:42 PM', 'soldier': 26, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'coinegg', 'getexchange': 'southxchange', 'currency': 'LTC'}}
+{'timestamp': 'Oct 23 2019 11:07:32 PM', 'soldier': 26, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 11:07:32 PM', 'soldier': 26, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'coinegg', 'getexchange': 'southxchange', 'currency': 'LTC'}}
+{'timestamp': 'Oct 23 2019 11:08:45 PM', 'soldier': 26, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'coinegg', 'getexchange': 'southxchange', 'currency': 'LTC', 'amount': 1.6, 'address': 'MANdoPjoWwYrXSB7oqSkUZNHenbLJGK4CU', 'tag': ''}}
+{'timestamp': 'Oct 23 2019 11:08:46 PM', 'soldier': 26, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'southxchange', 'currency': 'LTC'}}
+{'timestamp': 'Oct 24 2019 12:12:39 AM', 'soldier': 26, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 12:12:40 AM', 'soldier': 26, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'southxchange', 'currency': 'LTC'}}
+{'timestamp': 'Oct 24 2019 12:37:55 AM', 'soldier': 26, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'southxchange', 'currency': 'LTC', 'amount': 1.6687999999999998}}
+{'timestamp': 'Oct 24 2019 03:14:37 AM', 'soldier': 26, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 03:15:06 AM', 'soldier': 26, 'log_info': {'action': 'reverse_sendback_initialized'}}
+{'timestamp': 'Oct 24 2019 03:15:07 AM', 'soldier': 26, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 03:31:37 AM', 'soldier': 26, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 03:32:35 AM', 'soldier': 26, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 03:32:35 AM', 'soldier': 26, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'southxchange', 'getexchange': 'kucoin2', 'currency': 'LTC'}}
+{'timestamp': 'Oct 24 2019 03:36:13 AM', 'soldier': 26, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'southxchange', 'getexchange': 'kucoin2', 'currency': 'LTC', 'amount': 1.0, 'address': 'LXzwJJBupnxQN8Q7dD18ee8J3F6NLbyXAc', 'tag': ''}}
+{'timestamp': 'Oct 24 2019 03:36:13 AM', 'soldier': 26, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin2', 'currency': 'LTC'}}
+{'timestamp': 'Oct 24 2019 03:39:53 AM', 'soldier': 26, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 03:39:53 AM', 'soldier': 26, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin2', 'currency': 'LTC'}}
+{'timestamp': 'Oct 24 2019 04:42:12 AM', 'soldier': 26, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 04:42:13 AM', 'soldier': 26, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin2', 'currency': 'LTC'}}
+{'timestamp': 'Oct 24 2019 04:53:29 AM', 'soldier': 26, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 04:53:30 AM', 'soldier': 26, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin2', 'currency': 'LTC'}}

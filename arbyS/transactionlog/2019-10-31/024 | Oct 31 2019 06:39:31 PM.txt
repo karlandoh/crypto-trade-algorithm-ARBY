@@ -1,0 +1,16 @@
+{'timestamp': 'Oct 31 2019 06:39:33 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 06:39:41 PM', 'soldier': 19, 'log_info': {'action': 'place_orders_start', 'exchange': 'hitbtc2', 'currency': 'EOS/BTC', 'orders': {'strategy': [{'price': 0.00035588, 'quantity': 27.99, 'smallmode': False}], 'sumarrayBTC': [0.0099610812], 'totalBTC': 0.0099610812, 'totalquantity': 27.99, 'quantityprecision': 2, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 31 2019 06:49:04 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 06:49:17 PM', 'soldier': 19, 'log_info': {'action': 'place_orders_start', 'exchange': 'hitbtc2', 'currency': 'EOS/BTC', 'orders': {'strategy': [{'price': 0.00035601, 'quantity': 27.98, 'smallmode': False}], 'sumarrayBTC': [0.0099611598], 'totalBTC': 0.0099611598, 'totalquantity': 27.98, 'quantityprecision': 2, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 31 2019 07:07:13 PM', 'soldier': 19, 'log_info': {'action': 'place_orders_complete', 'exchange': 'hitbtc2', 'currency': 'EOS/BTC', 'orders': [{'amount': 27.98, 'price': 0.00035601, 'mode': 'manual'}]}}
+{'timestamp': 'Oct 31 2019 07:07:20 PM', 'soldier': 19, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'hitbtc2', 'getexchange': 'upbit', 'currency': 'EOS'}}
+{'timestamp': 'Oct 31 2019 07:07:36 PM', 'soldier': 19, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'hitbtc2', 'getexchange': 'upbit', 'currency': 'EOS', 'amount': 27.9200067344, 'address': 'eosusrwallet', 'tag': 'f5fec00d-5882-4804-87ab-ff30eaca723d'}}
+{'timestamp': 'Oct 31 2019 07:07:36 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'upbit', 'currency': 'EOS'}}
+{'timestamp': 'Oct 31 2019 07:10:17 PM', 'soldier': 19, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'upbit', 'currency': 'EOS', 'amount': 27.91}}
+{'timestamp': 'Oct 31 2019 07:12:28 PM', 'soldier': 19, 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Oct 31 2019 07:12:29 PM', 'soldier': 19, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 07:12:29 PM', 'soldier': 19, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'upbit', 'currency': 'EOS/BTC', 'orders': {'strategy': [{'price': 0.00035167, 'quantity': 27.91, 'smallmode': False}], 'sumarrayBTC': [0.0098151097], 'totalBTC': 0.0098151097, 'totalquantity': 27.91, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 31 2019 07:13:10 PM', 'soldier': 19, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'upbit', 'currency': 'EOS/BTC', 'orders': [{'amount': 27.91, 'price': 0.00035167, 'mode': 'manual'}]}}
+{'timestamp': 'Oct 31 2019 07:13:10 PM', 'soldier': 19, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'upbit', 'currency': 'EOS/BTC'}}
+{'timestamp': 'Oct 31 2019 07:13:32 PM', 'soldier': 19, 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'upbit', 'currency': 'EOS/BTC'}}
+{'timestamp': 'Oct 31 2019 07:13:32 PM', 'soldier': 19, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

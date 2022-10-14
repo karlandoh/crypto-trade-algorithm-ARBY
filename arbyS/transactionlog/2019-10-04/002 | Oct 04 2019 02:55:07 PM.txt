@@ -1,0 +1,20 @@
+{'timestamp': 'Oct 04 2019 02:55:07 PM', 'soldier': 12, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 04 2019 02:55:46 PM', 'soldier': 12, 'log_info': {'action': 'place_orders_start', 'exchange': 'binance', 'currency': 'WAVES/BTC', 'orders': {'strategy': [{'price': 0.0001101, 'quantity': 134.42, 'smallmode': False}], 'sumarrayBTC': [0.014799642], 'totalBTC': 0.014799642, 'totalquantity': 134.42, 'quantityprecision': 2, 'priceprecision': 7, 'eccentric': False}}}
+{'timestamp': 'Oct 04 2019 02:55:54 PM', 'soldier': 12, 'log_info': {'action': 'place_orders_complete', 'exchange': 'binance', 'currency': 'WAVES/BTC', 'orders': [{'info': {'symbol': 'WAVESBTC', 'orderId': 112373575, 'orderListId': -1, 'clientOrderId': 'xqWCocROpjnnZ05RZK0QUM', 'transactTime': 1570215354483, 'price': '0.00011010', 'origQty': '134.42000000', 'executedQty': '134.42000000', 'cummulativeQuoteQty': '0.01479813', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'BUY'}, 'id': '112373575', 'timestamp': 1570215354483, 'datetime': '2019-10-04T18:55:54.483Z', 'lastTradeTimestamp': None, 'symbol': 'WAVES/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.0001101, 'amount': 134.42, 'cost': 0.01479813, 'average': 0.00011008875167385807, 'filled': 134.42, 'remaining': 0.0, 'status': 'closed', 'fee': None, 'trades': None, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 04 2019 02:56:01 PM', 'soldier': 12, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'binance', 'getexchange': 'hitbtc2', 'currency': 'WAVES'}}
+{'timestamp': 'Oct 04 2019 02:56:02 PM', 'soldier': 12, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'binance', 'getexchange': 'hitbtc2', 'currency': 'WAVES', 'amount': 0.014800000000000004, 'address': '3P85PjJSEDFJUAq56DFoagyyGcBG1HdwTj8', 'tag': ''}}
+{'timestamp': 'Oct 04 2019 02:56:03 PM', 'soldier': 12, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'hitbtc2', 'currency': 'WAVES'}}
+{'timestamp': 'Oct 04 2019 03:01:22 PM', 'soldier': 12, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 04 2019 03:01:29 PM', 'soldier': 12, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'hitbtc2', 'currency': 'WAVES'}}
+{'timestamp': 'Oct 04 2019 03:10:14 PM', 'soldier': 12, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 04 2019 03:10:18 PM', 'soldier': 12, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'hitbtc2', 'currency': 'WAVES'}}
+{'timestamp': 'Oct 04 2019 03:36:17 PM', 'soldier': 12, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 04 2019 03:36:22 PM', 'soldier': 12, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'hitbtc2', 'currency': 'WAVES'}}
+{'timestamp': 'Oct 04 2019 03:39:23 PM', 'soldier': 12, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 04 2019 03:39:24 PM', 'soldier': 12, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'hitbtc2', 'currency': 'WAVES'}}
+{'timestamp': 'Oct 04 2019 03:40:43 PM', 'soldier': 12, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 04 2019 03:40:52 PM', 'soldier': 12, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'hitbtc2', 'currency': 'WAVES'}}
+{'timestamp': 'Oct 04 2019 03:48:14 PM', 'soldier': 12, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 04 2019 03:48:16 PM', 'soldier': 12, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'hitbtc2', 'currency': 'WAVES'}}
+{'timestamp': 'Oct 04 2019 03:50:23 PM', 'soldier': 12, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'hitbtc2', 'currency': 'WAVES', 'amount': 0.0128}}
+{'timestamp': 'Oct 04 2019 04:20:30 PM', 'soldier': 12, 'log_info': {'action': 'arbitrage_initialized'}}

@@ -1,0 +1,28 @@
+{'timestamp': 'Sep 04 2019 07:11:04 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:11:36 PM', 'log_info': {'action': 'place_orders_start', 'exchange': 'southxchange', 'currency': 'LTC/BTC', 'orders': {'strategy': [{'price': 0.00646429, 'quantity': 0.0157, 'smallmode': False}, {'price': 0.00646559, 'quantity': 0.05, 'smallmode': False}, {'price': 0.00647578, 'quantity': 0.44399765, 'smallmode': False}], 'sumarrayBTC': [0.00010148935299999999, 0.00032327950000000005, 0.0028752311019170002], 'totalBTC': 0.003299999954917, 'totalquantity': 0.50969765, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Sep 04 2019 07:11:43 PM', 'log_info': {'action': 'place_orders_complete', 'exchange': 'southxchange', 'currency': 'LTC/BTC', 'orders': [{'info': '"6T6VVVB3"', 'id': '"6T6VVVB3"'}, {'info': '"7151YDY3"', 'id': '"7151YDY3"'}, {'info': '"378465MO"', 'id': '"378465MO"'}]}}
+{'timestamp': 'Sep 04 2019 07:11:50 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:12:00 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:12:09 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:12:20 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:12:30 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:12:40 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:12:50 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:13:00 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:13:10 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:15:11 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:19:17 PM', 'log_info': {'action': 'withdraw_start', 'sendexchange': 'southxchange', 'getexchange': 'coinexchange', 'currency': 'LTC'}}
+{'timestamp': 'Sep 04 2019 07:20:05 PM', 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'southxchange', 'getexchange': 'coinexchange', 'currency': 'LTC', 'amount': 0.50816856, 'address': 'LZMLMFDiViPcLfuffxgFXon26aegv2URx3', 'tag': ''}}
+{'timestamp': 'Sep 04 2019 07:20:05 PM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinexchange', 'currency': 'LTC'}}
+{'timestamp': 'Sep 04 2019 07:34:29 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:34:30 PM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinexchange', 'currency': 'LTC'}}
+{'timestamp': 'Sep 04 2019 07:44:19 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:44:19 PM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinexchange', 'currency': 'LTC'}}
+{'timestamp': 'Sep 04 2019 07:44:35 PM', 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'coinexchange', 'currency': 'LTC', 'amount': 0.50616856}}
+{'timestamp': 'Sep 04 2019 07:58:47 PM', 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Sep 04 2019 07:58:47 PM', 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:58:47 PM', 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'coinexchange', 'currency': 'LTC/BTC', 'orders': {'strategy': [{'price': 0.00632001, 'quantity': 0.15566035, 'smallmode': False}, {'price': 0.00632, 'quantity': 0.02, 'smallmode': False}, {'price': 0.00631373, 'quantity': 0.17800123, 'smallmode': False}, {'price': 0.006312, 'quantity': 0.15250697, 'smallmode': False}], 'sumarrayBTC': [0.0009837749686035001, 0.0001264, 0.0011238517058879001, 0.0009626239946399999], 'totalBTC': 0.0031966506691314, 'totalquantity': 0.50616855, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Sep 04 2019 08:00:14 PM', 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'coinexchange', 'currency': 'LTC/BTC', 'orders': [{'remaining': 0.15566035, 'price': 0.00632001, 'mode': 'manual'}, {'remaining': 0.02, 'price': 0.00632, 'mode': 'manual'}, {'remaining': 0.17800123, 'price': 0.00631373, 'mode': 'manual'}, {'remaining': 0.15250697, 'price': 0.006312, 'mode': 'manual'}]}}
+{'timestamp': 'Sep 04 2019 08:00:14 PM', 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'coinexchange', 'currency': 'LTC/BTC'}}
+{'timestamp': 'Sep 04 2019 08:00:17 PM', 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'coinexchange', 'currency': 'LTC/BTC'}}
+{'timestamp': 'Sep 04 2019 08:00:17 PM', 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

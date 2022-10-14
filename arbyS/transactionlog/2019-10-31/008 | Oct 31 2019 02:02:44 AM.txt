@@ -1,0 +1,16 @@
+{'timestamp': 'Oct 31 2019 02:02:47 AM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 02:02:57 AM', 'soldier': 20, 'log_info': {'action': 'place_orders_start', 'exchange': 'upbit', 'currency': 'MONA/BTC', 'orders': {'strategy': [{'price': 0.000118, 'quantity': 67.69949777, 'smallmode': False}, {'price': 0.00011877, 'quantity': 2.79564926, 'smallmode': False}], 'sumarrayBTC': [0.007988540736859999, 0.0003320392626102], 'totalBTC': 0.0083205799994702, 'totalquantity': 70.49514703, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 31 2019 02:18:54 AM', 'soldier': 20, 'log_info': {'action': 'place_orders_complete', 'exchange': 'upbit', 'currency': 'MONA/BTC', 'orders': [{'amount': 67.69949777, 'price': 0.000118, 'mode': 'manual'}, {'amount': 2.79564926, 'price': 0.00011877, 'mode': 'manual'}]}}
+{'timestamp': 'Oct 31 2019 02:19:12 AM', 'soldier': 20, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'upbit', 'getexchange': 'bittrex', 'currency': 'MONA'}}
+{'timestamp': 'Oct 31 2019 02:21:48 AM', 'soldier': 20, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'upbit', 'getexchange': 'bittrex', 'currency': 'MONA', 'amount': 70.0, 'address': 'MCE8dRtEAwkopWw3BpQxLrA1wwN1JbopCq', 'tag': ''}}
+{'timestamp': 'Oct 31 2019 02:21:49 AM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'MONA'}}
+{'timestamp': 'Oct 31 2019 02:30:37 AM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 02:30:38 AM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'MONA'}}
+{'timestamp': 'Oct 31 2019 03:08:42 AM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 03:08:43 AM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'MONA'}}
+{'timestamp': 'Oct 31 2019 04:49:15 AM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 04:49:15 AM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'bittrex', 'currency': 'MONA'}}
+{'timestamp': 'Oct 31 2019 04:49:17 AM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'bittrex', 'currency': 'MONA', 'amount': 70.714}}
+{'timestamp': 'Oct 31 2019 04:49:17 AM', 'soldier': 20, 'log_info': {'action': 'place_orders_start', 'exchange': 'bittrex', 'currency': 'MONA/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 8, 'strategy': [{'price': 0.00012228, 'quantity': 70.11890916, 'smallmode': False}], 'sumarrayBTC': [0.0085741402120848], 'totalBTC': 0.0085741402120848, 'totalquantity': 70.11890916}}}
+{'timestamp': 'Oct 31 2019 04:49:17 AM', 'soldier': 20, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bittrex', 'currency': 'MONA/BTC', 'orders': [{'info': {'success': True, 'message': '', 'result': {'uuid': '48928cb0-2c33-4708-aa34-76a2b9f4c968'}}, 'id': '48928cb0-2c33-4708-aa34-76a2b9f4c968', 'symbol': 'MONA/BTC', 'type': 'limit', 'side': 'sell', 'status': 'open', 'mode': 'auto', 'price': 0.00012228, 'amount': 70.11890916}]}}
+{'timestamp': 'Oct 31 2019 04:49:24 AM', 'soldier': 20, 'log_info': {'action': 'arbitrage_success_completed'}}

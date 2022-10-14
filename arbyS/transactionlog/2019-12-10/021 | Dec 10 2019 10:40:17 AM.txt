@@ -1,0 +1,32 @@
+{'timestamp': 'Dec 10 2019 10:40:19 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:40:26 AM', 'soldier': 39, 'log_info': {'action': 'place_orders_start', 'exchange': 'bitz', 'currency': 'DASH/BTC', 'orders': {'strategy': [{'price': 0.00695606, 'quantity': 0.2587, 'smallmode': False}], 'sumarrayBTC': [0.0017995327219999999], 'totalBTC': 0.0017995327219999999, 'totalquantity': 0.2587, 'quantityprecision': 4, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 10 2019 10:40:27 AM', 'soldier': 39, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bitz', 'currency': 'DASH/BTC', 'orders': [{'id': '5007449811', 'datetime': '2019-12-10T15:40:27.391Z', 'timestamp': 1575992427391, 'lastTradeTimestamp': None, 'status': 'open', 'symbol': 'DASH/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.00695606, 'cost': 0.0, 'amount': 0.2587, 'filled': 0.0, 'remaining': 0.2587, 'trades': None, 'fee': None, 'info': {'timestamp': 1575992427391, 'id': 5007449811, 'uId': 1458456, 'price': '0.00695606', 'number': '0.2587', 'numberOver': '0.2587', 'flag': 'buy', 'status': 0, 'coinFrom': 'dash', 'coinTo': 'btc', 'numberDeal': 0}, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 10 2019 10:40:34 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'crex24', 'currency': 'DASH'}}
+{'timestamp': 'Dec 10 2019 02:39:51 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 02:39:51 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'crex24', 'currency': 'DASH'}}
+{'timestamp': 'Dec 10 2019 03:17:46 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:17:46 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'crex24', 'currency': 'DASH'}}
+{'timestamp': 'Dec 10 2019 03:25:27 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:25:27 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'crex24', 'currency': 'DASH'}}
+{'timestamp': 'Dec 10 2019 03:44:37 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:44:37 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'crex24', 'currency': 'DASH'}}
+{'timestamp': 'Dec 10 2019 05:16:19 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:16:19 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'crex24', 'currency': 'DASH'}}
+{'timestamp': 'Dec 10 2019 05:41:18 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'bitz', 'getexchange': 'crex24', 'currency': 'DASH', 'amount': 0.28, 'address': 'XkoK7K3EdF48CoDYhBeB7bcKpXpumGrj2z', 'tag': None}}
+{'timestamp': 'Dec 10 2019 05:41:18 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DASH'}}
+{'timestamp': 'Dec 10 2019 05:42:13 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:42:13 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DASH'}}
+{'timestamp': 'Dec 10 2019 05:50:50 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:50:50 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DASH'}}
+{'timestamp': 'Dec 10 2019 07:39:54 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 07:39:56 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DASH'}}
+{'timestamp': 'Dec 10 2019 10:02:34 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:02:36 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'crex24', 'currency': 'DASH'}}
+{'timestamp': 'Dec 10 2019 10:10:03 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'crex24', 'currency': 'DASH', 'amount': 0.2564657}}
+{'timestamp': 'Dec 10 2019 10:10:27 PM', 'soldier': 39, 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Dec 10 2019 10:10:28 PM', 'soldier': 39, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:10:28 PM', 'soldier': 39, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'crex24', 'currency': 'DASH/BTC', 'orders': {'strategy': [{'price': 0.00694, 'quantity': 0.2564657, 'smallmode': False}], 'sumarrayBTC': [0.0017798719580000002], 'totalBTC': 0.0017798719580000002, 'totalquantity': 0.2564657, 'quantityprecision': 8, 'priceprecision': 5, 'eccentric': False}}}
+{'timestamp': 'Dec 10 2019 10:10:29 PM', 'soldier': 39, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'crex24', 'currency': 'DASH/BTC', 'orders': [{'info': {'id': 920627990, 'timestamp': '2019-12-11T03:10:28Z', 'instrument': 'DASH-BTC', 'side': 'sell', 'type': 'limit', 'status': 'submitting', 'cancellationReason': None, 'timeInForce': 'GTC', 'volume': 0.2564, 'price': 0.00694, 'stopPrice': None, 'remainingVolume': 0.2564, 'lastUpdate': '2019-12-11T03:10:28Z', 'parentOrderId': None, 'childOrderId': None}, 'id': '920627990', 'timestamp': 1576033828000, 'datetime': '2019-12-11T03:10:28.000Z', 'lastTradeTimestamp': 1576033828000, 'symbol': 'DASH/BTC', 'type': 'limit', 'side': 'sell', 'price': 0.00694, 'amount': 0.2564, 'cost': 0.0, 'average': None, 'filled': 0.0, 'remaining': 0.2564, 'status': 'open', 'fee': None, 'trades': None, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 10 2019 10:10:29 PM', 'soldier': 39, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'crex24', 'currency': 'DASH/BTC'}}
+{'timestamp': 'Dec 10 2019 10:10:29 PM', 'soldier': 39, 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'crex24', 'currency': 'DASH/BTC'}}
+{'timestamp': 'Dec 10 2019 10:10:29 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

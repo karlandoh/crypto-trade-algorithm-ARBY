@@ -1,0 +1,450 @@
+{'timestamp': 'Oct 23 2019 03:27:22 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 03:27:32 AM', 'soldier': 17, 'log_info': {'action': 'place_orders_start', 'exchange': 'bitz', 'currency': 'CRE/BTC', 'orders': {'strategy': [{'price': 3.9e-07, 'quantity': 10979.3076, 'smallmode': False}], 'sumarrayBTC': [0.004281929964], 'totalBTC': 0.004281929964, 'totalquantity': 10979.3076, 'quantityprecision': 4, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 23 2019 03:27:32 AM', 'soldier': 17, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bitz', 'currency': 'CRE/BTC', 'orders': [{'id': '4290156310', 'datetime': '2019-10-23T07:27:32.802Z', 'timestamp': 1571815652802, 'lastTradeTimestamp': None, 'status': 'open', 'symbol': 'CRE/BTC', 'type': 'limit', 'side': 'buy', 'price': 3.9e-07, 'cost': 0.0, 'amount': 10979.3076, 'filled': 0.0, 'remaining': 10979.3076, 'trades': None, 'fee': None, 'info': {'timestamp': 1571815652802, 'id': 4290156310, 'uId': 1458456, 'price': '0.00000039', 'number': '10979.3076', 'numberOver': '10979.3076', 'flag': 'buy', 'status': 0, 'coinFrom': 'cre', 'coinTo': 'btc', 'numberDeal': 0}, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 23 2019 03:27:40 AM', 'soldier': 17, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 03:30:16 AM', 'soldier': 17, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'bitz', 'getexchange': 'huobipro', 'currency': 'CRE', 'amount': 10957.0, 'address': '0x0a307a35b068639936bc0a990bd6277852bbdece', 'tag': ''}}
+{'timestamp': 'Oct 23 2019 03:30:16 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 03:50:52 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 03:50:53 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 04:06:23 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:06:24 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 04:58:40 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:58:40 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 03:27:38 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 03:27:39 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 03:49:25 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 03:49:25 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 03:54:42 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 03:54:43 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 04:16:30 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:16:30 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 04:20:45 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:20:45 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 04:26:52 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:26:53 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 04:33:46 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:33:46 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 04:39:40 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 04:39:41 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 05:10:10 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 05:10:11 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 05:27:57 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 05:27:58 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 06:07:08 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:07:09 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 06:10:04 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:10:04 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 06:20:03 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:20:05 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 06:40:34 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:40:37 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 06:50:58 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:50:59 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 07:06:54 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:06:56 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 07:12:45 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:12:48 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 07:30:09 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:30:10 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 09:47:01 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 09:47:02 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 09:51:35 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 09:51:36 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 09:53:34 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 09:53:35 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 09:57:50 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 09:57:51 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 10:04:14 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 10:04:15 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 10:08:18 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 10:08:21 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 10:11:20 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 10:11:21 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 10:16:27 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 10:16:28 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 10:18:51 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 10:18:53 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 10:22:43 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 10:22:44 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 10:32:26 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 10:32:26 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+                                                                                                                                                                                                                                                          {'timestamp': 'Oct 23 2019 10:55:44 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 10:55:45 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 23 2019 11:07:31 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 11:07:33 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 12:12:39 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 12:12:40 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 03:14:37 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 03:14:38 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 03:31:36 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 03:31:38 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 03:39:52 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 03:39:53 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 04:42:12 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 04:42:13 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 04:59:13 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 04:59:14 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 05:02:54 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 05:02:55 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 05:18:43 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 05:18:45 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 05:19:47 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 05:19:48 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 05:50:17 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 05:50:17 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 06:11:39 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 06:11:40 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 06:25:11 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 06:25:12 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 06:54:54 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 06:54:54 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 09:04:52 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 09:04:52 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 09:15:57 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 09:15:58 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 09:28:35 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 09:28:36 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 09:42:57 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 09:42:57 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 10:01:14 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 10:01:15 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 10:04:40 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 10:04:41 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 10:09:12 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 10:09:12 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 10:52:03 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 10:52:04 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 10:57:16 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 10:57:17 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 05:53:49 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 05:53:49 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 05:56:24 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 05:56:25 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 24 2019 06:10:54 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 24 2019 06:10:54 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 26 2019 01:13:39 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 26 2019 01:13:39 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 26 2019 01:15:54 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 26 2019 01:15:55 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 26 2019 01:30:32 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 26 2019 01:30:32 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 26 2019 06:31:19 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 26 2019 06:31:19 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 26 2019 06:37:05 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 26 2019 06:37:06 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 26 2019 04:31:23 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 26 2019 04:31:24 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 26 2019 04:39:34 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 26 2019 04:39:34 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 26 2019 05:04:22 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 26 2019 05:04:23 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 26 2019 05:48:33 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 26 2019 05:48:34 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 26 2019 06:47:59 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 26 2019 06:47:59 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 26 2019 07:16:58 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 26 2019 07:16:58 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 26 2019 07:31:37 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 26 2019 07:31:38 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 27 2019 12:03:24 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 27 2019 12:03:24 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 27 2019 12:08:18 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 27 2019 12:08:18 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 04:49:43 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 04:49:43 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 05:22:43 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 05:22:44 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 05:23:31 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 05:23:31 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 05:25:36 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 05:25:36 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 05:27:21 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 05:27:21 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 05:27:53 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 05:27:54 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 06:11:01 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 06:11:03 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 06:22:39 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 06:22:39 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 06:23:03 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 06:23:03 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 07:12:11 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 07:12:12 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 07:15:35 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 07:15:36 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 07:38:26 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 07:38:27 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 08:00:02 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 08:00:03 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 28 2019 08:21:36 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 08:21:37 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 29 2019 04:43:15 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 29 2019 04:43:15 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 29 2019 10:45:03 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 29 2019 10:45:05 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 29 2019 10:56:41 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 29 2019 10:56:45 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 29 2019 11:13:22 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 29 2019 11:13:23 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 29 2019 11:30:03 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 29 2019 11:30:05 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 29 2019 11:41:00 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 29 2019 11:41:01 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 29 2019 11:57:17 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 29 2019 11:57:17 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 29 2019 12:01:02 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 29 2019 12:01:02 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 30 2019 03:33:09 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 03:33:09 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 30 2019 03:55:55 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 03:55:57 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 30 2019 04:15:32 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:15:33 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 30 2019 04:22:32 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:22:32 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 30 2019 04:26:35 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:26:36 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 30 2019 04:28:19 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:28:19 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 30 2019 04:40:12 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:40:12 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 30 2019 04:44:02 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 04:44:02 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 30 2019 05:12:25 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 05:12:25 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 30 2019 06:04:10 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 06:04:10 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 30 2019 07:54:17 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 30 2019 07:54:17 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 31 2019 01:51:06 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 01:51:06 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 31 2019 02:30:37 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 02:30:37 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 31 2019 03:08:43 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 03:08:44 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 31 2019 04:49:13 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 04:49:13 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 31 2019 04:34:28 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 04:34:28 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 31 2019 06:32:09 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 06:32:10 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 31 2019 06:49:01 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 06:49:03 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 31 2019 07:17:43 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 07:17:46 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Oct 31 2019 07:23:33 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 31 2019 07:23:33 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 01 2019 01:15:14 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 01 2019 01:15:14 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 04:25:14 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:25:14 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 04:56:52 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:56:53 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 06:00:33 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:00:34 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 06:24:03 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:24:04 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 06:29:15 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:29:17 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 06:58:02 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:58:04 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 07:10:16 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:10:17 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 07:26:09 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:26:10 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 07:33:09 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:33:09 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 04:28:41 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:28:41 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 04:53:29 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:53:31 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 04:58:23 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 04:58:23 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 05:05:18 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 05:05:22 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 05:49:27 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 05:49:28 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 06:00:21 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:00:22 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 06:33:31 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:33:31 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 06:39:37 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:39:37 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 06:43:37 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 06:43:39 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 07:11:11 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:11:11 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 07:41:00 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:41:00 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 07:51:34 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 07:51:36 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 08:02:36 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 08:02:38 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 08:36:10 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 08:36:11 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 08:48:17 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 08:48:18 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 09:01:37 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 09:01:37 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 09:44:04 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 09:44:04 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 11:27:21 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 11:27:23 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 04 2019 11:44:14 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 04 2019 11:44:15 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 12:05:54 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 12:05:55 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 12:18:17 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 12:18:21 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 12:35:47 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 12:35:47 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 01:33:23 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 01:33:23 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 04:32:05 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 04:32:05 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 06:33:57 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 06:33:58 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 07:00:58 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 07:00:58 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 08:35:18 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 08:35:19 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 08:58:27 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 08:58:27 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 09:43:18 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:43:19 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 09:43:47 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:43:47 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 09:55:10 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:55:10 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 09:56:10 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:56:11 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 09:57:31 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:57:31 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 09:58:35 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 09:58:36 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 10:03:18 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 10:03:18 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 10:05:27 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 10:05:27 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 10:53:32 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 10:53:33 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 11:03:43 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 11:03:43 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 05 2019 11:20:42 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 05 2019 11:20:43 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 12:49:54 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 12:49:58 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 01:20:36 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 01:20:38 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 01:42:32 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 01:42:34 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 01:46:34 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 01:46:35 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 02:00:34 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 02:00:35 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 04:41:39 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 04:41:39 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 10:23:33 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 10:23:35 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 10:34:39 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 10:34:40 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 10:43:36 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 10:43:41 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 10:55:54 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 10:55:56 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 11:15:15 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 11:15:17 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 11:17:10 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 11:17:13 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 12:07:19 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 12:07:19 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 07:53:35 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 07:53:38 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 08:28:46 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 08:28:47 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 08:57:12 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 08:57:12 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 09:50:54 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 09:50:54 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 10:23:09 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 10:23:10 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 10:46:11 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 10:46:11 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 11:19:56 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 11:19:56 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 11:37:59 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 11:38:01 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 06 2019 11:44:54 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 11:44:56 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 07 2019 12:19:17 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 12:19:19 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 07 2019 03:09:39 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 03:09:40 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 07 2019 03:44:52 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 03:44:56 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 07 2019 03:48:57 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 03:49:01 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 07 2019 04:05:47 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 04:05:51 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 07 2019 04:26:08 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 04:26:09 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 07 2019 06:32:10 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 06:32:12 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 07 2019 06:38:03 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 06:38:04 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Nov 07 2019 06:51:44 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 07 2019 06:51:44 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 01 2019 06:42:48 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 06:42:49 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 01 2019 07:00:31 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 07:00:32 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 01 2019 07:54:28 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 07:54:31 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 01 2019 08:10:04 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 08:10:05 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 01 2019 08:37:13 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 08:37:16 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 01 2019 08:40:31 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 08:40:33 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 01 2019 08:45:00 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 08:45:01 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 01 2019 09:23:50 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 01 2019 09:23:54 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 10:15:53 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:15:55 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 11:09:22 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 11:09:25 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 12:36:34 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 12:36:35 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 12:41:00 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 12:41:01 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 04:05:38 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 04:05:40 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 05:17:07 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 05:17:07 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 06:33:05 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 06:33:06 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 06:59:41 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 06:59:41 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 07:32:57 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 07:32:57 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 08:16:58 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:16:59 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 08:20:34 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:20:37 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 08:30:52 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:30:55 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 08:59:22 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 08:59:23 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 09:05:12 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 09:05:13 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 10:07:54 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:07:54 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 10:12:52 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:12:53 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 10:24:33 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:24:33 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 10:32:47 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:32:47 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}
+{'timestamp': 'Dec 02 2019 10:45:32 PM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 02 2019 10:45:32 PM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'CRE'}}

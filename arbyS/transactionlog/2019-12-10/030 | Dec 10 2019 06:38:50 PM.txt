@@ -1,0 +1,13 @@
+{'timestamp': 'Dec 10 2019 06:38:52 PM', 'soldier': 57, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 06:38:59 PM', 'soldier': 57, 'log_info': {'action': 'place_orders_start', 'exchange': 'bitz', 'currency': 'EDC/BTC', 'orders': {'strategy': [{'price': 8.9e-07, 'quantity': 8189.0112, 'smallmode': False}], 'sumarrayBTC': [0.007288219968], 'totalBTC': 0.007288219968, 'totalquantity': 8189.0112, 'quantityprecision': 4, 'priceprecision': 10, 'eccentric': False}}}
+{'timestamp': 'Dec 10 2019 06:39:01 PM', 'soldier': 57, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bitz', 'currency': 'EDC/BTC', 'orders': [{'id': '5012131166', 'datetime': '2019-12-10T23:39:00.366Z', 'timestamp': 1576021140366, 'lastTradeTimestamp': None, 'status': 'open', 'symbol': 'EDC/BTC', 'type': 'limit', 'side': 'buy', 'price': 8.9e-07, 'cost': 0.0, 'amount': 8189.0112, 'filled': 0.0, 'remaining': 8189.0112, 'trades': None, 'fee': None, 'info': {'timestamp': 1576021140366, 'id': 5012131166, 'uId': 1458456, 'price': '0.0000008900', 'number': '8189.0112', 'numberOver': '8189.0112', 'flag': 'buy', 'status': 0, 'coinFrom': 'edc', 'coinTo': 'btc', 'numberDeal': 0}, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 10 2019 06:39:08 PM', 'soldier': 57, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'btcalpha', 'currency': 'EDC'}}
+{'timestamp': 'Dec 10 2019 07:10:05 PM', 'soldier': 57, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 07:10:05 PM', 'soldier': 57, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'btcalpha', 'currency': 'EDC'}}
+{'timestamp': 'Dec 10 2019 07:39:54 PM', 'soldier': 57, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 07:39:55 PM', 'soldier': 57, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'btcalpha', 'currency': 'EDC'}}
+{'timestamp': 'Dec 10 2019 10:02:33 PM', 'soldier': 57, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:02:34 PM', 'soldier': 57, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'btcalpha', 'currency': 'EDC'}}
+{'timestamp': 'Dec 10 2019 10:16:42 PM', 'soldier': 57, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:19:10 PM', 'soldier': 57, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:19:10 PM', 'soldier': 57, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitz', 'getexchange': 'btcalpha', 'currency': 'EDC'}}

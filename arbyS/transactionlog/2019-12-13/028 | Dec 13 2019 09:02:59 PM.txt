@@ -1,0 +1,96 @@
+{'timestamp': 'Dec 13 2019 09:03:01 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 09:03:12 PM', 'soldier': 45, 'log_info': {'action': 'place_orders_start', 'exchange': 'hitbtc2', 'currency': 'EOS/BTC', 'orders': {'strategy': [{'price': 0.00036174, 'quantity': 4.97, 'smallmode': False}], 'sumarrayBTC': [0.0017978477999999998], 'totalBTC': 0.0017978477999999998, 'totalquantity': 4.97, 'quantityprecision': 2, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 13 2019 09:03:13 PM', 'soldier': 45, 'log_info': {'action': 'place_orders_complete', 'exchange': 'hitbtc2', 'currency': 'EOS/BTC', 'orders': [{'id': '2ef078903ac34e389b5bdcb3a01e10d3', 'timestamp': 1576288993004, 'datetime': '2019-12-14T02:03:13.004Z', 'lastTradeTimestamp': 1576288993004, 'status': 'closed', 'symbol': 'EOS/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.00036174, 'average': 0.00036173, 'amount': 4.97, 'cost': 0.0017977980999999998, 'filled': 4.97, 'remaining': 0.0, 'fee': {'cost': 3.595597e-06, 'currency': 'BTC'}, 'trades': [{'info': {'id': 729290600, 'quantity': '4.97', 'price': '0.00036173', 'fee': '0.000003595597', 'timestamp': '2019-12-14T02:03:13.004Z'}, 'id': '729290600', 'order': None, 'timestamp': 1576288993004, 'datetime': '2019-12-14T02:03:13.004Z', 'symbol': 'EOS/BTC', 'type': None, 'side': None, 'takerOrMaker': None, 'price': 0.00036173, 'amount': 4.97, 'cost': 0.0017977980999999998, 'fee': {'cost': 3.595597e-06, 'currency': 'BTC'}}], 'info': {'id': 186429071150, 'clientOrderId': '2ef078903ac34e389b5bdcb3a01e10d3', 'symbol': 'EOSBTC', 'side': 'buy', 'status': 'filled', 'type': 'limit', 'timeInForce': 'GTC', 'price': '0.00036174', 'quantity': '4.97', 'postOnly': False, 'cumQuantity': '4.97', 'createdAt': '2019-12-14T02:03:13.004Z', 'updatedAt': '2019-12-14T02:03:13.004Z', 'tradesReport': [{'id': 729290600, 'quantity': '4.97', 'price': '0.00036173', 'fee': '0.000003595597', 'timestamp': '2019-12-14T02:03:13.004Z'}]}, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 13 2019 09:03:19 PM', 'soldier': 45, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'hitbtc2', 'getexchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 09:03:25 PM', 'soldier': 45, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'hitbtc2', 'getexchange': 'coinegg', 'currency': 'EOS', 'amount': 4.97, 'address': 'eoscoineggim', 'tag': '1127848'}}
+{'timestamp': 'Dec 13 2019 09:03:26 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 09:34:47 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 09:34:47 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 13 2019 10:41:23 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 10:41:24 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 01:53:55 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 01:53:56 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 05:02:58 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 05:02:58 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 05:04:17 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 05:04:18 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 05:07:01 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 05:07:03 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 06:02:01 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 06:02:04 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 02:00:02 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 02:00:03 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 02:26:31 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 02:26:32 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 02:29:14 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 02:29:16 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 04:11:44 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 04:11:45 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 06:18:55 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 06:18:56 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 06:29:28 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 06:29:28 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 07:04:25 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 07:04:27 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 14 2019 08:39:09 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 08:39:11 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 02:29:59 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 02:29:59 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 03:34:44 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 03:34:44 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 03:42:20 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 03:42:23 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 04:08:51 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 04:08:55 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 02:12:07 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 02:12:08 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 03:34:08 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 03:34:13 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 03:37:07 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 03:37:10 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 07:15:07 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 07:15:09 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 08:18:27 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 08:18:27 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 10:24:57 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 10:24:59 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 15 2019 11:44:30 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 11:44:32 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:43:08 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:43:08 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 07:20:42 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 07:20:43 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 05:51:03 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 05:51:04 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:10:09 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:10:11 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:22:32 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:22:33 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:42:53 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:42:55 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 06:57:55 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:57:57 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 07:11:42 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 07:11:44 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 16 2019 07:31:03 PM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 07:31:05 PM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 17 2019 01:15:17 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 01:15:18 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'coinegg', 'currency': 'EOS'}}
+{'timestamp': 'Dec 17 2019 01:57:49 AM', 'soldier': 45, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'coinegg', 'currency': 'EOS', 'amount': 4.96}}
+{'timestamp': 'Dec 17 2019 01:58:51 AM', 'soldier': 45, 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Dec 17 2019 01:58:52 AM', 'soldier': 45, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 01:58:52 AM', 'soldier': 45, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'coinegg', 'currency': 'EOS/BTC', 'orders': {'strategy': [{'price': 0.00034063, 'quantity': 4.96, 'smallmode': False}], 'sumarrayBTC': [0.0016895248], 'totalBTC': 0.0016895248, 'totalquantity': 4.96, 'quantityprecision': 4, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 17 2019 01:58:53 AM', 'soldier': 45, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'coinegg', 'currency': 'EOS/BTC', 'orders': [{'id': '74344976', 'datetime': '2019-12-17T06:58:54.000Z', 'timestamp': 1576565934000, 'lastTradeTimestamp': None, 'status': 'open', 'symbol': 'EOS/BTC', 'type': 'limit', 'side': 'sell', 'price': 0.00034063, 'cost': None, 'amount': 4.96, 'filled': 0.0, 'remaining': 4.96, 'trades': None, 'fee': None, 'info': {'result': True, 'id': '74344976'}, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 17 2019 01:58:53 AM', 'soldier': 45, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'coinegg', 'currency': 'EOS/BTC'}}
+{'timestamp': 'Dec 17 2019 04:49:46 AM', 'soldier': 45, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 04:49:46 AM', 'soldier': 45, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'coinegg', 'currency': 'EOS/BTC'}}
+{'timestamp': 'Dec 17 2019 04:54:15 AM', 'soldier': 45, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 04:54:16 AM', 'soldier': 45, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'coinegg', 'currency': 'EOS/BTC'}}
+{'timestamp': 'Dec 17 2019 05:05:44 AM', 'soldier': 45, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 05:05:44 AM', 'soldier': 45, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'coinegg', 'currency': 'EOS/BTC'}}
+{'timestamp': 'Dec 17 2019 06:30:18 AM', 'soldier': 45, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 06:30:19 AM', 'soldier': 45, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'coinegg', 'currency': 'EOS/BTC'}}
+{'timestamp': 'Dec 17 2019 07:51:49 AM', 'soldier': 45, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 07:51:49 AM', 'soldier': 45, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'coinegg', 'currency': 'EOS/BTC'}}
+{'timestamp': 'Dec 17 2019 08:46:22 AM', 'soldier': 45, 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'coinegg', 'currency': 'EOS/BTC'}}
+{'timestamp': 'Dec 17 2019 08:46:22 AM', 'soldier': 45, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

@@ -1,0 +1,18 @@
+{'timestamp': 'Oct 08 2019 10:59:27 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 08 2019 10:59:50 PM', 'soldier': 18, 'log_info': {'action': 'place_orders_start', 'exchange': 'digifinex', 'currency': 'DASH/BTC', 'orders': {'strategy': [{'price': 0.008664, 'quantity': 0.9233, 'smallmode': False}], 'sumarrayBTC': [0.0079994712], 'totalBTC': 0.0079994712, 'totalquantity': 0.9233, 'quantityprecision': 4, 'priceprecision': 6, 'eccentric': False}}}
+{'timestamp': 'Oct 08 2019 10:59:52 PM', 'soldier': 18, 'log_info': {'action': 'place_orders_complete', 'exchange': 'digifinex', 'currency': 'DASH/BTC', 'orders': [{'info': {'code': 0, 'order_id': '8ee3590c767bd8471a22cce6ffe241ea'}, 'id': '8ee3590c767bd8471a22cce6ffe241ea', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'symbol': 'DASH/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.008664, 'amount': 0.9233, 'filled': None, 'remaining': None, 'cost': None, 'average': None, 'status': None, 'fee': None, 'mode': 'auto'}]}}
+{'timestamp': 'Oct 08 2019 11:00:02 PM', 'soldier': 18, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'digifinex', 'getexchange': 'livecoin', 'currency': 'DASH'}}
+{'timestamp': 'Oct 08 2019 11:01:42 PM', 'soldier': 18, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'digifinex', 'getexchange': 'livecoin', 'currency': 'DASH', 'amount': 0.9, 'address': 'XshZjpZgQo4yxCoX9VTqhCEkYci6shUwG6', 'tag': ''}}
+{'timestamp': 'Oct 08 2019 11:01:47 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'DASH'}}
+{'timestamp': 'Oct 08 2019 11:06:05 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 08 2019 11:06:08 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'DASH'}}
+{'timestamp': 'Oct 08 2019 11:12:46 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 08 2019 11:12:50 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'DASH'}}
+{'timestamp': 'Oct 08 2019 11:38:37 PM', 'soldier': 18, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'livecoin', 'currency': 'DASH', 'amount': 0.9193}}
+{'timestamp': 'Oct 08 2019 11:39:24 PM', 'soldier': 18, 'log_info': {'action': 'reverse_stay_initialized'}}
+{'timestamp': 'Oct 08 2019 11:39:25 PM', 'soldier': 18, 'log_info': {'action': 'reverse_arbitrage_initialized'}}
+{'timestamp': 'Oct 08 2019 11:39:25 PM', 'soldier': 18, 'log_info': {'action': 'reverse_place_orders_start', 'exchange': 'livecoin', 'currency': 'DASH/BTC', 'orders': {'strategy': [{'price': 0.00863108, 'quantity': 0.9193, 'smallmode': False}], 'sumarrayBTC': [0.007934551844], 'totalBTC': 0.007934551844, 'totalquantity': 0.9193, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 08 2019 11:39:26 PM', 'soldier': 18, 'log_info': {'action': 'reverse_place_orders_complete', 'exchange': 'livecoin', 'currency': 'DASH/BTC', 'orders': [{'info': {'success': True, 'added': False, 'orderId': 66615343801, 'exception': None}, 'id': '66615343801', 'status': 'open', 'mode': 'auto', 'price': 0.00863108, 'amount': 0.9193}]}}
+{'timestamp': 'Oct 08 2019 11:39:26 PM', 'soldier': 18, 'log_info': {'action': 'reverse_trade_wait_start', 'exchange': 'livecoin', 'currency': 'DASH/BTC'}}
+{'timestamp': 'Oct 08 2019 11:39:26 PM', 'soldier': 18, 'log_info': {'action': 'reverse_trade_wait_complete', 'exchange': 'livecoin', 'currency': 'DASH/BTC'}}
+{'timestamp': 'Oct 08 2019 11:39:26 PM', 'soldier': 18, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

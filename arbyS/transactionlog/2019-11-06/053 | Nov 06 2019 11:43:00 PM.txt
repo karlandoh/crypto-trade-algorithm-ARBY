@@ -1,0 +1,2 @@
+{'timestamp': 'Nov 06 2019 11:43:05 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Nov 06 2019 11:43:15 PM', 'soldier': 37, 'log_info': {'action': 'place_orders_start', 'exchange': 'upbit', 'currency': 'NCASH/BTC', 'orders': {'strategy': [{'price': 1.2e-07, 'quantity': 41445.08333333, 'smallmode': False}], 'sumarrayBTC': [0.0049734099999996], 'totalBTC': 0.0049734099999996, 'totalquantity': 41445.08333333, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}

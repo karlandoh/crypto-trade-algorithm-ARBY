@@ -1,0 +1,47 @@
+{'timestamp': 'Sep 04 2019 04:49:50 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 04:50:18 AM', 'log_info': {'action': 'place_orders_start', 'exchange': 'binance', 'currency': 'XLM/BTC', 'orders': {'strategy': [{'price': 5.91e-06, 'quantity': 2453.0, 'smallmode': False}], 'sumarrayBTC': [0.01449723], 'totalBTC': 0.01449723, 'totalquantity': 2453.0, 'quantityprecision': 0, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Sep 04 2019 04:50:19 AM', 'log_info': {'action': 'place_orders_complete', 'exchange': 'binance', 'currency': 'XLM/BTC', 'orders': [{'info': {'symbol': 'XLMBTC', 'orderId': 113398493, 'orderListId': -1, 'clientOrderId': 'hBPI8AOAxhoecAQSKqoqAi', 'transactTime': 1567587018665, 'price': '0.00000591', 'origQty': '2453.00000000', 'executedQty': '2453.00000000', 'cummulativeQuoteQty': '0.01449723', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'BUY'}, 'id': '113398493', 'timestamp': 1567587018665, 'datetime': '2019-09-04T08:50:18.665Z', 'lastTradeTimestamp': None, 'symbol': 'XLM/BTC', 'type': 'limit', 'side': 'buy', 'price': 5.91e-06, 'amount': 2453.0, 'cost': 0.01449723, 'average': 5.91e-06, 'filled': 2453.0, 'remaining': 0.0, 'status': 'closed', 'fee': None, 'trades': None}]}}
+{'timestamp': 'Sep 04 2019 04:50:20 AM', 'log_info': {'action': 'withdraw_start', 'sendexchange': 'binance', 'getexchange': 'okex3', 'currency': 'XLM'}}
+{'timestamp': 'Sep 04 2019 04:50:22 AM', 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'binance', 'getexchange': 'okex3', 'currency': 'XLM', 'amount': 2450.547, 'address': 'GBGII2C7M4TOEC2MVAZYG3TRFM3ATCCEWANSN4Q3AHEX3NRKXJCVZDEV', 'tag': '75967'}}
+{'timestamp': 'Sep 04 2019 04:50:22 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'okex3', 'currency': 'XLM'}}
+{'timestamp': 'Sep 04 2019 04:57:11 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 04:57:11 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'okex3', 'currency': 'XLM'}}
+{'timestamp': 'Sep 04 2019 04:57:20 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 04:57:20 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'okex3', 'currency': 'XLM'}}
+{'timestamp': 'Sep 04 2019 04:58:33 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 04:58:33 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'okex3', 'currency': 'XLM'}}
+{'timestamp': 'Sep 04 2019 04:58:35 AM', 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'okex3', 'currency': 'XLM', 'amount': 2450.537}}
+{'timestamp': 'Sep 04 2019 04:59:16 AM', 'log_info': {'action': 'place_orders_start', 'exchange': 'okex3', 'currency': 'XLM/BTC', 'orders': {'strategy': [{'price': 5.88e-06, 'quantity': 2450.537, 'smallmode': False}], 'sumarrayBTC': [0.014409157559999998], 'totalBTC': 0.014409157559999998, 'totalquantity': 2450.537, 'quantityprecision': 3, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Sep 04 2019 04:59:17 AM', 'log_info': {'action': 'place_orders_complete', 'exchange': 'okex3', 'currency': 'XLM/BTC', 'orders': [{'info': {'client_oid': '', 'error_code': '', 'error_message': '', 'order_id': '3463679645784064', 'result': True}, 'id': '3463679645784064', 'timestamp': 1567587557790, 'datetime': '2019-09-04T08:59:17.790Z', 'lastTradeTimestamp': None, 'status': None, 'symbol': 'XLM/BTC', 'type': 'limit', 'side': 'sell', 'price': 5.88e-06, 'amount': 2450.537, 'filled': None, 'remaining': None, 'cost': None, 'trades': None, 'fee': None}]}}
+{'timestamp': 'Sep 04 2019 04:59:28 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 05:00:06 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 05:00:20 AM', 'log_info': {'action': 'place_orders_start', 'exchange': 'okex3', 'currency': 'ETC/BTC', 'orders': {'strategy': [{'price': 0.0006418, 'quantity': 22.45116, 'smallmode': False}], 'sumarrayBTC': [0.014409154488], 'totalBTC': 0.014409154488, 'totalquantity': 22.45116, 'quantityprecision': 5, 'priceprecision': 7, 'eccentric': False}}}
+{'timestamp': 'Sep 04 2019 05:00:21 AM', 'log_info': {'action': 'place_orders_complete', 'exchange': 'okex3', 'currency': 'ETC/BTC', 'orders': [{'info': {'client_oid': '', 'error_code': '', 'error_message': '', 'order_id': '3463683841074176', 'result': True}, 'id': '3463683841074176', 'timestamp': 1567587621830, 'datetime': '2019-09-04T09:00:21.830Z', 'lastTradeTimestamp': None, 'status': None, 'symbol': 'ETC/BTC', 'type': 'limit', 'side': 'buy', 'price': 0.0006418, 'amount': 22.45116, 'filled': None, 'remaining': None, 'cost': None, 'trades': None, 'fee': None}]}}
+{'timestamp': 'Sep 04 2019 05:00:22 AM', 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'liquid', 'currency': 'ETC'}}
+{'timestamp': 'Sep 04 2019 05:03:57 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 05:03:57 AM', 'log_info': {'action': 'withdraw_start', 'sendexchange': 'okex3', 'getexchange': 'liquid', 'currency': 'ETC'}}
+{'timestamp': 'Sep 04 2019 05:07:58 AM', 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'okex3', 'getexchange': 'liquid', 'currency': 'ETC', 'amount': 22.416, 'address': '0x552628f95be6e946a642970dba49a0a939e597db', 'tag': ''}}
+{'timestamp': 'Sep 04 2019 05:07:58 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'liquid', 'currency': 'ETC'}}
+{'timestamp': 'Sep 04 2019 05:10:54 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 05:10:54 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'liquid', 'currency': 'ETC'}}
+{'timestamp': 'Sep 04 2019 05:14:13 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 05:14:14 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'liquid', 'currency': 'ETC'}}
+{'timestamp': 'Sep 04 2019 06:25:45 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:25:55 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:25:55 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'liquid', 'currency': 'ETC'}}
+{'timestamp': 'Sep 04 2019 06:32:12 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:32:12 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'liquid', 'currency': 'ETC'}}
+{'timestamp': 'Sep 04 2019 06:36:10 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:36:11 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'liquid', 'currency': 'ETC'}}
+{'timestamp': 'Sep 04 2019 06:47:20 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:47:21 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'liquid', 'currency': 'ETC'}}
+{'timestamp': 'Sep 04 2019 06:49:00 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:49:01 AM', 'log_info': {'action': 'deposit_wait_start', 'exchange': 'liquid', 'currency': 'ETC'}}
+{'timestamp': 'Sep 04 2019 07:09:18 AM', 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'liquid', 'currency': 'ETC', 'amount': 22.416}}
+{'timestamp': 'Sep 04 2019 07:09:55 AM', 'log_info': {'action': 'place_orders_start', 'exchange': 'liquid', 'currency': 'ETC/BTC', 'orders': {'strategy': [{'price': 0.00073, 'quantity': 22.416, 'smallmode': False}], 'sumarrayBTC': [0.01636368], 'totalBTC': 0.01636368, 'totalquantity': 22.416, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Sep 04 2019 07:10:24 AM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 04:34:09 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 04:54:58 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:32:48 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 06:45:41 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 04 2019 07:34:29 PM', 'log_info': {'action': 'arbitrage_initialized'}}

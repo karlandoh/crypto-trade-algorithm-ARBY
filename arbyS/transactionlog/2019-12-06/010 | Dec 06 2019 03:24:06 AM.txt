@@ -1,0 +1,114 @@
+{'timestamp': 'Dec 06 2019 03:24:08 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 03:24:15 AM', 'soldier': 27, 'log_info': {'action': 'place_orders_start', 'exchange': 'btcalpha', 'currency': 'TLC/BTC', 'orders': {'strategy': [{'price': 4.339e-05, 'quantity': 28.84824321, 'smallmode': False}, {'price': 4.34e-05, 'quantity': 12.63305822, 'smallmode': False}], 'sumarrayBTC': [0.0012517252728819, 0.000548274726748], 'totalBTC': 0.0017999999996299, 'totalquantity': 41.48130143, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 06 2019 03:24:16 AM', 'soldier': 27, 'log_info': {'action': 'place_orders_complete', 'exchange': 'btcalpha', 'currency': 'TLC/BTC', 'orders': [{'id': '137430565', 'datetime': '2019-12-06T08:24:15.656Z', 'timestamp': 1575620655656, 'status': None, 'symbol': 'TLC/BTC', 'type': 'limit', 'side': 'buy', 'price': 4.339e-05, 'cost': None, 'amount': 28.84824321, 'filled': 28.84824321, 'remaining': 28.84824321, 'trades': [{'id': '48180555', 'info': {'type': 'sell', 'price': 4.339e-05, 'o_id': 137429809, 'amount': 28.84824321, 'tid': 48180555}, 'timestamp': None, 'datetime': None, 'symbol': 'TLC/BTC', 'order': '137429809', 'type': 'limit', 'side': None, 'takerOrMaker': None, 'price': 4.339e-05, 'amount': 28.84824321, 'cost': 0.00125173, 'fee': None}], 'fee': None, 'info': {'success': True, 'date': 1575620655.656135, 'type': 'buy', 'oid': 137430565, 'price': 4.339e-05, 'amount': 0.0, 'trades': [{'type': 'sell', 'price': 4.339e-05, 'o_id': 137429809, 'amount': 28.84824321, 'tid': 48180555}]}, 'mode': 'auto'}, {'id': '137430571', 'datetime': '2019-12-06T08:24:16.289Z', 'timestamp': 1575620656289, 'status': None, 'symbol': 'TLC/BTC', 'type': 'limit', 'side': 'buy', 'price': 4.34e-05, 'cost': None, 'amount': 12.63305822, 'filled': 12.63305822, 'remaining': 12.63305822, 'trades': [{'id': '48180560', 'info': {'type': 'sell', 'price': 4.34e-05, 'o_id': 137429797, 'amount': 12.63305822, 'tid': 48180560}, 'timestamp': None, 'datetime': None, 'symbol': 'TLC/BTC', 'order': '137429797', 'type': 'limit', 'side': None, 'takerOrMaker': None, 'price': 4.34e-05, 'amount': 12.63305822, 'cost': 0.00054827, 'fee': None}], 'fee': None, 'info': {'success': True, 'date': 1575620656.289277, 'type': 'buy', 'oid': 137430571, 'price': 4.34e-05, 'amount': 0.0, 'trades': [{'type': 'sell', 'price': 4.34e-05, 'o_id': 137429797, 'amount': 12.63305822, 'tid': 48180560}]}, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 06 2019 03:24:23 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 06 2019 03:29:15 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 03:29:15 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 06 2019 03:34:13 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 03:34:13 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 06 2019 11:23:56 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 11:23:56 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 06 2019 11:34:33 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 11:34:33 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 06 2019 11:37:00 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 11:37:00 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 06 2019 12:14:16 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:14:16 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 06 2019 02:46:15 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 02:46:16 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 06 2019 05:35:19 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 05:35:19 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 06 2019 07:39:54 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 07:39:54 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 07 2019 03:35:08 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 07 2019 03:35:09 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 09 2019 04:49:13 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 09 2019 04:49:14 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 09 2019 06:09:03 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 09 2019 06:09:04 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 09 2019 08:25:29 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 09 2019 08:25:30 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 09 2019 09:48:49 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 09 2019 09:48:49 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 03:03:05 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:03:05 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 03:41:01 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:41:02 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 05:04:29 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:04:29 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 02:39:51 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 02:39:51 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 03:17:44 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:17:44 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 03:44:39 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 03:44:39 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 05:16:18 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:16:18 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 05:42:18 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:42:19 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 05:50:48 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 05:50:49 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 07:39:54 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 07:39:55 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 10:02:34 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:02:34 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 10:19:08 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:19:09 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 10:35:34 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:35:35 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 10 2019 10:41:49 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 10 2019 10:41:49 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 11 2019 05:54:05 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 05:54:06 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 11 2019 09:11:50 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:11:50 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 11 2019 09:16:19 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:16:19 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 11 2019 09:22:52 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:22:52 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 11 2019 09:43:26 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:43:26 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 11 2019 09:59:43 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:59:43 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 11 2019 10:35:02 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 10:35:03 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 11 2019 11:15:32 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 11:15:33 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 12 2019 12:41:31 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 12 2019 12:41:31 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 12 2019 04:21:58 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 12 2019 04:21:58 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 12 2019 02:05:48 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 12 2019 02:05:48 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 13 2019 04:33:37 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 04:33:37 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 13 2019 04:52:25 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 04:52:25 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 13 2019 05:42:26 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 05:42:26 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 13 2019 06:08:28 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:08:29 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 13 2019 06:11:58 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:11:58 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 13 2019 06:20:15 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:20:15 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 13 2019 06:24:02 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:24:04 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 13 2019 06:32:40 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:32:40 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 13 2019 06:41:43 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:41:43 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 13 2019 06:49:41 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:49:41 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 13 2019 09:34:46 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 09:34:46 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 13 2019 10:41:22 PM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 10:41:22 PM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 14 2019 01:53:55 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 01:53:55 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 14 2019 05:02:57 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 05:02:57 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 14 2019 05:04:16 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 05:04:16 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}
+{'timestamp': 'Dec 14 2019 05:06:59 AM', 'soldier': 27, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 05:06:59 AM', 'soldier': 27, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'btcalpha', 'getexchange': 'livecoin', 'currency': 'TLC'}}

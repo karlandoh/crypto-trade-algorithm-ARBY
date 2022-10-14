@@ -1,0 +1,8 @@
+{'timestamp': 'Oct 10 2019 10:34:06 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 10:34:06 AM', 'soldier': 17, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'southxchange', 'getexchange': 'huobipro', 'currency': 'BTC'}}
+{'timestamp': 'Oct 10 2019 10:36:17 AM', 'soldier': 17, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'southxchange', 'getexchange': 'huobipro', 'currency': 'BTC', 'amount': 0.02056019, 'address': '133w9kbdwP8pdc2BbzHRDubRZNv7R5i5wS', 'tag': ''}}
+{'timestamp': 'Oct 10 2019 10:36:17 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'BTC'}}
+{'timestamp': 'Oct 10 2019 10:49:25 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 10 2019 10:49:27 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'huobipro', 'currency': 'BTC'}}
+{'timestamp': 'Oct 10 2019 10:58:35 AM', 'soldier': 17, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'huobipro', 'currency': 'BTC', 'amount': 0.02046}}
+{'timestamp': 'Oct 10 2019 10:58:47 AM', 'soldier': 17, 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

@@ -1,0 +1,5 @@
+{'timestamp': 'Sep 05 2019 12:58:04 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 05 2019 12:58:28 PM', 'log_info': {'action': 'arbitrage_fail_stay_completed'}}
+{'timestamp': 'Sep 05 2019 01:18:15 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 05 2019 01:41:26 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 05 2019 01:44:02 PM', 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

@@ -1,0 +1,33 @@
+{'timestamp': 'Dec 03 2019 04:27:46 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 04:27:57 PM', 'soldier': 37, 'log_info': {'action': 'place_orders_start', 'exchange': 'bitforex', 'currency': 'ROOBEE/BTC', 'orders': {'strategy': [{'price': 5.1e-07, 'quantity': 26274.5098, 'smallmode': False}], 'sumarrayBTC': [0.013399999998], 'totalBTC': 0.013399999998, 'totalquantity': 26274.5098, 'quantityprecision': 4, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 03 2019 04:27:58 PM', 'soldier': 37, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bitforex', 'currency': 'ROOBEE/BTC', 'orders': [{'info': {'data': {'orderId': 'b2c77e9a-ddd1-46dc-bb4b-372cd7ec7ab1'}, 'success': True, 'time': 1575408478453}, 'id': 'b2c77e9a-ddd1-46dc-bb4b-372cd7ec7ab1', 'mode': 'auto', 'price': 5.1e-07, 'amount': 26274.5098}]}}
+{'timestamp': 'Dec 03 2019 04:28:05 PM', 'soldier': 37, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitforex', 'getexchange': 'kucoin', 'currency': 'ROOBEE'}}
+{'timestamp': 'Dec 03 2019 08:18:57 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 08:18:57 PM', 'soldier': 37, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitforex', 'getexchange': 'kucoin', 'currency': 'ROOBEE'}}
+{'timestamp': 'Dec 03 2019 08:26:27 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 08:26:27 PM', 'soldier': 37, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitforex', 'getexchange': 'kucoin', 'currency': 'ROOBEE'}}
+{'timestamp': 'Dec 03 2019 08:28:05 PM', 'soldier': 37, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'bitforex', 'getexchange': 'kucoin', 'currency': 'ROOBEE', 'amount': 26248.2352, 'address': '0x8903fb3ddf9bd47b1d34973f6ce3a7fa05a0e358', 'tag': None}}
+{'timestamp': 'Dec 03 2019 08:28:06 PM', 'soldier': 37, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'ROOBEE'}}
+{'timestamp': 'Dec 03 2019 08:56:56 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 08:56:58 PM', 'soldier': 37, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'kucoin', 'currency': 'ROOBEE'}}
+{'timestamp': 'Dec 03 2019 08:57:02 PM', 'soldier': 37, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'kucoin', 'currency': 'ROOBEE', 'amount': 26048.2352}}
+{'timestamp': 'Dec 03 2019 08:57:02 PM', 'soldier': 37, 'log_info': {'action': 'place_orders_start', 'exchange': 'kucoin', 'currency': 'ROOBEE/BTC', 'orders': {'eccentric': False, 'priceprecision': 10, 'quantityprecision': 4, 'strategy': [{'price': 5.3e-07, 'quantity': 26247.2352, 'smallmode': False}], 'sumarrayBTC': [0.013911034656], 'totalBTC': 0.013911034656, 'totalquantity': 26247.2352}}}
+{'timestamp': 'Dec 03 2019 08:57:12 PM', 'soldier': 37, 'log_info': {'action': 'place_orders_complete', 'exchange': 'kucoin', 'currency': 'ROOBEE/BTC', 'orders': [{'id': '5de712785977d1000938a1fc', 'symbol': 'ROOBEE/BTC', 'type': 'limit', 'side': 'sell', 'price': 5.3e-07, 'cost': None, 'filled': None, 'remaining': None, 'timestamp': 1575424632840, 'datetime': '2019-12-04T01:57:12.840Z', 'fee': None, 'status': 'open', 'clientOid': 'd95a4756-41a2-4cf5-a71b-33cb68805846', 'info': {'orderId': '5de712785977d1000938a1fc'}, 'amount': 25938.946, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 03 2019 09:47:26 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:50:49 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 03 2019 09:58:05 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 03:02:05 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 04:14:12 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 04:33:07 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 04:37:33 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 06:43:26 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 06:54:08 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 07:11:23 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 08:37:05 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:10:53 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:45:05 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 09:47:41 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 10:13:34 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 04 2019 10:27:38 PM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:31:20 AM', 'soldier': 37, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 06 2019 12:31:26 AM', 'soldier': 37, 'log_info': {'action': 'arbitrage_success_completed'}}

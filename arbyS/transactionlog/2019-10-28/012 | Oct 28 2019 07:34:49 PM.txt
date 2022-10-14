@@ -1,0 +1,6 @@
+{'timestamp': 'Oct 28 2019 07:34:50 PM', 'soldier': 16, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 07:34:59 PM', 'soldier': 16, 'log_info': {'action': 'place_orders_start', 'exchange': 'livecoin', 'currency': 'DASH/BTC', 'orders': {'strategy': [{'price': 0.0076592, 'quantity': 1.03339774, 'smallmode': False}], 'sumarrayBTC': [0.007914999970208], 'totalBTC': 0.007914999970208, 'totalquantity': 1.03339774, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 28 2019 07:35:00 PM', 'soldier': 16, 'log_info': {'action': 'place_orders_complete', 'exchange': 'livecoin', 'currency': 'DASH/BTC', 'orders': [{'info': {'success': True, 'added': False, 'orderId': 70910925751, 'exception': None}, 'id': '70910925751', 'status': 'open', 'mode': 'auto', 'price': 0.0076592, 'amount': 1.03339774}]}}
+{'timestamp': 'Oct 28 2019 07:35:07 PM', 'soldier': 16, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'livecoin', 'getexchange': 'cex', 'currency': 'DASH'}}
+{'timestamp': 'Oct 28 2019 07:38:25 PM', 'soldier': 16, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 28 2019 07:38:26 PM', 'soldier': 16, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'livecoin', 'getexchange': 'cex', 'currency': 'DASH'}}

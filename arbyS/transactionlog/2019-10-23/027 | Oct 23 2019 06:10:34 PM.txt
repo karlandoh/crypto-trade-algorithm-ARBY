@@ -1,0 +1,28 @@
+{'timestamp': 'Oct 23 2019 06:10:36 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:10:45 PM', 'soldier': 20, 'log_info': {'action': 'place_orders_start', 'exchange': 'bitforex', 'currency': 'FTO/BTC', 'orders': {'strategy': [{'price': 4.876e-05, 'quantity': 112.7973, 'smallmode': False}], 'sumarrayBTC': [0.005499996348], 'totalBTC': 0.005499996348, 'totalquantity': 112.7973, 'quantityprecision': 4, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Oct 23 2019 06:10:46 PM', 'soldier': 20, 'log_info': {'action': 'place_orders_complete', 'exchange': 'bitforex', 'currency': 'FTO/BTC', 'orders': [{'info': {'data': {'orderId': '7a6c6ca7-1930-46a9-b4bf-802db2c172a5'}, 'success': True, 'time': 1571868645232}, 'id': '7a6c6ca7-1930-46a9-b4bf-802db2c172a5', 'mode': 'auto', 'price': 4.876e-05, 'amount': 112.7973}]}}
+{'timestamp': 'Oct 23 2019 06:10:53 PM', 'soldier': 20, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'bitforex', 'getexchange': 'southxchange', 'currency': 'FTO'}}
+{'timestamp': 'Oct 23 2019 06:13:33 PM', 'soldier': 20, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'bitforex', 'getexchange': 'southxchange', 'currency': 'FTO', 'amount': 12.0, 'address': 'FqBdrwjnC9EYAq6Vf2BFiqua9z8qFfJSbM', 'tag': ''}}
+{'timestamp': 'Oct 23 2019 06:13:33 PM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'southxchange', 'currency': 'FTO'}}
+{'timestamp': 'Oct 23 2019 06:20:03 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:20:05 PM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'southxchange', 'currency': 'FTO'}}
+{'timestamp': 'Oct 23 2019 06:40:33 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:40:36 PM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'southxchange', 'currency': 'FTO'}}
+{'timestamp': 'Oct 23 2019 06:50:59 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 06:51:02 PM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'southxchange', 'currency': 'FTO'}}
+{'timestamp': 'Oct 23 2019 07:06:56 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:06:58 PM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'southxchange', 'currency': 'FTO'}}
+{'timestamp': 'Oct 23 2019 07:12:46 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:12:49 PM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'southxchange', 'currency': 'FTO'}}
+{'timestamp': 'Oct 23 2019 07:30:10 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 07:30:11 PM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'southxchange', 'currency': 'FTO'}}
+{'timestamp': 'Oct 23 2019 08:37:53 PM', 'soldier': 20, 'log_info': {'action': 'deposit_wait_complete', 'exchange': 'southxchange', 'currency': 'FTO', 'amount': 110.68452289}}
+{'timestamp': 'Oct 23 2019 08:37:53 PM', 'soldier': 20, 'log_info': {'action': 'place_orders_start', 'exchange': 'southxchange', 'currency': 'FTO/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 8, 'strategy': [{'price': 5.758e-05, 'quantity': 110.6845, 'smallmode': False}], 'sumarrayBTC': [0.0063732135100000005], 'totalBTC': 0.0063732135100000005, 'totalquantity': 110.6845}}}
+{'timestamp': 'Oct 23 2019 08:39:33 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 08:39:33 PM', 'soldier': 20, 'log_info': {'action': 'place_orders_start', 'exchange': 'southxchange', 'currency': 'FTO/BTC', 'orders': {'eccentric': False, 'priceprecision': 8, 'quantityprecision': 8, 'strategy': [{'price': 5.758e-05, 'quantity': 110.6845, 'smallmode': False}], 'sumarrayBTC': [0.0063732135100000005], 'totalBTC': 0.0063732135100000005, 'totalquantity': 110.6845}}}
+{'timestamp': 'Oct 23 2019 08:39:34 PM', 'soldier': 20, 'log_info': {'action': 'place_orders_complete', 'exchange': 'southxchange', 'currency': 'FTO/BTC', 'orders': [{'info': '"WMT61Y4T"', 'id': '"WMT61Y4T"', 'mode': 'auto', 'price': 5.758e-05, 'amount': 110.6845}]}}
+{'timestamp': 'Oct 23 2019 08:39:40 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_success_completed'}}
+{'timestamp': 'Oct 23 2019 08:40:12 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 08:40:22 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 08:40:32 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Oct 23 2019 08:40:39 PM', 'soldier': 20, 'log_info': {'action': 'arbitrage_success_completed'}}

@@ -1,0 +1,2 @@
+{'timestamp': 'Sep 05 2019 01:49:45 PM', 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Sep 05 2019 01:50:03 PM', 'log_info': {'action': 'arbitrage_fail_stay_completed'}}

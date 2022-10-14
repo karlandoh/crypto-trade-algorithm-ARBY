@@ -1,0 +1,2 @@
+{'timestamp': 'May 09 2020 09:18:53 PM', 'soldier': 15, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'May 09 2020 09:19:06 PM', 'soldier': 15, 'log_info': {'action': 'place_orders_start', 'exchange': 'kraken', 'currency': 'XRP/BTC', 'orders': {'strategy': [{'price': 2.262e-05, 'quantity': 22.908, 'smallmode': False}], 'sumarrayBTC': [0.0005181789600000001], 'totalBTC': 0.0005181789600000001, 'totalquantity': 22.908, 'quantityprecision': 3, 'priceprecision': 8, 'eccentric': False}}}

@@ -1,0 +1,2 @@
+{'timestamp': 'Dec 19 2019 01:41:20 AM', 'soldier': 48, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 01:41:28 AM', 'soldier': 48, 'log_info': {'action': 'place_orders_start', 'exchange': 'hitbtc2', 'currency': 'EOS/BTC', 'orders': {'strategy': [{'price': 0.00033988, 'quantity': 5.29, 'smallmode': False}], 'sumarrayBTC': [0.0017979652], 'totalBTC': 0.0017979652, 'totalquantity': 5.29, 'quantityprecision': 2, 'priceprecision': 8, 'eccentric': False}}}

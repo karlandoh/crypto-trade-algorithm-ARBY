@@ -1,0 +1,210 @@
+{'timestamp': 'Dec 11 2019 12:15:51 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 12:15:59 AM', 'soldier': 39, 'log_info': {'action': 'place_orders_start', 'exchange': 'crex24', 'currency': 'WTP/BTC', 'orders': {'strategy': [{'price': 6.35e-06, 'quantity': 598.42519685, 'smallmode': False}], 'sumarrayBTC': [0.0037999999999975003], 'totalBTC': 0.0037999999999975003, 'totalquantity': 598.42519685, 'quantityprecision': 8, 'priceprecision': 8, 'eccentric': False}}}
+{'timestamp': 'Dec 11 2019 12:16:00 AM', 'soldier': 39, 'log_info': {'action': 'place_orders_complete', 'exchange': 'crex24', 'currency': 'WTP/BTC', 'orders': [{'info': {'id': 920690401, 'timestamp': '2019-12-11T05:15:59Z', 'instrument': 'WTP-BTC', 'side': 'buy', 'type': 'limit', 'status': 'submitting', 'cancellationReason': None, 'timeInForce': 'GTC', 'volume': 598.0, 'price': 6.35e-06, 'stopPrice': None, 'remainingVolume': 598.0, 'lastUpdate': '2019-12-11T05:15:59Z', 'parentOrderId': None, 'childOrderId': None}, 'id': '920690401', 'timestamp': 1576041359000, 'datetime': '2019-12-11T05:15:59.000Z', 'lastTradeTimestamp': 1576041359000, 'symbol': 'WTP/BTC', 'type': 'limit', 'side': 'buy', 'price': 6.35e-06, 'amount': 598.0, 'cost': 0.0, 'average': None, 'filled': 0.0, 'remaining': 598.0, 'status': 'open', 'fee': None, 'trades': None, 'mode': 'auto'}]}}
+{'timestamp': 'Dec 11 2019 12:16:07 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 11 2019 12:16:11 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_complete', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP', 'amount': 599.0020784, 'address': '0xd206f391f433da792f00bcc1bfb19bfe5801ab30', 'tag': None}}
+{'timestamp': 'Dec 11 2019 12:16:11 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 11 2019 05:54:05 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 05:54:06 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 11 2019 09:11:48 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:11:49 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 11 2019 09:16:18 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:16:19 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 11 2019 09:22:54 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:22:55 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 11 2019 09:43:29 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:43:32 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 11 2019 09:59:44 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 09:59:47 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 11 2019 10:35:03 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 10:35:05 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 11 2019 11:15:27 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 11 2019 11:15:29 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 12 2019 12:41:38 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 12 2019 12:41:39 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 12 2019 04:21:59 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 12 2019 04:21:59 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 12 2019 02:05:50 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 12 2019 02:05:50 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 13 2019 04:33:39 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 04:33:40 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 13 2019 04:52:27 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 04:52:28 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 13 2019 05:42:26 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 05:42:26 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 13 2019 06:08:29 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:08:31 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 13 2019 06:12:02 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:12:03 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 13 2019 06:20:17 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:20:19 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 13 2019 06:24:04 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:24:06 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 13 2019 06:32:40 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:32:41 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 13 2019 06:41:54 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:41:55 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 13 2019 06:49:39 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 06:49:40 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 13 2019 09:34:45 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 09:34:45 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 13 2019 10:41:22 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 13 2019 10:41:23 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 01:53:56 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 01:53:57 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 05:02:59 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 05:02:59 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 05:04:17 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 05:04:18 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 05:07:01 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 05:07:03 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 06:02:01 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 06:02:04 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 02:00:00 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 02:00:01 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 02:26:33 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 02:26:34 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 02:29:14 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 02:29:16 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 04:11:39 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 04:11:40 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 06:18:54 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 06:18:56 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 06:29:28 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 06:29:29 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 07:04:22 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 07:04:22 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 14 2019 08:39:09 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 14 2019 08:39:11 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 15 2019 02:30:00 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 02:30:00 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 15 2019 03:34:48 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 03:34:48 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 15 2019 03:42:20 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 03:42:23 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 15 2019 04:08:51 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 04:08:55 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 15 2019 02:12:05 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 02:12:06 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 15 2019 03:34:07 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 03:34:11 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 15 2019 03:37:05 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 03:37:06 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 15 2019 07:15:07 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 07:15:09 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 15 2019 08:18:21 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 08:18:22 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 15 2019 10:24:54 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 10:24:56 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 15 2019 11:44:30 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 15 2019 11:44:31 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 16 2019 07:20:36 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 07:20:38 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 16 2019 05:51:02 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 05:51:03 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 16 2019 06:10:09 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:10:10 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 16 2019 06:22:36 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:22:37 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 16 2019 06:42:59 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:43:00 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 16 2019 06:57:57 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 06:58:02 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 16 2019 07:11:44 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 07:11:46 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 16 2019 07:31:04 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 16 2019 07:31:05 PM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 17 2019 01:15:15 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 01:15:15 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 17 2019 04:49:45 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 04:49:46 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 17 2019 04:54:15 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 04:54:17 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 17 2019 05:05:42 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 05:05:42 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 17 2019 06:30:18 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 06:30:19 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 17 2019 07:51:50 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 07:51:50 AM', 'soldier': 39, 'log_info': {'action': 'deposit_wait_start', 'exchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 17 2019 02:58:03 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 02:58:05 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 17 2019 03:00:06 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:00:06 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 17 2019 03:11:46 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:11:46 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 17 2019 03:18:10 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:18:11 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 17 2019 03:20:53 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 03:20:54 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 17 2019 05:44:52 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 17 2019 05:44:52 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 18 2019 04:25:36 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 04:25:36 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 18 2019 04:36:54 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 04:36:55 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 18 2019 05:31:53 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 05:31:54 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 18 2019 07:14:00 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 07:14:00 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 18 2019 10:23:00 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 10:23:01 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 18 2019 10:37:41 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 10:37:42 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 18 2019 10:54:32 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 10:54:33 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 18 2019 11:16:06 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 11:16:07 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 18 2019 11:30:02 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 18 2019 11:30:02 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 12:33:01 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 12:33:01 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 12:35:28 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 12:35:28 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 01:02:38 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 01:02:38 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 01:45:53 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 01:45:54 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 03:38:56 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 03:38:57 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 04:17:53 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 04:17:54 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 04:44:56 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 04:44:56 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 04:47:25 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 04:47:25 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 04:50:48 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 04:50:48 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 05:05:25 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 05:05:25 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 05:46:28 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 05:46:28 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 06:46:37 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 06:46:38 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 05:20:41 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 05:20:41 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 05:36:42 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 05:36:42 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 08:04:01 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 08:04:02 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 19 2019 08:19:06 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 19 2019 08:19:07 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 20 2019 05:23:11 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 20 2019 05:23:11 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 20 2019 03:05:06 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 20 2019 03:05:06 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 20 2019 08:20:37 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 20 2019 08:20:37 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 21 2019 01:15:45 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 21 2019 01:15:45 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 21 2019 11:40:00 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 21 2019 11:40:01 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 22 2019 01:03:25 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 22 2019 01:03:25 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 24 2019 04:30:06 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 24 2019 04:30:07 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 24 2019 04:33:45 AM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 24 2019 04:33:45 AM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 25 2019 09:52:04 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 25 2019 09:52:05 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
+{'timestamp': 'Dec 25 2019 10:14:14 PM', 'soldier': 39, 'log_info': {'action': 'arbitrage_initialized'}}
+{'timestamp': 'Dec 25 2019 10:14:14 PM', 'soldier': 39, 'log_info': {'action': 'withdraw_start', 'sendexchange': 'crex24', 'getexchange': 'livecoin', 'currency': 'WTP'}}
